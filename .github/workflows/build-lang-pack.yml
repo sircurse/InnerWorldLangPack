@@ -1,0 +1,81 @@
+name: Build Inner Languages Pack
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate version
+        id: version
+        run: |
+          COMMIT_COUNT=$(git rev-list --count HEAD)
+          PATCH=$((COMMIT_COUNT - 1))
+
+          if [ "$PATCH" -lt 0 ]; then
+            PATCH=0
+          fi
+
+          VERSION="1.0.${PATCH}"
+
+          echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "tag=v${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "file=Inner_Languages.zip" >> "$GITHUB_OUTPUT"
+
+      - name: Update manifest for release
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+
+          python3 << 'PY'
+          import json
+          import os
+
+          version = os.environ["VERSION"]
+          major, minor, patch = [int(x) for x in version.split(".")]
+
+          manifest_path = "Inner_Languages/manifest.json"
+
+          with open(manifest_path, "r", encoding="utf-8") as f:
+              manifest = json.load(f)
+
+          manifest["header"]["name"] = "§a§lInner Languages"
+          manifest["header"]["version"] = [major, minor, patch]
+
+          for module in manifest.get("modules", []):
+              module["version"] = [major, minor, patch]
+
+          with open(manifest_path, "w", encoding="utf-8") as f:
+              json.dump(manifest, f, indent=4, ensure_ascii=False)
+              f.write("\n")
+          PY
+        env:
+          VERSION: ${{ steps.version.outputs.version }}
+
+      - name: Build zip
+        run: |
+          cd Inner_Languages
+          zip -r "../${{ steps.version.outputs.file }}" . \
+            -x "*.git*" \
+            -x "*.github*"
+
+      - name: Create GitHub release
+        run: |
+          gh release create "${{ steps.version.outputs.tag }}" \
+            "${{ steps.version.outputs.file }}" \
+            --title "Inner Languages ${{ steps.version.outputs.version }}" \
+            --notes "Automatically generated language pack from commit ${{ github.sha }}."
+        env:
+          GH_TOKEN: ${{ github.token }}

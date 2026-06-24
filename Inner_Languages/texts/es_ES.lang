@@ -1,0 +1,3085 @@
+﻿###################
+## CUSTOM BLOCKS ##
+###################
+
+tile.awp:black_concrete_stairs_00.name=Black Concrete Stairs 00
+tile.awp:blue_concrete_stairs_00.name=Blue Concrete Stairs 00
+tile.awp:blue_concrete_stairs_01.name=Blue Concrete Stairs 01
+tile.awp:blue_concrete_stairs_02.name=Blue Concrete Stairs 02
+tile.awp:blue_concrete_stairs_03.name=Blue Concrete Stairs 03
+tile.awp:blue_concrete_stairs_04.name=Blue Concrete Stairs 04
+tile.awp:blue_concrete_stairs_05.name=Blue Concrete Stairs 05
+tile.awp:blue_concrete_stairs_06.name=Blue Concrete Stairs 06
+tile.awp:blue_concrete_stairs_07.name=Blue Concrete Stairs 07
+tile.awp:blue_concrete_stairs_08.name=Blue Concrete Stairs 08
+tile.awp:blue_concrete_stairs_09.name=Blue Concrete Stairs 09
+tile.awp:blue_concrete_stairs_10.name=Blue Concrete Stairs 10
+tile.awp:blue_concrete_stairs_11.name=Blue Concrete Stairs 11
+tile.awp:blue_concrete_stairs_12.name=Blue Concrete Stairs 12
+tile.awp:blue_concrete_stairs_13.name=Blue Concrete Stairs 13
+tile.awp:blue_concrete_stairs_14.name=Blue Concrete Stairs 14
+tile.awp:blue_concrete_stairs_15.name=Blue Concrete Stairs 15
+tile.awp:brown_concrete_stairs_00.name=Brown Concrete Stairs 00
+tile.awp:brown_concrete_stairs_01.name=Brown Concrete Stairs 01
+tile.awp:brown_concrete_stairs_02.name=Brown Concrete Stairs 02
+tile.awp:brown_concrete_stairs_03.name=Brown Concrete Stairs 03
+tile.awp:brown_concrete_stairs_04.name=Brown Concrete Stairs 04
+tile.awp:brown_concrete_stairs_05.name=Brown Concrete Stairs 05
+tile.awp:brown_concrete_stairs_06.name=Brown Concrete Stairs 06
+tile.awp:brown_concrete_stairs_07.name=Brown Concrete Stairs 07
+tile.awp:brown_concrete_stairs_08.name=Brown Concrete Stairs 08
+tile.awp:brown_concrete_stairs_09.name=Brown Concrete Stairs 09
+tile.awp:brown_concrete_stairs_10.name=Brown Concrete Stairs 10
+tile.awp:brown_concrete_stairs_11.name=Brown Concrete Stairs 11
+tile.awp:brown_concrete_stairs_12.name=Brown Concrete Stairs 12
+tile.awp:brown_concrete_stairs_13.name=Brown Concrete Stairs 13
+tile.awp:brown_concrete_stairs_14.name=Brown Concrete Stairs 14
+tile.awp:brown_concrete_stairs_15.name=Brown Concrete Stairs 15
+tile.awp:cyan_concrete_stairs_00.name=Cyan Concrete Stairs 00
+tile.awp:cyan_concrete_stairs_01.name=Cyan Concrete Stairs 01
+tile.awp:cyan_concrete_stairs_02.name=Cyan Concrete Stairs 02
+tile.awp:cyan_concrete_stairs_03.name=Cyan Concrete Stairs 03
+tile.awp:cyan_concrete_stairs_04.name=Cyan Concrete Stairs 04
+tile.awp:cyan_concrete_stairs_05.name=Cyan Concrete Stairs 05
+tile.awp:cyan_concrete_stairs_06.name=Cyan Concrete Stairs 06
+tile.awp:cyan_concrete_stairs_07.name=Cyan Concrete Stairs 07
+tile.awp:cyan_concrete_stairs_08.name=Cyan Concrete Stairs 08
+tile.awp:cyan_concrete_stairs_09.name=Cyan Concrete Stairs 09
+tile.awp:cyan_concrete_stairs_10.name=Cyan Concrete Stairs 10
+tile.awp:cyan_concrete_stairs_11.name=Cyan Concrete Stairs 11
+tile.awp:cyan_concrete_stairs_12.name=Cyan Concrete Stairs 12
+tile.awp:cyan_concrete_stairs_13.name=Cyan Concrete Stairs 13
+tile.awp:cyan_concrete_stairs_14.name=Cyan Concrete Stairs 14
+tile.awp:cyan_concrete_stairs_15.name=Cyan Concrete Stairs 15
+tile.awp:gray_concrete_stairs_00.name=Gray Concrete Stairs 00
+tile.awp:gray_concrete_stairs_01.name=Gray Concrete Stairs 01
+tile.awp:gray_concrete_stairs_02.name=Gray Concrete Stairs 02
+tile.awp:gray_concrete_stairs_03.name=Gray Concrete Stairs 03
+tile.awp:gray_concrete_stairs_04.name=Gray Concrete Stairs 04
+tile.awp:gray_concrete_stairs_05.name=Gray Concrete Stairs 05
+tile.awp:gray_concrete_stairs_06.name=Gray Concrete Stairs 06
+tile.awp:gray_concrete_stairs_07.name=Gray Concrete Stairs 07
+tile.awp:gray_concrete_stairs_08.name=Gray Concrete Stairs 08
+tile.awp:gray_concrete_stairs_09.name=Gray Concrete Stairs 09
+tile.awp:gray_concrete_stairs_10.name=Gray Concrete Stairs 10
+tile.awp:gray_concrete_stairs_11.name=Gray Concrete Stairs 11
+tile.awp:gray_concrete_stairs_12.name=Gray Concrete Stairs 12
+tile.awp:gray_concrete_stairs_13.name=Gray Concrete Stairs 13
+tile.awp:gray_concrete_stairs_14.name=Gray Concrete Stairs 14
+tile.awp:gray_concrete_stairs_15.name=Gray Concrete Stairs 15
+tile.awp:green_concrete_stairs_00.name=Green Concrete Stairs 00
+tile.awp:green_concrete_stairs_01.name=Green Concrete Stairs 01
+tile.awp:green_concrete_stairs_02.name=Green Concrete Stairs 02
+tile.awp:green_concrete_stairs_03.name=Green Concrete Stairs 03
+tile.awp:green_concrete_stairs_04.name=Green Concrete Stairs 04
+tile.awp:green_concrete_stairs_05.name=Green Concrete Stairs 05
+tile.awp:green_concrete_stairs_06.name=Green Concrete Stairs 06
+tile.awp:green_concrete_stairs_07.name=Green Concrete Stairs 07
+tile.awp:green_concrete_stairs_08.name=Green Concrete Stairs 08
+tile.awp:green_concrete_stairs_09.name=Green Concrete Stairs 09
+tile.awp:green_concrete_stairs_10.name=Green Concrete Stairs 10
+tile.awp:green_concrete_stairs_11.name=Green Concrete Stairs 11
+tile.awp:green_concrete_stairs_12.name=Green Concrete Stairs 12
+tile.awp:green_concrete_stairs_13.name=Green Concrete Stairs 13
+tile.awp:green_concrete_stairs_14.name=Green Concrete Stairs 14
+tile.awp:green_concrete_stairs_15.name=Green Concrete Stairs 15
+tile.awp:purple_concrete_stairs_00.name=Purple Concrete Stairs 00
+tile.awp:purple_concrete_stairs_01.name=Purple Concrete Stairs 01
+tile.awp:purple_concrete_stairs_02.name=Purple Concrete Stairs 02
+tile.awp:purple_concrete_stairs_03.name=Purple Concrete Stairs 03
+tile.awp:purple_concrete_stairs_04.name=Purple Concrete Stairs 04
+tile.awp:purple_concrete_stairs_05.name=Purple Concrete Stairs 05
+tile.awp:purple_concrete_stairs_06.name=Purple Concrete Stairs 06
+tile.awp:purple_concrete_stairs_07.name=Purple Concrete Stairs 07
+tile.awp:purple_concrete_stairs_08.name=Purple Concrete Stairs 08
+tile.awp:purple_concrete_stairs_09.name=Purple Concrete Stairs 09
+tile.awp:purple_concrete_stairs_10.name=Purple Concrete Stairs 10
+tile.awp:purple_concrete_stairs_11.name=Purple Concrete Stairs 11
+tile.awp:purple_concrete_stairs_12.name=Purple Concrete Stairs 12
+tile.awp:purple_concrete_stairs_13.name=Purple Concrete Stairs 13
+tile.awp:purple_concrete_stairs_14.name=Purple Concrete Stairs 14
+tile.awp:purple_concrete_stairs_15.name=Purple Concrete Stairs 15
+tile.awp:red_concrete_stairs_00.name=Red Concrete Stairs 00
+tile.awp:red_concrete_stairs_01.name=Red Concrete Stairs 01
+tile.awp:red_concrete_stairs_02.name=Red Concrete Stairs 02
+tile.awp:red_concrete_stairs_03.name=Red Concrete Stairs 03
+tile.awp:red_concrete_stairs_04.name=Red Concrete Stairs 04
+tile.awp:red_concrete_stairs_05.name=Red Concrete Stairs 05
+tile.awp:red_concrete_stairs_06.name=Red Concrete Stairs 06
+tile.awp:red_concrete_stairs_07.name=Red Concrete Stairs 07
+tile.awp:red_concrete_stairs_08.name=Red Concrete Stairs 08
+tile.awp:red_concrete_stairs_09.name=Red Concrete Stairs 09
+tile.awp:red_concrete_stairs_10.name=Red Concrete Stairs 10
+tile.awp:red_concrete_stairs_11.name=Red Concrete Stairs 11
+tile.awp:red_concrete_stairs_12.name=Red Concrete Stairs 12
+tile.awp:red_concrete_stairs_13.name=Red Concrete Stairs 13
+tile.awp:red_concrete_stairs_14.name=Red Concrete Stairs 14
+tile.awp:red_concrete_stairs_15.name=Red Concrete Stairs 15
+tile.awp:white_concrete_stairs_00.name=White Concrete Stairs 00
+tile.awp:yellow_concrete_stairs_00.name=Yellow Concrete Stairs 00
+tile.awp:yellow_concrete_stairs_01.name=Yellow Concrete Stairs 01
+tile.awp:yellow_concrete_stairs_02.name=Yellow Concrete Stairs 02
+tile.awp:yellow_concrete_stairs_03.name=Yellow Concrete Stairs 03
+tile.awp:yellow_concrete_stairs_04.name=Yellow Concrete Stairs 04
+tile.awp:yellow_concrete_stairs_05.name=Yellow Concrete Stairs 05
+tile.awp:yellow_concrete_stairs_06.name=Yellow Concrete Stairs 06
+tile.awp:yellow_concrete_stairs_07.name=Yellow Concrete Stairs 07
+tile.awp:yellow_concrete_stairs_08.name=Yellow Concrete Stairs 08
+tile.awp:yellow_concrete_stairs_09.name=Yellow Concrete Stairs 09
+tile.awp:yellow_concrete_stairs_10.name=Yellow Concrete Stairs 10
+tile.awp:yellow_concrete_stairs_11.name=Yellow Concrete Stairs 11
+tile.awp:yellow_concrete_stairs_12.name=Yellow Concrete Stairs 12
+tile.awp:yellow_concrete_stairs_13.name=Yellow Concrete Stairs 13
+tile.awp:yellow_concrete_stairs_14.name=Yellow Concrete Stairs 14
+tile.awp:yellow_concrete_stairs_15.name=Yellow Concrete Stairs 15
+
+tile.awp:black_concrete_00.name=Black Concrete 00
+tile.awp:blue_concrete_00.name=Blue Concrete 00
+tile.awp:blue_concrete_01.name=Blue Concrete 01
+tile.awp:blue_concrete_02.name=Blue Concrete 02
+tile.awp:blue_concrete_03.name=Blue Concrete 03
+tile.awp:blue_concrete_04.name=Blue Concrete 04
+tile.awp:blue_concrete_05.name=Blue Concrete 05
+tile.awp:blue_concrete_06.name=Blue Concrete 06
+tile.awp:blue_concrete_07.name=Blue Concrete 07
+tile.awp:blue_concrete_08.name=Blue Concrete 08
+tile.awp:blue_concrete_09.name=Blue Concrete 09
+tile.awp:blue_concrete_10.name=Blue Concrete 10
+tile.awp:blue_concrete_11.name=Blue Concrete 11
+tile.awp:blue_concrete_12.name=Blue Concrete 12
+tile.awp:blue_concrete_13.name=Blue Concrete 13
+tile.awp:blue_concrete_14.name=Blue Concrete 14
+tile.awp:blue_concrete_15.name=Blue Concrete 15
+tile.awp:brown_concrete_00.name=Brown Concrete 00
+tile.awp:brown_concrete_01.name=Brown Concrete 01
+tile.awp:brown_concrete_02.name=Brown Concrete 02
+tile.awp:brown_concrete_03.name=Brown Concrete 03
+tile.awp:brown_concrete_04.name=Brown Concrete 04
+tile.awp:brown_concrete_05.name=Brown Concrete 05
+tile.awp:brown_concrete_06.name=Brown Concrete 06
+tile.awp:brown_concrete_07.name=Brown Concrete 07
+tile.awp:brown_concrete_08.name=Brown Concrete 08
+tile.awp:brown_concrete_09.name=Brown Concrete 09
+tile.awp:brown_concrete_10.name=Brown Concrete 10
+tile.awp:brown_concrete_11.name=Brown Concrete 11
+tile.awp:brown_concrete_12.name=Brown Concrete 12
+tile.awp:brown_concrete_13.name=Brown Concrete 13
+tile.awp:brown_concrete_14.name=Brown Concrete 14
+tile.awp:brown_concrete_15.name=Brown Concrete 15
+tile.awp:cyan_concrete_00.name=Cyan Concrete 00
+tile.awp:cyan_concrete_01.name=Cyan Concrete 01
+tile.awp:cyan_concrete_02.name=Cyan Concrete 02
+tile.awp:cyan_concrete_03.name=Cyan Concrete 03
+tile.awp:cyan_concrete_04.name=Cyan Concrete 04
+tile.awp:cyan_concrete_05.name=Cyan Concrete 05
+tile.awp:cyan_concrete_06.name=Cyan Concrete 06
+tile.awp:cyan_concrete_07.name=Cyan Concrete 07
+tile.awp:cyan_concrete_08.name=Cyan Concrete 08
+tile.awp:cyan_concrete_09.name=Cyan Concrete 09
+tile.awp:cyan_concrete_10.name=Cyan Concrete 10
+tile.awp:cyan_concrete_11.name=Cyan Concrete 11
+tile.awp:cyan_concrete_12.name=Cyan Concrete 12
+tile.awp:cyan_concrete_13.name=Cyan Concrete 13
+tile.awp:cyan_concrete_14.name=Cyan Concrete 14
+tile.awp:cyan_concrete_15.name=Cyan Concrete 15
+tile.awp:gray_concrete_00.name=Gray Concrete 00
+tile.awp:gray_concrete_01.name=Gray Concrete 01
+tile.awp:gray_concrete_02.name=Gray Concrete 02
+tile.awp:gray_concrete_03.name=Gray Concrete 03
+tile.awp:gray_concrete_04.name=Gray Concrete 04
+tile.awp:gray_concrete_05.name=Gray Concrete 05
+tile.awp:gray_concrete_06.name=Gray Concrete 06
+tile.awp:gray_concrete_07.name=Gray Concrete 07
+tile.awp:gray_concrete_08.name=Gray Concrete 08
+tile.awp:gray_concrete_09.name=Gray Concrete 09
+tile.awp:gray_concrete_10.name=Gray Concrete 10
+tile.awp:gray_concrete_11.name=Gray Concrete 11
+tile.awp:gray_concrete_12.name=Gray Concrete 12
+tile.awp:gray_concrete_13.name=Gray Concrete 13
+tile.awp:gray_concrete_14.name=Gray Concrete 14
+tile.awp:gray_concrete_15.name=Gray Concrete 15
+tile.awp:green_concrete_00.name=Green Concrete 00
+tile.awp:green_concrete_01.name=Green Concrete 01
+tile.awp:green_concrete_02.name=Green Concrete 02
+tile.awp:green_concrete_03.name=Green Concrete 03
+tile.awp:green_concrete_04.name=Green Concrete 04
+tile.awp:green_concrete_05.name=Green Concrete 05
+tile.awp:green_concrete_06.name=Green Concrete 06
+tile.awp:green_concrete_07.name=Green Concrete 07
+tile.awp:green_concrete_08.name=Green Concrete 08
+tile.awp:green_concrete_09.name=Green Concrete 09
+tile.awp:green_concrete_10.name=Green Concrete 10
+tile.awp:green_concrete_11.name=Green Concrete 11
+tile.awp:green_concrete_12.name=Green Concrete 12
+tile.awp:green_concrete_13.name=Green Concrete 13
+tile.awp:green_concrete_14.name=Green Concrete 14
+tile.awp:green_concrete_15.name=Green Concrete 15
+tile.awp:purple_concrete_00.name=Purple Concrete 00
+tile.awp:purple_concrete_01.name=Purple Concrete 01
+tile.awp:purple_concrete_02.name=Purple Concrete 02
+tile.awp:purple_concrete_03.name=Purple Concrete 03
+tile.awp:purple_concrete_04.name=Purple Concrete 04
+tile.awp:purple_concrete_05.name=Purple Concrete 05
+tile.awp:purple_concrete_06.name=Purple Concrete 06
+tile.awp:purple_concrete_07.name=Purple Concrete 07
+tile.awp:purple_concrete_08.name=Purple Concrete 08
+tile.awp:purple_concrete_09.name=Purple Concrete 09
+tile.awp:purple_concrete_10.name=Purple Concrete 10
+tile.awp:purple_concrete_11.name=Purple Concrete 11
+tile.awp:purple_concrete_12.name=Purple Concrete 12
+tile.awp:purple_concrete_13.name=Purple Concrete 13
+tile.awp:purple_concrete_14.name=Purple Concrete 14
+tile.awp:purple_concrete_15.name=Purple Concrete 15
+tile.awp:red_concrete_00.name=Red Concrete 00
+tile.awp:red_concrete_01.name=Red Concrete 01
+tile.awp:red_concrete_02.name=Red Concrete 02
+tile.awp:red_concrete_03.name=Red Concrete 03
+tile.awp:red_concrete_04.name=Red Concrete 04
+tile.awp:red_concrete_05.name=Red Concrete 05
+tile.awp:red_concrete_06.name=Red Concrete 06
+tile.awp:red_concrete_07.name=Red Concrete 07
+tile.awp:red_concrete_08.name=Red Concrete 08
+tile.awp:red_concrete_09.name=Red Concrete 09
+tile.awp:red_concrete_10.name=Red Concrete 10
+tile.awp:red_concrete_11.name=Red Concrete 11
+tile.awp:red_concrete_12.name=Red Concrete 12
+tile.awp:red_concrete_13.name=Red Concrete 13
+tile.awp:red_concrete_14.name=Red Concrete 14
+tile.awp:red_concrete_15.name=Red Concrete 15
+tile.awp:white_concrete_00.name=White Concrete 00
+tile.awp:yellow_concrete_00.name=Yellow Concrete 00
+tile.awp:yellow_concrete_01.name=Yellow Concrete 01
+tile.awp:yellow_concrete_02.name=Yellow Concrete 02
+tile.awp:yellow_concrete_03.name=Yellow Concrete 03
+tile.awp:yellow_concrete_04.name=Yellow Concrete 04
+tile.awp:yellow_concrete_05.name=Yellow Concrete 05
+tile.awp:yellow_concrete_06.name=Yellow Concrete 06
+tile.awp:yellow_concrete_07.name=Yellow Concrete 07
+tile.awp:yellow_concrete_08.name=Yellow Concrete 08
+tile.awp:yellow_concrete_09.name=Yellow Concrete 09
+tile.awp:yellow_concrete_10.name=Yellow Concrete 10
+tile.awp:yellow_concrete_11.name=Yellow Concrete 11
+tile.awp:yellow_concrete_12.name=Yellow Concrete 12
+tile.awp:yellow_concrete_13.name=Yellow Concrete 13
+tile.awp:yellow_concrete_14.name=Yellow Concrete 14
+tile.awp:yellow_concrete_15.name=Yellow Concrete 15
+
+tile.awp:black_concrete_slab_00.name=Black Concrete Slab 00
+tile.awp:blue_concrete_slab_00.name=Blue Concrete Slab 00
+tile.awp:blue_concrete_slab_01.name=Blue Concrete Slab 01
+tile.awp:blue_concrete_slab_02.name=Blue Concrete Slab 02
+tile.awp:blue_concrete_slab_03.name=Blue Concrete Slab 03
+tile.awp:blue_concrete_slab_04.name=Blue Concrete Slab 04
+tile.awp:blue_concrete_slab_05.name=Blue Concrete Slab 05
+tile.awp:blue_concrete_slab_06.name=Blue Concrete Slab 06
+tile.awp:blue_concrete_slab_07.name=Blue Concrete Slab 07
+tile.awp:blue_concrete_slab_08.name=Blue Concrete Slab 08
+tile.awp:blue_concrete_slab_09.name=Blue Concrete Slab 09
+tile.awp:blue_concrete_slab_10.name=Blue Concrete Slab 10
+tile.awp:blue_concrete_slab_11.name=Blue Concrete Slab 11
+tile.awp:blue_concrete_slab_12.name=Blue Concrete Slab 12
+tile.awp:blue_concrete_slab_13.name=Blue Concrete Slab 13
+tile.awp:blue_concrete_slab_14.name=Blue Concrete Slab 14
+tile.awp:blue_concrete_slab_15.name=Blue Concrete Slab 15
+tile.awp:brown_concrete_slab_00.name=Brown Concrete Slab 00
+tile.awp:brown_concrete_slab_01.name=Brown Concrete Slab 01
+tile.awp:brown_concrete_slab_02.name=Brown Concrete Slab 02
+tile.awp:brown_concrete_slab_03.name=Brown Concrete Slab 03
+tile.awp:brown_concrete_slab_04.name=Brown Concrete Slab 04
+tile.awp:brown_concrete_slab_05.name=Brown Concrete Slab 05
+tile.awp:brown_concrete_slab_06.name=Brown Concrete Slab 06
+tile.awp:brown_concrete_slab_07.name=Brown Concrete Slab 07
+tile.awp:brown_concrete_slab_08.name=Brown Concrete Slab 08
+tile.awp:brown_concrete_slab_09.name=Brown Concrete Slab 09
+tile.awp:brown_concrete_slab_10.name=Brown Concrete Slab 10
+tile.awp:brown_concrete_slab_11.name=Brown Concrete Slab 11
+tile.awp:brown_concrete_slab_12.name=Brown Concrete Slab 12
+tile.awp:brown_concrete_slab_13.name=Brown Concrete Slab 13
+tile.awp:brown_concrete_slab_14.name=Brown Concrete Slab 14
+tile.awp:brown_concrete_slab_15.name=Brown Concrete Slab 15
+tile.awp:cyan_concrete_slab_00.name=Cyan Concrete Slab 00
+tile.awp:cyan_concrete_slab_01.name=Cyan Concrete Slab 01
+tile.awp:cyan_concrete_slab_02.name=Cyan Concrete Slab 02
+tile.awp:cyan_concrete_slab_03.name=Cyan Concrete Slab 03
+tile.awp:cyan_concrete_slab_04.name=Cyan Concrete Slab 04
+tile.awp:cyan_concrete_slab_05.name=Cyan Concrete Slab 05
+tile.awp:cyan_concrete_slab_06.name=Cyan Concrete Slab 06
+tile.awp:cyan_concrete_slab_07.name=Cyan Concrete Slab 07
+tile.awp:cyan_concrete_slab_08.name=Cyan Concrete Slab 08
+tile.awp:cyan_concrete_slab_09.name=Cyan Concrete Slab 09
+tile.awp:cyan_concrete_slab_10.name=Cyan Concrete Slab 10
+tile.awp:cyan_concrete_slab_11.name=Cyan Concrete Slab 11
+tile.awp:cyan_concrete_slab_12.name=Cyan Concrete Slab 12
+tile.awp:cyan_concrete_slab_13.name=Cyan Concrete Slab 13
+tile.awp:cyan_concrete_slab_14.name=Cyan Concrete Slab 14
+tile.awp:cyan_concrete_slab_15.name=Cyan Concrete Slab 15
+tile.awp:gray_concrete_slab_00.name=Gray Concrete Slab 00
+tile.awp:gray_concrete_slab_01.name=Gray Concrete Slab 01
+tile.awp:gray_concrete_slab_02.name=Gray Concrete Slab 02
+tile.awp:gray_concrete_slab_03.name=Gray Concrete Slab 03
+tile.awp:gray_concrete_slab_04.name=Gray Concrete Slab 04
+tile.awp:gray_concrete_slab_05.name=Gray Concrete Slab 05
+tile.awp:gray_concrete_slab_06.name=Gray Concrete Slab 06
+tile.awp:gray_concrete_slab_07.name=Gray Concrete Slab 07
+tile.awp:gray_concrete_slab_08.name=Gray Concrete Slab 08
+tile.awp:gray_concrete_slab_09.name=Gray Concrete Slab 09
+tile.awp:gray_concrete_slab_10.name=Gray Concrete Slab 10
+tile.awp:gray_concrete_slab_11.name=Gray Concrete Slab 11
+tile.awp:gray_concrete_slab_12.name=Gray Concrete Slab 12
+tile.awp:gray_concrete_slab_13.name=Gray Concrete Slab 13
+tile.awp:gray_concrete_slab_14.name=Gray Concrete Slab 14
+tile.awp:gray_concrete_slab_15.name=Gray Concrete Slab 15
+tile.awp:green_concrete_slab_00.name=Green Concrete Slab 00
+tile.awp:green_concrete_slab_01.name=Green Concrete Slab 01
+tile.awp:green_concrete_slab_02.name=Green Concrete Slab 02
+tile.awp:green_concrete_slab_03.name=Green Concrete Slab 03
+tile.awp:green_concrete_slab_04.name=Green Concrete Slab 04
+tile.awp:green_concrete_slab_05.name=Green Concrete Slab 05
+tile.awp:green_concrete_slab_06.name=Green Concrete Slab 06
+tile.awp:green_concrete_slab_07.name=Green Concrete Slab 07
+tile.awp:green_concrete_slab_08.name=Green Concrete Slab 08
+tile.awp:green_concrete_slab_09.name=Green Concrete Slab 09
+tile.awp:green_concrete_slab_10.name=Green Concrete Slab 10
+tile.awp:green_concrete_slab_11.name=Green Concrete Slab 11
+tile.awp:green_concrete_slab_12.name=Green Concrete Slab 12
+tile.awp:green_concrete_slab_13.name=Green Concrete Slab 13
+tile.awp:green_concrete_slab_14.name=Green Concrete Slab 14
+tile.awp:green_concrete_slab_15.name=Green Concrete Slab 15
+tile.awp:purple_concrete_slab_00.name=Purple Concrete Slab 00
+tile.awp:purple_concrete_slab_01.name=Purple Concrete Slab 01
+tile.awp:purple_concrete_slab_02.name=Purple Concrete Slab 02
+tile.awp:purple_concrete_slab_03.name=Purple Concrete Slab 03
+tile.awp:purple_concrete_slab_04.name=Purple Concrete Slab 04
+tile.awp:purple_concrete_slab_05.name=Purple Concrete Slab 05
+tile.awp:purple_concrete_slab_06.name=Purple Concrete Slab 06
+tile.awp:purple_concrete_slab_07.name=Purple Concrete Slab 07
+tile.awp:purple_concrete_slab_08.name=Purple Concrete Slab 08
+tile.awp:purple_concrete_slab_09.name=Purple Concrete Slab 09
+tile.awp:purple_concrete_slab_10.name=Purple Concrete Slab 10
+tile.awp:purple_concrete_slab_11.name=Purple Concrete Slab 11
+tile.awp:purple_concrete_slab_12.name=Purple Concrete Slab 12
+tile.awp:purple_concrete_slab_13.name=Purple Concrete Slab 13
+tile.awp:purple_concrete_slab_14.name=Purple Concrete Slab 14
+tile.awp:purple_concrete_slab_15.name=Purple Concrete Slab 15
+tile.awp:red_concrete_slab_00.name=Red Concrete Slab 00
+tile.awp:red_concrete_slab_01.name=Red Concrete Slab 01
+tile.awp:red_concrete_slab_02.name=Red Concrete Slab 02
+tile.awp:red_concrete_slab_03.name=Red Concrete Slab 03
+tile.awp:red_concrete_slab_04.name=Red Concrete Slab 04
+tile.awp:red_concrete_slab_05.name=Red Concrete Slab 05
+tile.awp:red_concrete_slab_06.name=Red Concrete Slab 06
+tile.awp:red_concrete_slab_07.name=Red Concrete Slab 07
+tile.awp:red_concrete_slab_08.name=Red Concrete Slab 08
+tile.awp:red_concrete_slab_09.name=Red Concrete Slab 09
+tile.awp:red_concrete_slab_10.name=Red Concrete Slab 10
+tile.awp:red_concrete_slab_11.name=Red Concrete Slab 11
+tile.awp:red_concrete_slab_12.name=Red Concrete Slab 12
+tile.awp:red_concrete_slab_13.name=Red Concrete Slab 13
+tile.awp:red_concrete_slab_14.name=Red Concrete Slab 14
+tile.awp:red_concrete_slab_15.name=Red Concrete Slab 15
+tile.awp:white_concrete_slab_00.name=White Concrete Slab 00
+tile.awp:yellow_concrete_slab_00.name=Yellow Concrete Slab 00
+tile.awp:yellow_concrete_slab_01.name=Yellow Concrete Slab 01
+tile.awp:yellow_concrete_slab_02.name=Yellow Concrete Slab 02
+tile.awp:yellow_concrete_slab_03.name=Yellow Concrete Slab 03
+tile.awp:yellow_concrete_slab_04.name=Yellow Concrete Slab 04
+tile.awp:yellow_concrete_slab_05.name=Yellow Concrete Slab 05
+tile.awp:yellow_concrete_slab_06.name=Yellow Concrete Slab 06
+tile.awp:yellow_concrete_slab_07.name=Yellow Concrete Slab 07
+tile.awp:yellow_concrete_slab_08.name=Yellow Concrete Slab 08
+tile.awp:yellow_concrete_slab_09.name=Yellow Concrete Slab 09
+tile.awp:yellow_concrete_slab_10.name=Yellow Concrete Slab 10
+tile.awp:yellow_concrete_slab_11.name=Yellow Concrete Slab 11
+tile.awp:yellow_concrete_slab_12.name=Yellow Concrete Slab 12
+tile.awp:yellow_concrete_slab_13.name=Yellow Concrete Slab 13
+tile.awp:yellow_concrete_slab_14.name=Yellow Concrete Slab 14
+tile.awp:yellow_concrete_slab_15.name=Yellow Concrete Slab 15
+
+tile.awp:lighting_snow_path_full.name=Snow Path - Lit
+tile.awp:lighting_snow_slab.name=Snow Slab - Lit
+tile.awp:lighting_snow.name=Snow - Lit
+tile.awp:snow_path_full.name=Snow Path
+tile.awp:snow_slab.name=Snow Slab
+tile.awp:snow.name=Snow
+tile.awp:ice.name=Ice
+tile.awp:lighting_ice.name=Ice - Lit
+tile.awp:lighting_packed_ice.name=Packed Ice - Lit
+tile.awp:packed_ice.name=Packed Ice
+
+tile.awp:full_grass.name=Fake Full Grass
+tile.awp:normal_grass.name=Fake Normal Grass
+
+tile.awp:dirt_path_corner.name=Dirt Path
+tile.awp:dirt_path_full.name=Dirt Path
+tile.awp:dirt_path_side.name=Dirt Path
+tile.awp:dirt_path_slab.name=Dirt Path Slab
+tile.awp:dirt_path_small_corner.name=Dirt Path
+tile.awp:dirt_path.name=Dirt Path
+
+tile.awp:cloud.name=Fake Cloud
+tile.awp:lighting_sky.name=Fake Sky
+tile.awp:resistant_moss.name=Fake Moss
+tile.awp:mushroom_block_blue.name=Fake Blue Mush
+tile.awp:mushroom_block_orange.name=Fake Orange Mush
+tile.awp:mushroom_block_pink.name=Fake Pink Mush
+tile.awp:mushroom_block_purple.name=Fake Purple Mush
+tile.awp:mushroom_block_red.name=Fake Red Mush
+tile.awp:mushroom_block_yellow.name=Fake Yellow Mush
+tile.awp:tnt.name=Fake TNT
+
+tile.awp:multiuse_stripped_acacia_wood.name=Multiuse Stripped Acacia Wood
+tile.awp:multiuse_stripped_bamboo_block.name=Multiuse Stripped Bamboo Block
+tile.awp:multiuse_stripped_birch_wood.name=Multiuse Stripped Birch Wood
+tile.awp:multiuse_stripped_cherry_wood.name=Multiuse Stripped Cherry Wood
+tile.awp:multiuse_stripped_crimson_hyphae.name=Multiuse Stripped Crimson Hyphae
+tile.awp:multiuse_stripped_dark_oak_wood.name=Multiuse Stripped Dark Oak Wood
+tile.awp:multiuse_stripped_jungle_wood.name=Multiuse Stripped Jungle Wood
+tile.awp:multiuse_stripped_mangrove_wood.name=Multiuse Stripped Mangrove Wood
+tile.awp:multiuse_stripped_oak_wood.name=Multiuse Stripped Oak Wood
+tile.awp:multiuse_stripped_pale_oak_wood.name=Multiuse Stripped Pale Oak Wood
+tile.awp:multiuse_stripped_spruce_wood.name=Multiuse Stripped Spruce Wood
+tile.awp:multiuse_stripped_warped_hyphae.name=Multiuse Stripped Warped Hyphae
+tile.awp:multiuse_acacia_planks.name=Multiuse Acacia Planks
+tile.awp:multiuse_pale_oak_planks.name=Multiuse Pale Oak Planks
+tile.awp:multiuse_amethyst_cluster_small.name=Multiuse Amethyst Small
+tile.awp:multiuse_amethyst_cluster_medium.name=Multiuse Amethyst Medium
+tile.awp:multiuse_amethyst_cluster_big.name=Multiuse Amethyst Big
+tile.awp:multiuse_andesite.name=Multiuse Andesite
+tile.awp:multiuse_bamboo_mosaic.name=Multiuse Bamboo Mosaic
+tile.awp:multiuse_bamboo_planks.name=Multiuse Bamboo Planks
+tile.awp:multiuse_basalt.name=Multiuse Basalt
+tile.awp:multiuse_birch_planks.name=Multiuse Birch Planks
+tile.awp:multiuse_blackstone.name=Multiuse Blackstone
+tile.awp:multiuse_blue_ice.name=Multiuse Blue Ice
+tile.awp:multiuse_brick_block.name=Multiuse Brick Block
+tile.awp:multiuse_brown_mush.name=Multiuse Brown Mush
+tile.awp:multiuse_cherry_planks.name=Multiuse Cherry Planks
+tile.awp:multiuse_chiseled_polished_blackstone.name=Multiuse Chiseled Polished Blackstone
+tile.awp:multiuse_chiseled_sandstone.name=Multiuse Chiseled Sandstone
+tile.awp:multiuse_chiseled_stonebrick.name=Multiuse Chiseled Stonebrick
+tile.awp:multiuse_cobbled_deepslate.name=Multiuse Cobbled Deepslate
+tile.awp:multiuse_cobblestone.name=Multiuse Cobblestone
+tile.awp:multiuse_cracked_polished_blackstone_bricks.name=Multiuse Cracked Polished Blackstone Bricks
+tile.awp:multiuse_cracked_stonebrick.name=Multiuse Cracked Stonebrick
+tile.awp:multiuse_crimson_planks.name=Multiuse Crimson Planks
+tile.awp:multiuse_cut_sandstone.name=Multiuse Cut Sandstone
+tile.awp:multiuse_dark_oak_planks.name=Multiuse Dark Oak Planks
+tile.awp:multiuse_dark_prismarine.name=Multiuse Dark Prismarine
+tile.awp:multiuse_deepslate_bricks.name=Multiuse Deepslate Bricks
+tile.awp:multiuse_deepslate_coal_ore.name=Multiuse Deepslate Coal Ore
+tile.awp:multiuse_deepslate_tiles.name=Multiuse Deepslate Tiles
+tile.awp:multiuse_deepslate.name=Multiuse Deepslate
+tile.awp:multiuse_diorite.name=Multiuse Diorite
+tile.awp:multiuse_dirt.name=Multiuse Dirt
+tile.awp:multiuse_gravel.name=Multiuse Gravel
+tile.awp:multiuse_jungle_planks.name=Multiuse Jungle Planks
+tile.awp:multiuse_mangrove_planks.name=Multiuse Mangrove Planks
+tile.awp:multiuse_mossy_cobblestone.name=Multiuse Mossy Cobblestone
+tile.awp:multiuse_mossy_stonebrick.name=Multiuse Mossy Stonebrick
+tile.awp:multiuse_mud_bricks.name=Multiuse Mud Bricks
+tile.awp:multiuse_mud.name=Multiuse Mud
+tile.awp:multiuse_nether_brick_block.name=Multiuse Nether Brick Block
+tile.awp:multiuse_nether_wart_block.name=Multiuse Nether Wart Block
+tile.awp:multiuse_netherrack.name=Multiuse Netherrack
+tile.awp:multiuse_normal_mush.name=Multiuse Normal Mush
+tile.awp:multiuse_oak_planks.name=Multiuse Oak Planks
+tile.awp:multiuse_obsidian.name=Multiuse Obsidian
+tile.awp:multiuse_packed_mud.name=Multiuse Packed Mud
+tile.awp:multiuse_polished_andesite.name=Multiuse Polished Andesite
+tile.awp:multiuse_polished_basalt.name=Multiuse Polished Basalt
+tile.awp:multiuse_polished_blackstone_bricks.name=Multiuse Polished Blackstone Bricks
+tile.awp:multiuse_polished_blackstone.name=Multiuse Polished Blackstone
+tile.awp:multiuse_polished_deepslate.name=Multiuse Polished Deepslate
+tile.awp:multiuse_polished_diorite.name=Multiuse Polished Diorite
+tile.awp:multiuse_prismarine_bricks.name=Multiuse Prismarine Bricks
+tile.awp:multiuse_prismarine.name=Multiuse Prismarine
+tile.awp:multiuse_red_sand.name=Multiuse Red Sand
+tile.awp:multiuse_reinforced_deepslate.name=Multiuse Reinforced Deepslate
+tile.awp:multiuse_sand.name=Multiuse Sand
+tile.awp:multiuse_sandstone.name=Multiuse Sandstone
+tile.awp:multiuse_smooth_basalt.name=Multiuse Smooth Basalt
+tile.awp:multiuse_smooth_stone.name=Multiuse Smooth Stone
+tile.awp:multiuse_soul_sand.name=Multiuse Soul Sand
+tile.awp:multiuse_soul_soil.name=Multiuse Soul Soil
+tile.awp:multiuse_spruce_planks.name=Multiuse Spruce Planks
+tile.awp:multiuse_stem_mush.name=Multiuse Stem Mush
+tile.awp:multiuse_stone.name=Multiuse Stone
+tile.awp:multiuse_stonebrick.name=Multiuse Stonebrick
+tile.awp:multiuse_tuff.name=Multiuse Tuff
+tile.awp:multiuse_warped_planks.name=Multiuse Warped Planks
+tile.awp:multiuse_warped_wart_block.name=Multiuse Warped Wart Block
+tile.awp:multiuse_crimson_nylium.name=Multiuse Crimson Nylium Block
+tile.awp:multiuse_mycelium.name=Multiuse Mycelium Block
+tile.awp:multiuse_podzol.name=Multiuse Podzol Block
+tile.awp:multiuse_warped_nylium.name=Multiuse Warped Nylium Block
+tile.awp:multiuse_hardened_clay.name=Multiuse Terracotta Block
+tile.awp:multiuse_black_terracotta.name=Multiuse Black Terracotta Block
+tile.awp:multiuse_blue_terracotta.name=Multiuse Blue Terracotta Block
+tile.awp:multiuse_brown_terracotta.name=Multiuse Brown Terracotta Block
+tile.awp:multiuse_cyan_terracotta.name=Multiuse Cyan Terracotta Block
+tile.awp:multiuse_gray_terracotta.name=Multiuse Gray Terracotta Block
+tile.awp:multiuse_green_terracotta.name=Multiuse Green Terracotta Block
+tile.awp:multiuse_light_blue_terracotta.name=Multiuse Light Blue Terracotta Block
+tile.awp:multiuse_light_gray_terracotta.name=Multiuse Light Gray Terracotta Block
+tile.awp:multiuse_lime_terracotta.name=Multiuse Lime Terracotta Block
+tile.awp:multiuse_magenta_terracotta.name=Multiuse Magenta Terracotta Block
+tile.awp:multiuse_orange_terracotta.name=Multiuse Orange Terracotta Block
+tile.awp:multiuse_pink_terracotta.name=Multiuse Pink Terracotta Block
+tile.awp:multiuse_purple_terracotta.name=Multiuse Purple Terracotta Block
+tile.awp:multiuse_red_terracotta.name=Multiuse Red Terracotta Block
+tile.awp:multiuse_white_terracotta.name=Multiuse White Terracotta Block
+tile.awp:multiuse_yellow_terracotta.name=Multiuse Yellow Terracotta Block
+
+tile.awp:bank_block.name=Trasnfer Terminal
+tile.awp:citizen_block.name=Citizen Block
+tile.awp:constructors_block.name=Contructor Block
+tile.awp:end_portal_wall.name=End Portal Wall
+tile.awp:gomma_block.name=Gomma Block
+tile.awp:inner_bookshelf.name=Inner Bookshelf
+tile.awp:mail_box.name=Mail Box
+tile.awp:mosaic_x2_worldmap.name=World Map x2
+tile.awp:mosaic_x4_worldmap.name=World Map x4
+tile.awp:nether_portal_wall.name=Nether Portal Wall
+tile.awp:oracle_block.name=Oracle Block
+tile.awp:reward_chest.name=Chest Prize
+tile.awp:spawn_point_item.name=Spawn Point
+tile.awp:trash_can.name=Trash Can
+
+tile.awp:behemoth_trophy.name=Behemoth Trophy
+tile.awp:dragon_lord_trophy.name=Dragon Lord Trophy
+tile.awp:dragon_trophy.name=Dragon Trophy
+tile.awp:cyclops_trophy.name=Cyclops Trophy
+tile.awp:minotaur_trophy.name=Minotaur Trophy
+tile.awp:orc_trophy.name=Orc Trophy
+
+tile.awp:custom_iron_bars.name=Static Iron Bars
+
+tile.awp:acacia_hedge.name=Acacia Hedge
+tile.awp:birch_hedge.name=Birch Hedge
+tile.awp:cherry_hedge.name=Cherry Hedge
+tile.awp:crimson_hedge.name=Crimson Hedge
+tile.awp:dark_oak_hedge.name=Dark Oak Hedge
+tile.awp:jungle_hedge.name=Jungle Hedge
+tile.awp:mangrove_hedge.name=Mangrove Hedge
+tile.awp:oak_hedge.name=Oak Hedge
+tile.awp:warped_hedge.name=Warped Hedge
+tile.awp:spruce_hedge.name=Spruce Hedge
+tile.awp:wooden_logs.name=Wooden Logs
+tile.awp:wooden_logs_double.name=Double Wooden Logs
+
+tile.awp:acacia_display_box.name=Acacia Display Box
+tile.awp:birch_display_box.name=Birch Display Box
+tile.awp:cherry_display_box.name=Cherry Display Box
+tile.awp:crimson_display_box.name=Crimson Display Box
+tile.awp:dark_oak_display_box.name=Dark Oak Display Box
+tile.awp:jungle_display_box.name=Jungle Display Box
+tile.awp:mangrove_display_box.name=Mangrove Display Box
+tile.awp:oak_display_box.name=Oak Display Box
+tile.awp:warped_display_box.name=Warped Display Box
+tile.awp:spruce_display_box.name=Spruce Display Box
+
+tile.awp:static_acacia_trapdoor.name=Static Acacia Trapdoor
+tile.awp:static_birch_trapdoor.name=Static Birch Trapdoor
+tile.awp:static_bamboo_trapdoor.name=Static Bamboo Trapdoor
+tile.awp:static_cherry_trapdoor.name=Static Cherry Trapdoor
+tile.awp:static_crimson_trapdoor.name=Static Crimson Trapdoor
+tile.awp:static_dark_oak_trapdoor.name=Static Dark Oak Trapdoor
+tile.awp:static_iron_trapdoor.name=Static Iron Trapdoor
+tile.awp:static_jungle_trapdoor.name=Static Jungle Trapdoor
+tile.awp:static_mangrove_trapdoor.name=Static Mangrove Trapdoor
+tile.awp:static_oak_trapdoor.name=Static Oak Trapdoor
+tile.awp:static_spruce_trapdoor.name=Static Spruce Trapdoor
+tile.awp:static_warped_trapdoor.name=Static Warped Trapdoor
+
+tile.awp:custom_acacia_door.name=Smart Acacia Door
+tile.awp:custom_bamboo_door.name=Smart Bamboo Door
+tile.awp:custom_birch_door.name=Smart Birch Door
+tile.awp:custom_cherry_door.name=Smart Cherry Door
+tile.awp:custom_crimson_door.name=Smart Crimson Door
+tile.awp:custom_dark_oak_door.name=Smart Dark Oak Door
+tile.awp:custom_iron_door.name=Smart Iron Door
+tile.awp:custom_jungle_door.name=Smart Jungle Door
+tile.awp:custom_mangrove_door.name=Smart Mangrove Door
+tile.awp:custom_oak_door.name=Smart Oak Door
+tile.awp:custom_spruce_door.name=Smart Spruce Door
+tile.awp:custom_warped_door.name=Smart Warped Door
+
+
+
+###################
+## CUSTOM ITEMS  ##
+###################
+
+item.awp:brass_helmet=Brass Helmet
+item.awp:crown_helmet=Crown Helmet
+item.awp:crusader_helmet=Crusader Helmet
+item.awp:dark_helmet=Dark Helmet
+item.awp:lightning_headband=Lightning Headband
+item.awp:royal_helmet=Royal Helmet
+item.awp:steel_helmet=Steel Helmet
+item.awp:studded_helmet=Studded Helmet
+item.awp:warrior_helmet=Warrior Helmet
+
+item.awp:blue_robe=Blue Robe
+item.awp:brass_armor=Brass Armor
+item.awp:crown_armor=Crown Armor
+item.awp:dark_armor=Dark Armor
+item.awp:dragon_scale_mail=Dragon Scale Mail
+item.awp:golden_armor=Golden Armor
+item.awp:knight_armor=Knight Armor
+item.awp:lightning_robe=Lightning Robe
+item.awp:plate_armor=Plate Armor
+item.awp:scale_armor=Scale Armor
+item.awp:studded_armor=Studded Armor
+
+item.awp:brass_leggings=Brass Leggings
+item.awp:crown_leggings=Crown Leggings
+item.awp:knight_leggings=Knight Leggings
+item.awp:lightning_leggings=Lightning Leggings
+item.awp:plate_leggings=Plate Leggings
+item.awp:studded_leggings=Studded Leggings
+
+item.awp:boots_of_haste=Boots of Haste
+item.awp:leather_boots=Leather Boots
+item.awp:magma_boots=Magma Boots
+item.awp:steel_boots=Steel Boots
+
+item.awp:battle_axe=Battle Axe
+item.awp:double_axe=Double Axe
+item.awp:dragon_lance=Dragon Lance
+item.awp:dreaded_cleaver=Dreaded Cleaver
+item.awp:fire_axe=Fire Axe
+item.awp:guardian_halberd=Guardian Halberd
+item.awp:halberd=Halberd
+item.awp:hatchet=Hatchet
+item.awp:knight_axe=Knight Axe
+item.awp:noble_axe=Noble Axe
+item.awp:orcish_axe=Orcish Axe
+item.awp:sickle=Sickle
+item.awp:stonecutter_axe=Stonecutter Axe
+item.awp:titan_axe=Titan Axe
+item.awp:war_axe=War Axe
+
+item.awp:battle_hammer=Battle Hammer
+item.awp:dragonbone_staff=Dragonbone Staff
+item.awp:dragon_hammer=Dragon Hammer
+item.awp:mace=Mace
+item.awp:morning_star=Morning Star
+item.awp:skull_staff=Skull Staff
+item.awp:taurus_mace=Taurus Mace
+item.awp:war_hammer=War Hammer
+
+item.awp:wand_of_inferno=Wand of Inferno
+
+item.awp:bloody_edge=Bloody Edge
+item.awp:bright_sword=Bright Sword
+item.awp:dark_sword=Dark Sword
+item.awp:dragon_slayer=Dragon Slayer
+item.awp:fire_sword=Fire Sword
+item.awp:giant_sword=Giant Sword
+item.awp:sword=Sword
+item.awp:longsword=Longsword
+item.awp:saber=Saber
+item.awp:scimitar=Scimitar
+item.awp:serpent_sword=Serpent Sword
+item.awp:two_handed_sword=Two Handed Sword
+
+item.awp:quiver=Carcaj
+item.awp:custom_bow=Bow
+item.awp:elvish_bow=Elvish Bow
+item.awp:silkweaver_bow=Silkweaver Bow
+
+item.awp:burst_arrow=Burst Arrow
+item.awp:crystalline_arrow=Crystalline Arrow
+item.awp:diamond_arrow=Diamond Arrow
+item.awp:flaming_arrow=Flaming Arrow
+item.awp:arrow=Arrow
+item.awp:onyx_arrow=Onyx Arrow
+item.awp:poison_arrow=Poison Arrow
+item.awp:sniper_arrow=Sniper Arrow
+item.awp:tarsal_arrow=Tarsal Arrow
+item.awp:stone=Stone
+
+item.awp:battle_shield=Battle Shield
+item.awp:bonelord_shield=Bonelord Shield
+item.awp:crown_shield=Crown Shield
+item.awp:dark_shield=Dark Shield
+item.awp:demon_shield=Demon Shield
+item.awp:dragon_shield=Dragon Shield
+item.awp:dwarven_shield=Dwarven Shield
+item.awp:guardian_shield=Guardian Shield
+item.awp:plate_shield=Plate Shield
+item.awp:steel_shield=Steel Shield
+item.awp:tower_shield=Tower Shield
+item.awp:wooden_shield=Wooden Shield
+item.awp:spellbook_of_warding=Spellbook of Warding
+
+item.awp:berserk=Hechizo Furia
+item.awp:cancel_invisibility=Cancelar Invisibilidad
+item.awp:challenge=Desafío
+item.awp:conjure_arrow=Conjurar Flecha
+item.awp:conjure_explosive_arrow=Conjurar Flecha Explosiva
+item.awp:conjure_poison_arrow=Conjurar Flecha Venenosa
+item.awp:cure_poison=Cura Veneno
+item.awp:divine_caldera=Caldera Divina
+item.awp:divine_healing=Curación Divina
+item.awp:eternal_winter=Invierno Eterno
+item.awp:firewave=Ola de Fuego
+item.awp:haste=Prisa
+item.awp:hells_core=Núcleo Infernal
+item.awp:ice_strike=Golpe de Hielo
+item.awp:intense_healing=Curación Intensa
+item.awp:invisibility=Invisibilidad
+item.awp:magic_shield=Escudo Mágico
+item.awp:rage=Ira
+item.awp:rage_of_the_skies=Ira de los Cielos
+item.awp:self_healing=Auto Curación
+item.awp:strong_haste=Prisa Fuerte
+item.awp:strong_ice_strike=Golpe de Hielo Fuerte
+item.awp:ultimate_healing=Curación Suprema
+item.awp:ultimate_ice_strike=Golpe de Hielo Supremo
+item.awp:wound_cleansing=Limpieza de Heridas
+item.awp:wrath_of_nature=Ira de la Naturaleza
+item.awp:summon_forest_guardian=Invocar Guardián del Bosque
+
+item.awp:blank_rune_small=Bank Rune
+item.awp:blank_rune_master=Bank Rune Master
+item.awp:fireball_rune=Runa Bola de Fuego
+item.awp:great_fireball_rune=Runa Gran Bola de Fuego
+item.awp:heavy_magic_missile_rune=Runa Proyectil Mágico Pesado
+item.awp:intense_healing_rune=Runa Curación Intensa
+item.awp:sudden_death_rune=Runa Muerte Súbita
+item.awp:ultimate_healing_rune=Runa Curación Suprema
+
+item.awp:copper_key=§vLlave de Cobre
+item.awp:crystal_key=§bLlave de Cristal
+item.awp:death_key=§4Llave de la Muerte
+item.awp:earth_key=§jLlave de la Tierra
+item.awp:golden_key=§6Llave Dorada
+item.awp:magical_key=§uLlave Mágica
+item.awp:mystical_key=§tLlave Mística
+item.awp:silver_key=§hLlave de Plata
+
+item.awp:crowbar=Palanca
+item.awp:letter=Carta
+item.awp:spell_parchment=Papiro de Hechizo
+item.awp:royal_horse_armor=Armadura Real de Caballo
+item.awp:royal_horse_flag=Bandera Real de Caballo
+item.awp:saddlebag=Alforja
+item.awp:tame_lady_bug=Lady Bug Tame
+item.awp:tame_royal_horse=Caballo Real Domesticado
+item.awp:tame_unicorn_live=Corazón Vivo
+item.awp:tame_bulbs=Bulbos Domesticados
+item.awp:bonelord_eye=Ojo del Señor de los Huesos
+item.awp:carrion_worm_fang=Colmillo de Gusano Carroñero
+item.awp:green_dragon_leather=Cuero de Dragón Verde
+item.awp:green_dragon_scale=Escama de Dragón Verde
+item.awp:lady_bug_broken_shell=Caparazón Roto de Lady Bug
+item.awp:minotaur_leather=Cuero de Minotauro
+item.awp:orc_tooth=Diente de Orco
+item.awp:red_dragon_leather=Cuero de Dragón Rojo
+item.awp:red_dragon_scale=Escama de Dragón Rojo
+item.awp:spider_fang=Colmillo de Araña
+item.awp:blue_piece_of_cloth=Trozo de Tela Azul
+item.awp:brown_piece_of_cloth=Trozo de Tela Marrón
+item.awp:cloth_large_beige=Tela Grande Beige
+item.awp:cloth_small_beige=Tela Pequeña Beige
+item.awp:cloth_small_brown=Tela Pequeña Marrón
+item.awp:elven_scissors=Tijeras Élficas
+item.awp:green_piece_of_cloth=Trozo de Tela Verde
+item.awp:green_tunic=Túnica Verde
+item.awp:mystic_turban=Turbante Místico
+item.awp:red_piece_of_cloth=Trozo de Tela Roja
+item.awp:sniper_gloves=Guantes de Francotirador
+item.awp:white_piece_of_cloth=Trozo de Tela Blanca
+item.awp:yellow_piece_of_cloth=Trozo de Tela Amarilla
+item.awp:small_amethyst=Pequeña Amatista
+item.awp:small_diamond=Pequeño Diamante
+item.awp:small_emerald=Pequeña Esmeralda
+item.awp:small_ruby=Pequeño Rubí
+item.awp:small_sapphire=Pequeño Zafiro
+item.awp:small_topaz=Pequeño Topacio
+item.awp:doublexp1h=Doble XP 1H
+item.awp:doublexp2h=Doble XP 2H
+item.awp:doublexp4h=Doble XP 4H
+item.awp:reset_skills=Reiniciar Habilidades
+item.awp:apple=Manzana
+item.awp:baked_potato=Patata Asada
+item.awp:beef=Carne Cruda
+item.awp:beetroot=Remolacha
+item.awp:beetroot_soup=Sopa de Remolacha
+item.awp:bread=Pan
+item.awp:carrot=Zanahoria
+item.awp:cheese=Queso
+item.awp:chicken=Pollo Crudo
+item.awp:cod=Bacalao Crudo
+item.awp:cooked_beef=Bistec
+item.awp:cooked_chicken=Pollo Asado
+item.awp:cooked_cod=Bacalao Asado
+item.awp:cooked_mutton=Cordero Asado
+item.awp:cooked_porkchop=Chuleta de Cerdo Asada
+item.awp:cooked_rabbit=Conejo Asado
+item.awp:cooked_salmon=Salmón Asado
+item.awp:cookie=Galleta
+item.awp:dragon_ham=Jamón de Dragón
+item.awp:enchanted_golden_apple=Manzana Dorada Encantada
+item.awp:glow_berries=Bayas Luminosas
+item.awp:golden_apple=Manzana Dorada
+item.awp:golden_carrot=Zanahoria Dorada
+item.awp:grapes=Uvas
+item.awp:herb_lampshade=Pantalla de Hierbas
+item.awp:melon_slice=Rodaja de Sandía
+item.awp:mushroom_blue=Seta Azul
+item.awp:mushroom_orange=Seta Naranja
+item.awp:mushroom_stew=Estofado de Setas
+item.awp:mushroom_white=Seta Blanca
+item.awp:mushroom_yellow=Seta Amarilla
+item.awp:mutton=Cordero Crudo
+item.awp:pear=Pera
+item.awp:poisonous_potato=Patata Venenosa
+item.awp:porkchop=Chuleta de Cerdo
+item.awp:potato=Patata
+item.awp:pufferfish=Pez Globo
+item.awp:pumpkin_pie=Tarta de Calabaza
+item.awp:rabbit=Conejo Crudo
+item.awp:rabbit_stew=Estofado de Conejo
+item.awp:rotten_flesh=Carne Podrida
+item.awp:salmon=Salmón Crudo
+item.awp:sweet_berries=Bayas Dulces
+item.awp:tropical_fish=Pez Tropical
+item.awp:ankh=Anj
+item.awp:smallbag=Bolsa Pequeña
+item.awp:backpack=Mochila
+item.awp:besta_coin=Moneda de Besta
+item.awp:blank_item=Vacío
+item.awp:broken_sword=Espada Rota
+item.awp:camera=Cámara
+item.awp:crystal_coin=Moneda de Cristal
+item.awp:demonic_skeletal_hand=Mano Esquelética Demoníaca
+item.awp:fur_bear=Piel de Oso
+item.awp:fur_wolf=Piel de Lobo
+item.awp:grave_flower=Flor de Tumba
+item.awp:holy_orchid=Orquídea Sagrada
+item.awp:lyre=Lira
+item.awp:mind_stone=Piedra Mental
+item.awp:money_magic_dust=Polvo Mágico de Dinero
+item.awp:rubbish=Basura
+item.awp:scroll=Pergamino
+item.awp:seed_sprouting=Semilla Germinada
+item.awp:sling_herb=Hierba de Hondita
+item.awp:slingshot=Hondita
+item.awp:small_flask_of_eyedrops=Pequeño Frasco de Colirio
+item.awp:steel_nail=Clavo de Acero
+item.awp:tarantula_egg=Huevo de Tarántula
+item.awp:torn_paper=Papel Roto
+item.awp:unicorn_stone=Corazón Petrificado
+item.awp:waste=Desperdicio
+item.awp:player_book=Libro del Aventurero
+item.awp:moderator_tool=Herramienta de Moderador
+item.awp:spawn_point_item=Spawn Point
+item.awp:great_health_potion=Gran Poción de Vida
+item.awp:great_mana_potion=Gran Poción de Maná
+item.awp:great_spirit_potion=Gran Poción de Espíritu
+item.awp:small_antidote_potion=Antídoto
+item.awp:small_health_potion=Pequeña Poción de Vida
+item.awp:small_mana_potion=Pequeña Poción de Maná
+item.awp:strong_health_potion=Poción de Vida Fuerte
+item.awp:strong_mana_potion=Poción de Maná Fuerte
+item.awp:great_empty_flask=Frasco Grande
+item.awp:small_empty_flask=Frasco Pequeño
+item.awp:strong_empty_flask=Frasco Mediano
+item.awp:axe_ring=Anillo de Hacha
+item.awp:club_ring=Anillo de Maza
+item.awp:dwarven_ring=Anillo Enano
+item.awp:energy_ring=Anillo de Energía
+item.awp:life_ring=Anillo de Vida
+item.awp:might_ring=Anillo de Poder
+item.awp:power_ring=Anillo de Fuerza
+item.awp:ring_of_healing=Anillo de Curación
+item.awp:stealth_ring=Anillo de Sigilo
+item.awp:sword_ring=Anillo de Espada
+item.awp:time_ring=Anillo del Tiempo
+item.awp:platinum_amulet=Amuleto de Platino
+item.awp:anchor_rope=Cuerda de Anclaje
+item.awp:pet_bag=Mochila para Moscota
+
+item.spawn_egg.entity.awp:npc_inner.name=NPC Inner World
+
+
+
+#############################
+## CUSTOM VANILLA MESSAGES ##
+#############################
+
+action.hint.exit.player=Following new target
+action.hint.exit.awp:lady_bug=Pulsa :_input_key.sneak: para desmontar
+action.hint.exit.awp:royal_horse=Pulsa :_input_key.sneak: para desmontar
+action.hint.exit.awp:forest_spirit=Pulsa :_input_key.sneak: para desmontar
+
+
+
+######################################
+## UI LABELS FOR TITLES AND BUTTONS ##
+######################################
+
+ui.label.back=Volver
+ui.label.exit=Salir
+ui.label.creative=Creativo
+ui.label.cities=Ciudads
+ui.label.toggle=On/Off
+ui.label.moderator_tool=Moderación
+ui.label.yes=Sí
+ui.label.no=No
+ui.label.next_page=Página Siguiente
+ui.label.previous_page=Página Anterior
+ui.label.agree=Aceptar
+ui.label.continue=Continuar
+ui.label.to=En
+ui.label.equipped=Equipado
+ui.label.day_night=Día/Noche
+ui.label.clear_sky=Cielo despejado
+ui.label.teleport_to_player=Teletransportarse al jugador
+ui.label.ban_unban=Ban/Unban
+ui.label.get_location=Obtener ubicación
+ui.label.commissioned_services=Servicios comisionados
+ui.label.start_inner_tv_live=Comienza EN VIVO en InnerTV
+ui.label.generate_item=Generar Inner Item
+ui.label.invisible_toggle=Invisible On/Off
+ui.label.moderator_mgmt=Gestión de Moderadores
+ui.label.debug_item=Debug Item
+ui.label.save_load_structures=Guardar/Cargar Estructuras
+ui.label.server_mgmt=Gestion del Server
+ui.label.add_outfit=Add Outfit
+ui.label.voicecraft_mgmt=VoiceCraft Manager
+ui.label.force_server_save=Forzar Server Save
+ui.label.biome_converter=Convertidor de Bioma
+ui.label.new_account=Nueva Cuenta
+ui.label.timezone=Zona Horaria
+ui.label.country=País
+ui.label.confirm=Confirmar
+ui.label.add_permissions=Añadir Permisos
+ui.label.remove_permissions=Eliminar Permisos
+ui.label.players=Jugadores
+ui.label.player_list=Listado de Jugadores
+ui.label.can_interact=Puede Interactuar
+ui.label.can_mount=Puede Montar
+ui.label.can_ride=Puede Cabalgar
+ui.label.can_open_inventory=Puede Abrir Inventario
+ui.label.allowed_players=Jugadores Permitidos
+ui.label.nametag_rename=Cambiar Nametag
+ui.label.npc_config.configure_npc=Configurar NPC
+ui.label.npc_config.name=Nombre
+ui.label.npc_config.name_placeholder=Introduce el nombre del NPC
+ui.label.npc_config.city=Ciudad
+ui.label.npc_config.profession=Profesión
+ui.label.npc_config.handler_id=Handler ID
+ui.label.npc_config.quest_id=ID de Misión
+ui.label.npc_config.skin_index=Índice de Skin
+ui.label.npc_config.geo_id=Geo ID
+ui.label.npc_config.skin_java=¿Skin Java?
+ui.label.npc_config.is_sitting=¿Está sentado?
+ui.label.npc_config.height=Altura
+ui.label.npc_config.width=Anchura
+ui.label.npc_config.welcome_lang_key=Lang Key de bienvenida
+ui.label.npc_config.thanks_lang_key=Lang Key de agradecimiento
+ui.label.npc_config.farewell_lang_key=Lang Key de despedida
+ui.label.npc_config.cancel_lang_key=Lang Key de cancelación
+ui.label.npc_config.interact_button_config=Configurar Botón de Interacción
+ui.label.npc_config.parent_button=Botón Padre
+ui.label.npc_config.button_label=Texto del Botón
+ui.label.npc_config.ui_message=Mensaje de la UI
+ui.label.npc_config.update_task=Actualizar tarea
+ui.label.npc_config.requires_task=Requiere tarea
+ui.label.npc_config.kill_count=Conteo de muertes
+ui.label.npc_config.require_item=Requiere objeto
+ui.label.npc_config.require_money=Requiere dinero
+ui.label.npc_config.is_store=Es Tienda
+ui.label.npc_config.store_confirm_button=Buton de Confirmación Tienda
+ui.label.npc_config.require_cross_quest=Requiere Cross Quest
+ui.label.npc_config.required_failed_msg=Mensaje de fallo del requisito
+ui.label.npc_config.give_item=Dar objeto
+ui.label.npc_config.give_full_prize=Dar premio completo (desactivado aleatorio / activado completo)
+ui.label.npc_config.cross_quest_id=ID de misión cruzada
+ui.label.npc_config.cross_quest_update_task=Actualizar tarea de misión cruzada
+ui.label.npc_config.cross_quest_require_task=Requiere tarea de misión cruzada
+ui.label.npc_config.cross_kill_count=Conteo de muertes cruzado
+ui.label.npc_config.quest_config=Configurar Misión
+ui.label.npc_config.add_new_interaction=Añadir nueva interacción
+ui.label.npc_config.remove_interaction=Eliminar interacción
+ui.label.npc_config.config_root_button=Configurar Raíz
+ui.label.npc_config.empty=vacío
+ui.label.quest=Misión
+ui.label.accept=Aceptar
+ui.label.refuse=Rechazar
+ui.label.complete=Completar
+ui.label.mission_notes=Notas de la misión
+ui.label.task=Tarea
+ui.label.online_players=Jugadores Online
+ui.label.city=Ciudad
+ui.label.map=Mapa
+ui.label.money=Dinero
+ui.label.level=Nivel
+ui.label.magic_level=Nivel Mágico
+ui.label.defense=Defensa
+ui.label.skill_points=Skill Points
+ui.label.mastery_points=Mastery Points
+ui.label.use_skill_points=Usar puntos de Skill
+ui.label.use_mastery_points=Usar puntos de Mastery
+ui.label.unjustified_kills=Bajas Injustificadas
+ui.label.guild_hall=Guild Hall
+ui.label.title=Título
+ui.label.balance=Balance
+ui.label.enemy=Enemigo
+ui.label.kills=Bajas
+ui.label.deaths=Muertes
+ui.label.kd_ratio=B/M
+ui.label.class=Clase
+ui.label.skills=Skills
+ui.label.mastery=Mastery
+ui.label.strength=Fuerza
+ui.label.dexterity=Destreza
+ui.label.constitution=Constitución
+ui.label.intelligence=Inteligencia
+ui.label.wisdom=Sabiduría
+ui.label.charism=Carisma
+ui.label.sword=Espada
+ui.label.axe=Hacha
+ui.label.club=Maza
+ui.label.critical_chance=Ch. Crítica
+ui.label.critical_damage=Dn. Crítica
+ui.label.assign=asignar
+ui.label.assign_skills=Asignar Skills
+ui.label.available_points=Puntos Disponibles
+ui.label.current_skills=Skills Actuales
+ui.label.assign_mastery=Asignar Maestría
+ui.label.current_mastery=Maestría Actual
+ui.label.war_status.in_peace=EN PAZ
+ui.label.war_status.in_war=GUERRA
+ui.label.war_status.threat=AMENAZA
+ui.label.damage=Dano
+ui.label.total=Total
+ui.label.account_type=Tipo de Cuenta
+ui.label.standard=Estándar
+ui.label.premium_end=Premium Hasta
+ui.label.new_character=Crear Nuevo
+ui.label.char_level_uppercase=NIVEL
+ui.label.char_lv_uppercase=NV
+ui.label.in=En
+ui.label.character_manager=Gestión de Personajes
+ui.label.name=Nombre
+ui.label.new_name=Nuevo Nombre
+ui.label.gender=Género
+ui.label.name_max_length=Máximo 20 caracteres
+ui.label.name_min_length=Mínimo 3 caracteres
+ui.label.name_no_numbers=El nombre no puede contener números
+ui.label.name_already_taken=Este nombre ya está siendo utilizado
+ui.label.submit=Enviar
+ui.label.skill_points_uppercase=Puntos de Habilidad
+ui.label.skill_str=Fuerza
+ui.label.skill_dex=Destreza
+ui.label.skill_con=Constitución
+ui.label.skill_int=Inteligencia
+ui.label.skill_wis=Sabiduría
+ui.label.skill_cha=Carisma
+ui.label.connect=Conectar
+ui.label.delete=Eliminar
+ui.label.revert=Revertir
+ui.label.cancel=Cancelar
+ui.label.permissions=Permisos
+ui.label.tamed_permissions=Permisos de Domesticados
+ui.label.add_permissions=Adicionar Permisos
+ui.label.remove_permissions=Eliminar Permisos
+ui.label.edit_permissions=Editar Permisos
+ui.label.adventurer_guide=Guía del Aventurero
+ui.label.profile=Perfil
+ui.label.enchantments=Encantamientos
+ui.label.spells=Hechizos
+ui.label.houses=Casas
+ui.label.mounts=Monturas
+ui.label.pets=Mascotas
+ui.label.guild=Clan
+ui.label.group=Grupo
+ui.label.quests=Misiones
+ui.label.world_map=Mapa del Mundo
+ui.label.money_transfer=Transferencia de dinero
+ui.label.highscores=Top Ranks
+ui.label.rename_nametag=Renombrar etiqueta o Mochila
+ui.label.settings=Configuraciones
+ui.label.disconnect=Desconectar
+ui.label.premium_store=Tienda Premium
+ui.label.enchantments_spells=Encantamientos y Hechizos
+ui.label.mounts_pets=Monturas y Mascotas
+ui.label.return=Volver
+ui.label.wardrobe=Armario
+ui.label.wardrobe_mirror=Espejo
+ui.label.group.new_group=Nuevo grupo
+ui.label.quantity=Cantidad
+ui.label.unit_price=Precio por unidad
+ui.label.premium_store=Tienda Premium
+ui.label.wallet=Billetera
+ui.label.price=Precio
+ui.label.description=Descripción
+ui.label.for=Por
+ui.label.remove_quest=Eliminar Misión
+ui.label.quest_registry=Registro de Misiones
+ui.label.quest_name=Nombre de la Misión
+ui.label.quest_desc=Descripción de la Misión
+ui.label.quest_resolution=Resolución de la Misión
+ui.label.total_tasks=Total de Tareas de la Misión
+ui.label.is_daily=¿Es diaria?
+ui.label.is_weekly=¿Es semanal?
+ui.label.character=Personaje
+ui.label.link_character=Link Personaje
+ui.label.accounts_mgmt=Accounts Management
+
+
+
+#####################
+## SYSTEM MESSAGES ##
+#####################
+
+system.msg.quit=¡Vuelve pronto!
+system.shutdown_warning.warning=§cGuardado diario del servidor en %1 minuto%2. Por favor, desconéctate de forma segura.
+system.shutdown_warning.warning_final=§cEl guardado diario del servidor está comenzando ahora. El servidor volverá en aproximadamente 5 minutos.
+
+system.ban.reason.cheating=Uso de Trampas
+system.ban.reason.bug_abuse=Abuso de Bugs
+system.ban.reason.illegal_farms=Granjas Ilegales
+system.ban.reason.insult=Insulto
+system.ban.reason.racial_insult=Insulto Racial
+system.ban.reason.homophobia=Homofobia
+system.ban.reason.player_killing=Matanza de Jugadores
+system.ban.reason.power_abusing=Abuso de Poder
+system.ban.reason.perma_banned_by=§cHas sido baneado permanentemente por §l%1§r§c. Moderador: %2
+system.ban.reason.perma_banned=§cHas sido baneado permanentemente por §l%1§r§c.
+system.ban.reason.banned_by=§cHas sido baneado por §l%1§r§c días por §l%2§r§c. Moderador: %3
+system.ban.reason.banned=§cHas sido baneado por §l%1§r§c días por §l%2§r§c.
+system.unban.by=§nHas sido desbaneado por %1.
+system.unban=§nHas sido desbaneado.
+
+system.chest_prize.empty=Este cofre está vacío.
+system.chest_prize.found=Encontraste %1 §l§6%2§r!
+system.chest_prize.a=un(a)
+
+system.quest.acquired=§b§o¡Nueva misión adquirida!
+system.quest.updated=§b§o¡Misión actualizada!
+system.quest.removed=§c§o¡Misión eliminada!
+system.quest.no_quests=§cNo tienes misiones en este momento.
+system.quest.reward=¡Has recibido %1 §l§6%2§r!
+system.quest.reward_chest_blocked=§cNo puedes abrir este cofre.
+
+system.quest.kill_count=§o§m    >>> Muertos §l%1 %2§r§o§m de §l%3§r§o§m.
+
+system.link.select_character=Seleccione el personaje utilizado por las integracion %1.
+
+system.inner_tv.stream_started=§dModo de transmisión de InnerTV iniciado.
+system.inner_tv.stream_queued=§dModo de transmisión de InnerTV puesto en cola. Comenzará cuando termine la cámara de canje actual.
+system.inner_tv.stream_already_active=§cInnerTV ya está en modo de transmisión.
+system.inner_tv.redemption_active=§cInnerTV está siguiendo un objetivo de canje en este momento.
+system.inner_tv.offline=§cInnerTV no está en línea.
+system.inner_tv.invalid_target=§cNo puedes iniciar el modo de transmisión de InnerTV ahora.
+
+
+
+
+
+
+
+ui.msg.confirm_release=Liberar?
+
+
+ui.rules_title=REGLAS DEL SERVIDOR
+
+ui.rules_blackbg1=Las reglas de este servidor deben ser respetadas con el máximo rigor para el buen funcionamiento del servidor y la convivencia con otros jugadores.\n\n\n
+ui.rules_blackbg2=§l§c1)§r Estás en un servidor §l§cno Vanilla§r, lo que significa que los recursos del servidor (físico) están dedicados y son exclusivos para estas funcionalidades personalizadas. Por lo tanto, cualquier construcción de granjas que consuman recursos del servidor está prohibida. Construir granjas en lugares privados (casas) o en áreas no protegidas (Outer World, Nether o End) resultará en un período de suspensión. La persistencia puede llevar a la expulsión del jugador.\n\n
+ui.rules_blackbg3=§l§c2)§r No está permitido abusar de debilidades del juego, aprovecharse de fallos o utilizarlos para beneficio propio. Conocer alguna debilidad sin reportarla a los Moderadores/Gamemasters también puede considerarse una infracción.\n\n
+ui.rules_blackbg4=§l§c3)§r No está permitido destruir y/o modificar las construcciones ya realizadas en el servidor. Si deseas hacer algún cambio, contacta con uno de los Moderadores de la ciudad respectiva.\n\n
+ui.rules_blackbg5=§l§c4)§r El asesinato injustificado y masivo de jugadores puede resultar en la suspensión de tu cuenta durante un período determinado. La reincidencia en esta práctica puede llevar a la expulsión del jugador.\n\n
+ui.rules_blackbg6=§l§c5)§r Está prohibido cualquier tipo de insulto, injuria o discurso de odio, lo que puede llevar a la expulsión del jugador.\n\n
+ui.rules_blackbg7=§l§c6)§r Proporcionar información o denuncias falsas a los Moderadores/Gamemasters está prohibido y puede resultar en la suspensión de tu cuenta durante un período determinado.\n\n
+ui.rules_blackbg8=§l§c7)§r Las construcciones en las ciudades deben seguir el tema de la ciudad en cuestión. No seguir el estándar establecido puede resultar en la pérdida de tu casa y/o terreno.\n\n
+ui.rules_blackbg9=§l§c8)§r Intentar o violar las reglas aquí descritas puede llevar a la suspensión temporal del usuario. Los casos graves serán evaluados por el equipo de Moderación/Gamemasters y pueden resultar en la expulsión del jugador.\n\n
+
+ui.rules_whitebg1=§0Las reglas de este servidor deben ser respetadas con el máximo rigor para el buen funcionamiento del servidor y la convivencia con otros jugadores.\n\n\n
+ui.rules_whitebg2=§l§c1)§r§0 Estás en un servidor §l§cno Vanilla§r§0, lo que significa que los recursos del servidor (físico) están dedicados y son exclusivos para estas funcionalidades personalizadas. Por lo tanto, cualquier construcción de granjas que consuman recursos del servidor está prohibida. Construir granjas en lugares privados (casas) o en áreas no protegidas (Outer World, Nether o End) resultará en un período de suspensión. La persistencia puede llevar a la expulsión del jugador.\n\n
+ui.rules_whitebg3=§l§c2)§r§0 No está permitido abusar de debilidades del juego, aprovecharse de fallos o utilizarlos para beneficio propio. Conocer alguna debilidad sin reportarla a los Moderadores/Gamemasters también puede considerarse una infracción.\n\n
+ui.rules_whitebg4=§l§c3)§r§0 No está permitido destruir y/o modificar las construcciones ya realizadas en el servidor. Si deseas hacer algún cambio, contacta con uno de los Moderadores de la ciudad respectiva.\n\n
+ui.rules_whitebg5=§l§c4)§r§0 El asesinato injustificado y masivo de jugadores puede resultar en la suspensión de tu cuenta durante un período determinado. La reincidencia en esta práctica puede llevar a la expulsión del jugador.\n\n
+ui.rules_whitebg6=§l§c5)§r§0 Está prohibido cualquier tipo de insulto, injuria o discurso de odio, lo que puede llevar a la expulsión del jugador.\n\n
+ui.rules_whitebg7=§l§c6)§r§0 Proporcionar información o denuncias falsas a los Moderadores/Gamemasters está prohibido y puede resultar en la suspensión de tu cuenta durante un período determinado.\n\n
+ui.rules_whitebg8=§l§c7)§r§0 Las construcciones en las ciudades deben seguir el tema de la ciudad en cuestión. No seguir el estándar establecido puede resultar en la pérdida de tu casa y/o terreno.\n\n
+ui.rules_whitebg9=§l§c8)§r§0 Intentar o violar las reglas aquí descritas puede llevar a la suspensión temporal del usuario. Los casos graves serán evaluados por el equipo de Moderación/Gamemasters y pueden resultar en la expulsión del jugador.\n\n
+
+ui.welcome_title=Bienvenido a Inner World
+ui.welcome_blackbg1=§r¡Este mundo está lleno de magia, lugares para explorar, misiones y monstruos GIGAAAANTES para cazar!\n\n
+ui.welcome_blackbg2=§n§l<DINERO>§r Para comenzar tu aventura, dirígete al Banco. Allí, puedes obtener una pequeña cantidad de §l§6Besta Coins§r §r(la moneda local) para iniciar tu viaje.\n\n
+ui.welcome_blackbg3=§n§l<EQUIPO>§r ¿Necesitas equipo? El Herrero vende artículos básicos. ¡Pásate por allí!\n\n
+ui.welcome_blackbg4=§n§l<COMIDA & DESCANSO>§r ¿Tienes hambre o necesitas descansar? La Taberna ofrece comida típica de la ciudad y una cama cálida para pasar la noche.§r\n\n
+ui.welcome_blackbg5=§n§l<CIUDADS>§r Bueno... Ahora estás en la ciudad de §l§nBéstamo§r. Hay un total de 7 ciudades, cada una con su propia infraestructura, casas en alquiler, templos para establecer tu punto de aparición y mucho más.\n\n
+ui.welcome_blackbg6=§r§n§lRecuerda: puedes gestionar tu personaje a través del Libro del Jugador, que está en tu inventario!\n\n
+
+ui.motd_title=Noticias del Día
+ui.motd_blackbg1=Grupos y compartición de experiencia: Es muy molesto ir a cazar y que siempre uno u otro jugador se beneficie de toda la XP obtenida, ¿verdad? Aquí puedes crear un grupo y compartir la XP de manera equitativa.
+ui.motd_blackbg2=Bono de experiencia: ¡Aprovecha el bono diario de XP! Todos los días recibirás un aumento del 50%%% en la XP durante 2 horas además de la XP base de las criaturas que derrotes, lo que te facilitará subir de nivel a tu personaje.
+ui.motd_blackbg3=Escudos personalizados: Un gran logro para el servidor, ya que Minecraft no permite crear este tipo de ítems fácilmente. Sin embargo, nuestro sistema de uso de escudos es mucho más completo y complejo, requiriendo que mejores tus habilidades de PVP. Aquí, además de 'agacharte' para defenderte, también necesitarás 'fijarte' en el objetivo del que quieras defenderte.
+ui.motd_blackbg4=Defensa pasiva: Otra característica presente en verdaderos RPG es la defensa pasiva, que construye tu 'resistencia' a los ataques reduciendo el daño. Esta defensa pasiva es posible con cualquier ítem equipable, como armaduras, escudos y armas, que ofrecen un tipo de defensa pasiva (visible al pasar el cursor sobre el ítem). Cuanto mayor sea tu defensa pasiva, más resistencia tendrás a los ataques físicos. Para consultar tu defensa total, ve al Perfil en el Libro del Aventurero.
+ui.motd_blackbg5=Zona de protección: Si estás en peligro, simplemente corre a un área protegida (como templos o bancos). Allí, las criaturas o incluso los jugadores no podrán atacarte.
+ui.motd_blackbg6=\n\n§aSe está desarrollando mucho más! Disfruta y haz tus preguntas en nuestro Discord (discord.innerworld.live)\n\n
+
+
+ui.character_manager_desc=Puedes tener hasta %1 personajes. Cuando elimines alguno de ellos tendrás\nun período de 30 días para revertir la eliminación.
+ui.character_manager_race_desc=La raza no puede cambiarse tras confirmar.\nLa apariencia puede ajustarse después.
+
+ui.msg.delete_warning=§c¿Estás seguro de que deseas eliminar este personaje?§r\n§fCuando se confirme, tendrás un período de 30 días para revertir, después de eso deberás confirmar la eliminación completa.
+ui.msg.revert_warning=§cEste personaje ha sido marcado para eliminación.§r\n§fPuedes revertir la eliminación hasta
+ui.msg.confirm_delete_final=§cEste personaje puede ser eliminado permanentemente, ¿desea §lCONFIRMAR?§r§f\n\nTodavía puedes revertir la eliminación.
+
+ui.text.tamed_permissions_add=Añade permisos por jugador para tus Mascotas y Monturas domesticadas.
+ui.text.tamed_permissions_edit=Edita los permisos de este jugador sobre tus Mascotas y Monturas domesticadas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ui.wardrobe.armor_visibility=§l§jVisibilidad de Armadura
+ui.wardrobe.skin_color=§l§jPiel
+ui.wardrobe.hair_type=§l§jCabello
+ui.wardrobe.hair_color=§l§jColor de Cabello
+ui.wardrobe.eyebrows_type=§l§jCejas
+ui.wardrobe.face_hair=§l§jVello Facial
+ui.wardrobe.eyes_type=§l§jOjos
+ui.wardrobe.eyes_color=§l§jColor de Ojos
+ui.wardrobe.nose_type=§l§jNariz
+ui.wardrobe.mouth_type=§l§jBoca
+ui.wardrobe.scars=§l§jCicatrices
+ui.wardrobe.tattoos=§l§jTatuajes
+ui.wardrobe.outfits=§l§jConjuntos
+
+ui.wardrobe.show_all=§l§jMostrar Todo
+ui.wardrobe.hide_all=§l§cOcultar Todo
+ui.wardrobe.show_helmet=§l§jMostrar Casco
+ui.wardrobe.hide_helmet=§l§cOcultar Casco
+ui.wardrobe.show_chestplate=§l§jMostrar Pechera
+ui.wardrobe.hide_chestplate=§l§cOcultar Pechera
+ui.wardrobe.show_leggings=§l§jMostrar Pantalones
+ui.wardrobe.hide_leggings=§l§cOcultar Pantalones
+ui.wardrobe.show_boots=§l§jMostrar Botas
+ui.wardrobe.hide_boots=§l§cOcultar Botas
+
+ui.wardrobe.outfit_selector=§l§jSeleccionar Conjunto
+ui.wardrobe.chest_color=§l§jColor del Torso y Brazos
+ui.wardrobe.hands_color=§l§jColor de las Manos
+ui.wardrobe.waist_color=§l§jColor del Cinturón
+ui.wardrobe.leggings_color=§l§jColor de las Piernas
+ui.wardrobe.boots_color=§l§jColor de las Botas
+ui.wardrobe.adornment_color=§l§jColor del Adorno
+
+
+ui.text.add_points_text=Elige sabiamente la distribución de puntos, tu elección será irreversible.
+
+
+ui.group.new_group_advise=§fNo estás en ningún grupo. ¿Te gustaría crear un nuevo grupo?
+ui.group.remove_from_group_title=§l§6Eliminar miembro del grupo§r
+ui.group.change_owner_title=§l§6Transferir Liderazgo§r
+ui.group.management=§l§jGestión del Grupo
+ui.group.leader=§l§jLíder
+ui.group.members=§l§jMiembros
+ui.group.owner=§l§jLíder
+ui.group.leave=§l§jSalir del Grupo
+ui.group.invite=§l§jInvitar al Grupo
+ui.group.remove=§l§jEliminar del Grupo
+ui.group.disband=§l§jDisolver el Grupo
+ui.group.change_owner=§l§jTransferir Liderazgo
+ui.group.friend_fire=§l§jFuego Amigo
+ui.group.invite_title=§l§jInvitación de Grupo
+ui.group.invite_to_title=Invitar al Grupo
+ui.group.message.joint_to_group=§j¿Unirte al grupo de §l§n%1§r§j?
+system.group.message.own_leave=Has salido del grupo.
+system.group.message.other_leave=§l§n%1§r salió del grupo.
+system.group.message.disbanded=§cEl grupo ha sido disuelto.
+system.group.message.no_members=§cNo tienes otros miembros en este grupo.
+system.group.message.removed_confirmation=Has §celiminado a §n%1§r del grupo.
+system.group.message.remvoed_advise=§cHas sido eliminado del grupo.
+system.group.message.changed_owner=Has §2ascendido a §n%1§r a líder del grupo.
+system.group.message.new_owner_advise=§2Eres el nuevo líder del grupo.
+system.group.message.no_players=§cNo hay otros jugadores en disponible.
+system.group.message.in_other_group=§l§n%1§r ya forma parte de otro grupo.
+system.group.message.invite_refused=§l§n%1 §r§crechazó§r la invitación al grupo.
+system.group.message.invite_accepted=§l§n%1 §r§2aceptó§r la invitación al grupo.
+system.group.message.own_joined=Te uniste al grupo de §l§n%1§r.
+system.group.message.joined_group=§l§n%1§r se unió al grupo.
+system.group.message.friend_fire_on_advise=§l§nFuego Amigo ha sido activado.
+system.group.message.friend_fire_off_advise=§l§nFuego Amigo ha sido desactivado.
+
+
+system.city.register=§6Ahora eres ciudadano(a) de §c§l%1!
+
+
+
+
+ui.premium_store.desc=¡Aquí puedes comprar artículos exclusivos, equipamiento, monturas y mucho más!
+ui.premium_store.confirm_buy=Confirmar la compra del artículo:
+ui.premium_store.thank=§l§2¡Gracias por tu apoyo!
+ui.premium_store.no_inner_coins=¡No tienes suficientes InnerCoins!
+ui.premium_store.mounts_title=Tienda Premium - Monturas
+ui.premium_store.pets_title=Tienda Premium - Mascotas
+ui.premium_store.general_title=Tienda Premium - General
+ui.premium_store.furniture_title=Tienda Premium - Decoración
+ui.premium_store.doors_title=Tienda Premium - Puertas Inteligentes
+
+
+
+
+
+moderator.error.only_manage=§l§cSolo los gamemasters pueden gestionar moderadores.
+moderator.error.only_add=§l§cSolo los gamemasters pueden añadir moderadores.
+moderator.error.only_remove=§l§cSolo los gamemasters pueden eliminar moderadores.
+moderator.error.only_change_level=§l§cSolo los gamemasters pueden cambiar niveles de moderador.
+moderator.error.no_online_nearby=§l§cNo se encontraron personajes online en 64 bloques.
+moderator.error.gm5_cannot_add_gm6=§l§cUn gamemaster nivel 5 no puede añadir gamemaster nivel 6+.
+moderator.error.gm5_cannot_set_gm6=§l§cUn gamemaster nivel 5 no puede asignar nivel 6+.
+moderator.error.account_not_found=§l§cNo se pudo encontrar la cuenta objetivo.
+moderator.error.account_already_has_moderator=§l§cEsa cuenta ya tiene un personaje moderador.
+moderator.error.name_already_exists=§l§cEl nombre del moderador ya existe.
+moderator.error.traits_not_found=§l§cNo se pudieron encontrar los rasgos del personaje objetivo.
+moderator.error.create_failed=§l§cNo se pudo crear el personaje moderador.
+moderator.error.no_removable_found=§l§cNo se encontraron moderadores eliminables.
+moderator.error.no_moderators_found=§l§cNo se encontraron moderadores.
+moderator.error.character_not_found=§l§cNo se pudo encontrar el personaje moderador.
+moderator.error.cannot_remove_self=§l§cNo puedes eliminar tu propio personaje moderador.
+moderator.error.cannot_change_self=§l§cNo puedes cambiar tu propio nivel de moderador.
+moderator.error.cannot_remove_higher=§l§cNo puedes eliminar un moderador de mayor nivel.
+moderator.error.cannot_change_higher=§l§cNo puedes cambiar un moderador de mayor nivel.
+moderator.error.mod_tool_received=§l§6Has recibido la herramienta de moderador.
+moderator.success.created=§l§aPersonaje moderador creado: %1 nivel %2.
+moderator.success.created_target=§l§aSe creó un personaje moderador para tu cuenta: %1.
+moderator.success.removed=§l§aModerador eliminado: %1.
+moderator.success.access_removed=Acceso de moderador eliminado.
+moderator.success.level_changed=§l§aNivel de moderador cambiado: %1 nivel %2.
+
+moderator.ui.online_chars_nearby=Personajes online cerca
+moderator.ui.level=Nivel de Moderador
+moderator.ui.add=Añadir Moderador
+moderator.ui.list=Moderadores
+moderator.ui.remove=Eliminar Moderador
+moderator.ui.change_level=Cambiar Nivel de Moderador
+
+
+
+
+
+
+ui.house.name.1001=Sea Way #1
+ui.house.address.1001=Av del Puerto 01
+ui.house.details.1001=Sea Way #1 es una casa colonial con un radio de 9sqm.
+
+ui.house.name.1002=Sea Way #2
+ui.house.address.1002=Av del Puerto 02
+ui.house.details.1002=Sea Way #2 es una casa colonial con un radio de 9sqm.
+
+ui.house.name.1003=Sea Way #3
+ui.house.address.1003=Av del Puerto 03
+ui.house.details.1003=Sea Way #3 es una casa colonial con un radio de 9sqm.
+
+ui.house.name.1004=Central Circle #1
+ui.house.address.1004=World Spawn 01
+ui.house.details.1004=Central Circle #1 es una casa con amplio espacio en el corazón de Béstamo.
+
+ui.house.name.1005=Central Circle #2
+ui.house.address.1005=World Spawn 02
+ui.house.details.1005=Central Circle #2 es una casa pequeña en una calle sin salida en Béstamo.
+
+ui.house.name.1006=Central Circle #3
+ui.house.address.1006=World Spawn 03
+ui.house.details.1006=Central Circle #3 es una casa pequeña en el corazón de Béstamo.
+
+ui.house.name.1007=Central Circle #4
+ui.house.address.1007=World Spawn 04
+ui.house.details.1007=Central Circle #4 es una casa pequeña en una calle sin salida en Béstamo.
+
+ui.house.name.1021=Bay Road #1
+ui.house.address.1021=Bay Road 02
+ui.house.details.1021=Bay Road #1 es una casa pequeña ubicada en la Ruta de la Bahía de Béstamo.
+
+ui.house.name.1008=Bay Road #2
+ui.house.address.1008=Bay Road 02
+ui.house.details.1008=Bay Road #2 es una casa pequeña ubicada en la Ruta de la Bahía de Béstamo.
+
+ui.house.name.1009=Bay Road #3
+ui.house.address.1009=Bay Road 03
+ui.house.details.1009=Bay Road #3 es una casa amplia en una vía tranquila que une la ciudad con la bahía de Béstamo.
+
+ui.house.name.1010=Bay Road #4
+ui.house.address.1010=Bay Road 04
+ui.house.details.1010=Bay Road #4 es una hermosa casa colonial con una bella vista a la bahía de Béstamo.
+
+ui.house.name.1011=Béstamo Bay #1
+ui.house.address.1011=Bahía de Béstamo 01
+ui.house.details.1011=Béstamo Bay #1 es una casa con amplio espacio y una vista increíble a la costa de Béstamo.
+
+ui.house.name.1012=Béstamo Bay #2
+ui.house.address.1012=Bahía de Béstamo 02
+ui.house.details.1012=Béstamo Bay #2 es una pequeña casa de pescador, con buena ubicación y vista a la costa de Béstamo.
+
+ui.house.name.1013=Béstamo Bay #3
+ui.house.address.1013=Bahía de Béstamo 03
+ui.house.details.1013=Béstamo Bay #3 es una casa con amplio espacio y una vista increíble a la costa de Béstamo.
+
+ui.house.name.1014=Béstamo Bay #4
+ui.house.address.1014=Bahía de Béstamo 04
+ui.house.details.1014=Béstamo Bay #4 es una casa colonial con una gran vista a la bahía de Béstamo.
+
+ui.house.name.1015=Béstamo Bay #5
+ui.house.address.1015=Bahía de Béstamo 05
+ui.house.details.1015=Béstamo Bay #5 es una casa colonial con una gran vista a la bahía de Béstamo.
+
+ui.house.name.1016=Béstamo Bay #6
+ui.house.address.1016=Bahía de Béstamo 06
+ui.house.details.1016=Béstamo Bay #6 es una casa colonial con una gran vista a la bahía de Béstamo.
+
+ui.house.name.1017=Béstamo Bay #7
+ui.house.address.1017=Bahía de Béstamo 07
+ui.house.details.1017=Béstamo Bay #7 es una casa colonial con una gran vista a la bahía de Béstamo.
+
+ui.house.name.1018=Polígono #1
+ui.house.address.1018=Ruta del Puerto 01
+ui.house.details.1018=Polígono #1 es una pequeña casa de pescador cerca del puerto de Béstamo.
+
+ui.house.name.1019=Polígono #2
+ui.house.address.1019=Ruta del Puerto 02
+ui.house.details.1019=Polígono #2 es una pequeña casa de pescador cerca del puerto de Béstamo.
+
+ui.house.name.1020=Temple View
+ui.house.address.1020=Ruta del Faro 01
+ui.house.details.1020=Temple View es una pequeña casa frente al templo de Béstamo.
+
+ui.house.name.1022=River Side #1
+ui.house.address.1022=Ruta del Río 01
+ui.house.details.1022=River Side #1 es una casa grande, con amplio espacio, situada al pie del río de Béstamo.
+
+ui.house.name.1023=River Side #2
+ui.house.address.1023=Ruta del Río 02
+ui.house.details.1023=River Side #2 es una gran casa colonial situada al pie del río de Béstamo.
+
+ui.house.name.1024=Lighthouse View
+ui.house.address.1024=Callejón del Río 01
+ui.house.details.1024=Lighthouse View es una pequeña casa con vista al faro de Béstamo.
+
+ui.house.name.1025=Arena View
+ui.house.address.1025=Ruta Interior 01
+ui.house.details.1025=Arena View es una pequeña casa con vista a la arena de Béstamo.
+
+ui.house.name.1026=Bee House
+ui.house.address.1026=Avenida Béstamo 01
+ui.house.details.1026=Bee House en Béstamo es una casa clásica con una linda colmena en el jardín.
+
+ui.house.name.2001=Silver Caravan #1
+ui.house.address.2001=Ruta del Puerto 01
+ui.house.details.2001=Silver Caravan #1 es una casa con amplio espacio y acceso privilegiado al puerto de Ras Baha.
+
+ui.house.name.2002=Silver Caravan #2
+ui.house.address.2002=Ruta del Puerto 02
+ui.house.details.2002=Silver Caravan #2 es una casa con amplio espacio y acceso privilegiado al puerto de Ras Baha.
+
+ui.house.name.2003=Silver Caravan #3
+ui.house.address.2003=Ruta del Puerto 03
+ui.house.details.2003=Silver Caravan #3 es una casa con amplio espacio y acceso privilegiado al puerto de Ras Baha.
+
+ui.house.name.2004=Silver Caravan #4
+ui.house.address.2004=Ruta del Puerto 04
+ui.house.details.2004=Silver Caravan #4 es una casa con amplio espacio y acceso privilegiado al puerto de Ras Baha.
+
+ui.house.name.2005=Silver Caravan #5
+ui.house.address.2005=Ruta del Puerto 05
+ui.house.details.2005=Silver Caravan #5 es una casa con amplio espacio y acceso privilegiado al puerto de Ras Baha.
+
+ui.house.name.2006=Silver Caravan #6
+ui.house.address.2006=Ruta del Puerto 06
+ui.house.details.2006=Silver Caravan #6 es una casa con amplio espacio y acceso privilegiado al puerto de Ras Baha.
+
+ui.house.name.2007=Silver Caravan #7
+ui.house.address.2007=Ruta del Puerto 07
+ui.house.details.2007=Silver Caravan #7 es una casa con amplio espacio y acceso privilegiado al puerto de Ras Baha.
+
+ui.house.name.2008=Temple Field #1
+ui.house.address.2008=Travesía del Puerto 01
+ui.house.details.2008=Temple Field #1 es una casa de tamaño razonable en un vecindario tranquilo cerca del templo de Ras Baha.
+
+ui.house.name.2009=Temple Field #2
+ui.house.address.2009=Travesía del Puerto 02
+ui.house.details.2009=Temple Field #2 es una casa con amplio espacio en un vecindario tranquilo cerca del templo de Ras Baha.
+
+ui.house.name.2010=Temple Field #3
+ui.house.address.2010=Travesía del Puerto 03
+ui.house.details.2010=Temple Field #3 es una casa de tamaño razonable en un vecindario tranquilo cerca del templo de Ras Baha.
+
+ui.house.name.2011=Temple Field #4
+ui.house.address.2011=Travesía del Puerto 04
+ui.house.details.2011=Temple Field #4 es una casa con amplio espacio en un vecindario tranquilo cerca del templo de Ras Baha.
+
+ui.house.name.2012=Temple Field #5
+ui.house.address.2012=Travesía del Puerto 05
+ui.house.details.2012=Temple Field #5 es una casa de tamaño razonable en un vecindario tranquilo cerca del templo de Ras Baha.
+
+ui.house.name.2013=Temple Way #1
+ui.house.address.2013=Temple Avenue 01
+ui.house.details.2013=Temple Way #1 es una casa con amplio espacio, arquitectura innovadora y vista privilegiada al templo de Ras Baha.
+
+ui.house.name.2014=Temple Way #2
+ui.house.address.2014=Temple Avenue 02
+ui.house.details.2014=Temple Way #2 es una casa con amplio espacio, arquitectura innovadora y vista privilegiada al templo de Ras Baha.
+
+ui.house.name.2015=Anubis Watch #1
+ui.house.address.2015=Ruta de la Pirámide 01
+ui.house.details.2015=Anubis Watch #1 es una casa con amplio espacio y fácil acceso al puerto de Ras Baha.
+
+ui.house.name.2016=Anubis Watch #2
+ui.house.address.2016=Ruta de la Pirámide 02
+ui.house.details.2016=Anubis Watch #2 es una casa con espacio razonable y fácil acceso al puerto de Ras Baha.
+
+ui.house.name.2017=Anubis Watch #3
+ui.house.address.2017=Ruta de la Pirámide 03
+ui.house.details.2017=Anubis Watch #3 es una casa con espacio razonable frente al mercado de Ras Baha.
+
+ui.house.name.2018=Anubis Watch #4
+ui.house.address.2018=Ruta de la Pirámide 04
+ui.house.details.2018=Anubis Watch #4 es una casa con espacio razonable frente al mercado de Ras Baha.
+
+ui.house.name.2019=Dune Bastion #1
+ui.house.address.2019=Ruta de las Dunas 01
+ui.house.details.2019=Dune Bastion #1 es una casa con amplio espacio y arquitectura innovadora en el corazón del desierto de Ras Baha.
+
+ui.house.name.2020=Dune Bastion #2
+ui.house.address.2020=Ruta de las Dunas 02
+ui.house.details.2020=Dune Bastion #2 es una casa con espacio razonable en el corazón del desierto de Ras Baha.
+
+ui.house.name.3001=Port Hall #1
+ui.house.address.3001=Port Avenue 01
+ui.house.details.3001=Port Hall #1 es una casa de estilo oriental muy espaciosa cerca del centro de Honzaki.
+
+ui.house.name.3002=Port Hall #2
+ui.house.address.3002=Port Avenue 02
+ui.house.details.3002=Port Hall #2 es una casa de estilo oriental muy espaciosa cerca del centro de Honzaki.
+
+ui.house.name.3003=Port Hall #3
+ui.house.address.3003=Port Avenue 03
+ui.house.details.3003=Port Hall #3 es una casa de estilo oriental muy espaciosa cerca del puerto de Honzaki.
+
+ui.house.name.3004=Port Hall #4
+ui.house.address.3004=Port Avenue 04
+ui.house.details.3004=Port Hall #4 es una casa de estilo oriental muy espaciosa cerca del puerto de Honzaki.
+
+ui.house.name.3005=Blossom House #1
+ui.house.address.3005=Blossom Avenue 01
+ui.house.details.3005=Blossom House #1 es una casa con amplio espacio y un jardín florido.
+
+ui.house.name.3006=Blossom House #2
+ui.house.address.3006=Blossom Avenue 02
+ui.house.details.3006=Blossom House #2 es una casa con amplio espacio y un jardín florido.
+
+ui.house.name.3007=Blossom House #3
+ui.house.address.3007=Blossom Avenue 03
+ui.house.details.3007=Blossom House #3 es una casa con amplio espacio y un jardín florido frente a un encantador columpio.
+
+ui.house.name.3008=Blossom House #4
+ui.house.address.3008=Blossom Avenue 04
+ui.house.details.3008=Blossom House #4 es una casa con amplio espacio y un jardín florido.
+
+ui.house.name.3009=Port View
+ui.house.address.3009=Calle del Puerto 01
+ui.house.details.3009=Port View es una casa con una vista increíble al puerto de Honzaki.
+
+ui.house.name.3010=Market House #1
+ui.house.address.3010=Calle del Mercado 01
+ui.house.details.3010=Market House #1 es una casa con amplio espacio cerca del mercado de Honzaki.
+
+ui.house.name.3011=Market House #2
+ui.house.address.3011=Calle del Mercado 02
+ui.house.details.3011=Market House #2 es una casa con amplio espacio cerca del mercado de Honzaki.
+
+ui.house.name.3012=Market House #3
+ui.house.address.3012=Calle del Mercado 03
+ui.house.details.3012=Market House #3 es una casa con amplio espacio cerca del mercado de Honzaki.
+
+ui.house.name.3013=Market House #4
+ui.house.address.3013=Calle del Mercado 04
+ui.house.details.3013=Market House #4 es una casa con amplio espacio cerca del mercado de Honzaki.
+
+ui.house.name.3014=Market House #5
+ui.house.address.3014=Calle del Mercado 05
+ui.house.details.3014=Market House #5 es una casa con amplio espacio cerca del mercado de Honzaki.
+
+ui.house.name.3015=Market House #6
+ui.house.address.3015=Calle del Mercado 06
+ui.house.details.3015=Market House #6 es una casa con amplio espacio cerca del mercado de Honzaki.
+
+ui.house.name.3016=Sakura Haven #1
+ui.house.address.3016=Ruta del Castillo 01
+ui.house.details.3016=Sakura Haven #1 es una casa con amplio espacio cerca del templo de Honzaki.
+
+ui.house.name.3017=Sakura Haven #2
+ui.house.address.3017=Ruta del Castillo 02
+ui.house.details.3017=Sakura Haven #2 es una casa con espacio razonable en un gran vecindario.
+
+ui.house.name.3018=Tower View
+ui.house.address.3018=Ruta del Castillo 03
+ui.house.details.3018=Tower View ofrece una vista increíble del castillo de la torre de magias en un vecindario tranquilo.
+
+ui.house.name.3019=Bridge House #1
+ui.house.address.3019=Camino del Puente 01
+ui.house.details.3019=Bridge House #1 es una pequeña casa, bien ubicada en el centro de Honzaki y cerca del puente principal.
+
+ui.house.name.3020=Bridge House #2
+ui.house.address.3020=Camino del Puente 02
+ui.house.details.3020=Bridge House #2 es una pequeña casa, bien ubicada cerca del herrero de la ciudad.
+
+ui.house.name.3021=Gong House #1
+ui.house.address.3021=Plaza del Gongo 01
+ui.house.details.3021=Gong House #1 es una casa con amplio espacio en una encantadora plaza con un monumento de gong.
+
+ui.house.name.3022=Gong House #2
+ui.house.address.3022=Plaza del Gongo 02
+ui.house.details.3022=Gong House #2 es una casa con espacio razonable en una encantadora plaza con un monumento de gong.
+
+ui.house.name.3023=Gong House #3
+ui.house.address.3023=Plaza del Gongo 03
+ui.house.details.3023=Gong House #3 es una casa con espacio razonable en una encantadora plaza con un monumento de gong.
+
+ui.house.name.5001=Bloodshade Manor #1
+ui.house.address.5001=Camino Sombra de Sangre 01
+ui.house.details.5001=Bloodshade Manor #1 es una bella mansión, con amplio espacio y un pequeño tótem flotante.
+
+ui.house.name.5002=Bloodshade Manor #2
+ui.house.address.5002=Camino Sombra de Sangre 02
+ui.house.details.5002=Bloodshade Manor #2 es una bella mansión, con amplio espacio frente al parque central de Murgonur.
+
+ui.house.name.5003=Bloodshade Manor #3
+ui.house.address.5003=Camino Sombra de Sangre 03
+ui.house.details.5003=Bloodshade Manor #3 es una bella mansión, con amplio espacio y 3 pisos con una enorme terraza en la azotea.
+
+ui.house.name.5004=Bloodshade Manor #4
+ui.house.address.5004=Camino Sombra de Sangre 04
+ui.house.details.5004=Bloodshade Manor #4 es una bella mansión, con amplio espacio y un pequeño tótem flotante.
+
+ui.house.name.5005=Bloodshade Manor #5
+ui.house.address.5005=Camino Sombra de Sangre 05
+ui.house.details.5005=Bloodshade Manor #5 es una casa pequeña, pero con gran encanto al tener un enorme portal en su fachada.
+
+ui.house.name.5006=Bloodshade Manor #6
+ui.house.address.5006=Camino Sombra de Sangre 06
+ui.house.details.5006=Bloodshade Manor #6 es una bella mansión, con amplio espacio al final de una calle sin salida.
+
+ui.house.name.5007=Hellfire #1
+ui.house.address.5007=Bulevar Fuego Infernal 01
+ui.house.details.5007=Hellfire #1 es una enorme mansión con un gran portal decorativo interior y un solárium con vistas espectaculares.
+
+ui.house.name.5008=Hellfire #2
+ui.house.address.5008=Bulevar Fuego Infernal 02
+ui.house.details.5008=Hellfire #2 es una bella mansión, con amplio espacio y 3 pisos con una enorme terraza en la azotea.
+
+ui.house.name.5009=Hellfire #3
+ui.house.address.5009=Bulevar Fuego Infernal 03
+ui.house.details.5009=Hellfire #3 es una bella mansión, con amplio espacio y 3 pisos con una enorme terraza en la azotea.
+
+ui.house.name.5010=Hellfire #4
+ui.house.address.5010=Bulevar Fuego Infernal 04
+ui.house.details.5010=Hellfire #4 es una bella mansión, con amplio espacio y fácil acceso al puerto de Murgonur.
+
+ui.house.name.5011=Obsidian Hearth #1
+ui.house.address.5011=Calle Shadowbind 01
+ui.house.details.5011=Obsidian Hearth #1 es una bella mansión, con amplio espacio y 3 pisos con una enorme terraza en la azotea.
+
+ui.house.name.5012=Obsidian Hearth #2
+ui.house.address.5012=Calle Shadowbind 02
+ui.house.details.5012=Obsidian Hearth #2 es una bella mansión, con amplio espacio frente al parque central de Murgonur.
+
+ui.house.name.5013=Obsidian Hearth #3
+ui.house.address.5013=Calle Shadowbind 03
+ui.house.details.5013=Obsidian Hearth #3 es una bella mansión, con amplio espacio, un pequeño tótem flotante y fácil acceso al puerto de Murgonur.
+
+ui.house.name.5014=Obsidian Hearth #4
+ui.house.address.5014=Calle Shadowbind 04
+ui.house.details.5014=Obsidian Hearth #4 es una enorme mansión con un gran portal decorativo interior y un solárium con vistas espectaculares.
+
+ui.house.name.5015=Darkveil Lodge #1
+ui.house.address.5015=Camino de las Tropas Infernales 01
+ui.house.details.5015=Darkveil Lodge #1 es una casa espaciosa con una vista espectacular del río de lava de Murgonur.
+
+ui.house.name.5016=Darkveil Lodge #2
+ui.house.address.5016=Camino de las Tropas Infernales 02
+ui.house.details.5016=Darkveil Lodge #2 es una casa espaciosa con una vista espectacular del río de lava de Murgonur.
+
+ui.house.name.5017=Darkveil Lodge #3
+ui.house.address.5017=Camino de las Tropas Infernales 03
+ui.house.details.5017=Darkveil Lodge #3 es una casa espaciosa con una vista espectacular del río de lava de Murgonur.
+
+ui.house.name.5018=Darkveil Lodge #4
+ui.house.address.5018=Camino de las Tropas Infernales 04
+ui.house.details.5018=Darkveil Lodge #4 es una casa pequeña, pero con gran encanto al tener un enorme portal en su fachada.
+
+ui.house.name.5019=The Abyssal Sanctum
+ui.house.address.5019=Parque Central de Murgonur
+ui.house.details.5019=The Abyssal Sanctum es una enorme casa, con gran ubicación en el parque central de Murgonur.
+
+ui.house.name.6001=Posada Rosecliff #1
+ui.house.address.6001=Ruta del Templo 01
+ui.house.details.6001=Posada Rosecliff #1 es una casa acogedora tallada en la piedra del cañón, cerca del templo y los antiguos riscos rojos.
+
+ui.house.name.6002=Posada Rosecliff #2
+ui.house.address.6002=Sendero Alto del Templo 02
+ui.house.details.6002=Posada Rosecliff #2 es una casa amplia con muros de arenisca y una alta vista sobre la entrada del cañón.
+
+ui.house.name.6003=Posada Rosecliff #3
+ui.house.address.6003=Ruta Hundida de Caravanas 03
+ui.house.details.6003=Posada Rosecliff #3 es una casa encantadora construida en la roca, en el camino hacia el templo.
+
+ui.house.name.6004=El Tesoro Carmesí
+ui.house.address.6004=Plaza del Antiguo Tesoro
+ui.house.details.6004=El Tesoro Carmesí es una gran casa con una vista privilegiada de la plaza del cañón.
+
+ui.house.name.6005=El Refugio Rosegate
+ui.house.address.6005=Paseo Interior Rosegate
+ui.house.details.6005=El Refugio Rosegate es una hermosa casa con una gran fachada inspirada en los templos del cañón rojo.
+
+ui.house.name.6006=El Refugio de Arenisca
+ui.house.address.6006=Avenida de las Tumbas Reales
+ui.house.details.6006=El Refugio de Arenisca es una casa tranquila rodeada de muros tallados, escalones ocultos y vientos serenos.
+
+ui.house.name.6007=El Retiro de Siqstone
+ui.house.address.6007=Camino Siq de la Taberna
+ui.house.details.6007=El Retiro de Siqstone es una casa apartada junto al ancho paso del cañón, cerca del calor de la taberna local.
+
+ui.house.name.8001=Barraco Bogshade #1
+ui.house.address.8001=Callejón Colmillo Podrido 01
+ui.house.details.8001=Barraco Bogshade #1 es una casa con amplio espacio frente al molino embrujado de Grishnakh.
+
+ui.house.name.8002=Barraco Bogshade #2
+ui.house.address.8002=Callejón Colmillo Podrido 02
+ui.house.details.8002=Barraco Bogshade #2 es una casa con espacio razonable, cerca del molino embrujado de Grishnakh.
+
+ui.house.name.8003=Ghoul Cabin #1
+ui.house.address.8003=Pasaje del Espectro 01
+ui.house.details.8003=Ghoul Cabin #1 es una casa pequeña, humilde y bien ubicada en el corazón de Grishnakh.
+
+ui.house.name.8004=Ghoul Cabin #2
+ui.house.address.8004=Pasaje del Espectro 02
+ui.house.details.8004=Ghoul Cabin #2 es una casa con espacio razonable y bien ubicada en el corazón de Grishnakh.
+
+ui.house.name.8005=Gray Cabin #1
+ui.house.address.8005=Camino Fantasma 01
+ui.house.details.8005=Gray Cabin #1 es una casa con amplio espacio, cerca de la casa de la Bruja de Grishnakh.
+
+ui.house.name.8006=Gray Cabin #2
+ui.house.address.8006=Camino Fantasma 02
+ui.house.details.8006=Gray Cabin #2 es una casa con espacio razonable, en un agradable vecindario rodeado de mosquitos.
+
+ui.house.name.8007=Gray Cabin #3
+ui.house.address.8007=Camino Fantasma 03
+ui.house.details.8007=Gray Cabin #3 es una casa pequeña, en un agradable vecindario rodeado de mosquitos.
+
+ui.house.name.8008=Gray Cabin #4
+ui.house.address.8008=Camino Fantasma 04
+ui.house.details.8008=Gray Cabin #4 es una casa con espacio razonable, al final de la calle y con gran vista al vecindario.
+
+ui.house.name.8009=Gray Cabin #5
+ui.house.address.8009=Camino Fantasma 05
+ui.house.details.8009=Gray Cabin #5 es una casa con amplio espacio, en un agradable vecindario rodeado de mosquitos.
+
+ui.house.name.8010=Gray Cabin #6
+ui.house.address.8010=Camino Fantasma 06
+ui.house.details.8010=Gray Cabin #6 es una casa pequeña, en un agradable vecindario, cerca de la casa de la Bruja de Grishnakh.
+
+ui.house.name.8011=Twin House #1
+ui.house.address.8011=Camino del Sepulturero 01
+ui.house.details.8011=Twin House #1 es una casa con amplio espacio, en un gran vecindario, ubicada en el centro mágico de Grishnakh.
+
+ui.house.name.8012=Twin House #2
+ui.house.address.8012=Camino del Sepulturero 02
+ui.house.details.8012=Twin House #2 es una casa con amplio espacio, en un gran vecindario, ubicada en el centro mágico de Grishnakh.
+
+ui.house.name.8013=Shadow Burrow #3
+ui.house.address.8013=Camino del Sepulturero 03
+ui.house.details.8013=Shadow Burrow #3 es una casa con amplio espacio, en un gran vecindario, ubicada en el centro mágico de Grishnakh.
+
+ui.house.name.8014=Bonepile Cabin #4
+ui.house.address.8014=Camino del Sepulturero 04
+ui.house.details.8014=Bonepile Cabin #4 es una casa con amplio espacio, en un gran vecindario, ubicada en el centro mágico de Grishnakh.
+
+ui.house.name.8015=Shadow Burrow #5
+ui.house.address.8015=Camino del Sepulturero 05
+ui.house.details.8015=Shadow Burrow #5 es una casa con amplio espacio, en un gran vecindario, ubicada en el centro mágico de Grishnakh.
+
+ui.house.name.8016=Poison Shack #6
+ui.house.address.8016=Camino del Sepulturero 06
+ui.house.details.8016=Poison Shack #6 es una casa con amplio espacio, en un gran vecindario, ubicada en el centro mágico de Grishnakh.
+
+ui.house.name.8017=Witch Hollow #7
+ui.house.address.8017=Camino del Sepulturero 07
+ui.house.details.8017=Witch Hollow #7 es una pequeña casa, en un gran vecindario, ubicada en el centro mágico de Grishnakh.
+
+ui.house.name.9001=Port Way #1
+ui.house.address.9001=Ruta del Puerto 01
+ui.house.details.9001=Port Way #1 es una encantadora casa hongo, con poco espacio interior pero buena área de construcción subterránea.
+
+ui.house.name.9002=Port Way #2
+ui.house.address.9002=Ruta del Puerto 02
+ui.house.details.9002=Port Way #2 es una encantadora casa hongo, con poco espacio interior pero buena área de construcción subterránea.
+
+ui.house.name.9003=Crystal Moon #1
+ui.house.address.9003=Plaza de la Luna 01
+ui.house.details.9003=Crystal Moon #1 es una encantadora casa hongo, ubicada en un gran vecindario alrededor de la Luna de Cristal.
+
+ui.house.name.9004=Crystal Moon #2
+ui.house.address.9004=Plaza de la Luna 02
+ui.house.details.9004=Crystal Moon #2 es una encantadora casa hongo, ubicada en un gran vecindario alrededor de la Luna de Cristal.
+
+ui.house.name.9005=Crystal Moon #3
+ui.house.address.9005=Plaza de la Luna 03
+ui.house.details.9005=Crystal Moon #3 es una encantadora casa hongo, ubicada en un gran vecindario alrededor de la Luna de Cristal.
+
+ui.house.name.9006=Crystal Moon #4
+ui.house.address.9006=Plaza de la Luna 04
+ui.house.details.9006=Crystal Moon #4 es una encantadora casa hongo, ubicada en un gran vecindario alrededor de la Luna de Cristal.
+
+ui.house.name.9007=Cogu Central #1
+ui.house.address.9007=Ruta Central 01
+ui.house.details.9007=Cogu Central #1 es una encantadora casa hongo, cerca del centro de Edélfia.
+
+ui.house.name.9008=Cogu Central #2
+ui.house.address.9008=Ruta Central 02
+ui.house.details.9008=Cogu Central #2 es una encantadora casa hongo, en el corazón del bosque de Edélfia.
+
+ui.house.name.9009=Cogu Central #3
+ui.house.address.9009=Ruta Central 03
+ui.house.details.9009=Cogu Central #3 es una encantadora casa hongo, en el corazón del bosque de Edélfia.
+
+ui.house.name.9010=Cogu Central #4
+ui.house.address.9010=Ruta Central 04
+ui.house.details.9010=Cogu Central #4 es una encantadora casa hongo, en el corazón del bosque de Edélfia.
+
+ui.house.name.9011=Cogu Central #5
+ui.house.address.9011=Ruta Central 05
+ui.house.details.9011=Cogu Central #5 es una encantadora casa hongo, en el corazón del bosque de Edélfia.
+
+ui.house.name.9012=Cogu Central #6
+ui.house.address.9012=Ruta Central 06
+ui.house.details.9012=Cogu Central #6 es una encantadora casa hongo, en el corazón del bosque de Edélfia.
+
+ui.house.name.9013=Cogu Central #7
+ui.house.address.9013=Ruta Central 07
+ui.house.details.9013=Cogu Central #7 es una encantadora casa hongo, cerca del castillo de Edélfia.
+
+ui.house.name.9014=Cogu Central #8
+ui.house.address.9014=Ruta Central 08
+ui.house.details.9014=Cogu Central #8 es una encantadora casa hongo, cerca del castillo de Edélfia.
+
+ui.house.name.9015=River Side #1
+ui.house.address.9015=Travesía de la Orilla 01
+ui.house.details.9015=River Side #1 es una encantadora casa hongo, ubicada en la orilla del río de Edélfia.
+
+ui.house.name.9016=River Side #2
+ui.house.address.9016=Travesía de la Orilla 02
+ui.house.details.9016=River Side #2 es una encantadora casa hongo, ubicada en la orilla del río de Edélfia.
+
+ui.house.name.9017=Castle Way #1
+ui.house.address.9017=Ruta del Castillo 01
+ui.house.details.9017=Castle Way #1 es una encantadora casa hongo, ubicada cerca de la Academia de Magias de Edélfia.
+
+ui.house.name.9018=Castle Way #2
+ui.house.address.9018=Ruta del Castillo 02
+ui.house.details.9018=Castle Way #2 es una encantadora casa hongo, con una bella vista al lago de Edélfia.
+
+ui.house.name.9019=Castle Way #3
+ui.house.address.9019=Ruta del Castillo 03
+ui.house.details.9019=Castle Way #3 es una encantadora casa hongo, en el seguro vecindario del castillo de Edélfia.
+
+ui.house.name.9020=Big Mush
+ui.house.address.9020=Central Forest 01
+ui.house.details.9020=La casa Big Mush es una casa grande con un radio de 14sqm, ubicada en Central Forest 01.
+
+
+
+
+ui.house.management=Gestión de Casas
+ui.house.market=Mercado de Casas
+ui.house.select_city=Selecciona una ciudad para ver casas disponibles.
+ui.house.in_city=Casas
+ui.house.select_house=Selecciona una casa para ver detalles.
+ui.house.rented=Alquilada
+ui.house.available=Disponible
+ui.house.available_for_rent=Disponible para alquilar
+ui.house.rent_this_house=Alquilar Esta Casa
+ui.house.confirm_rental=Confirmar Alquiler
+ui.house.rent_price=Precio del Alquiler
+ui.house.next_payment=Próximo pago
+ui.house.rent_warning=Si dejas de pagar, la casa se reiniciará y\ntus objetos se guardarán para recuperarlos en su inbox.
+ui.house.confirm_text=¿Deseas continuar?
+ui.house.no_house=No tienes una casa.
+ui.house.page_description=Aquí puedes gestionar tu casa, alquilar otra, gestionar invitados y configurar puertas internas.
+ui.house.owner=Propietario
+ui.house.unknown_owner=Desconocido
+ui.house.due_date=Fecha de pago
+ui.house.monthly=Mensual
+ui.house.leave_house=Salir de la Casa
+ui.house.leave_confirmation=Al salir perderás la propiedad, limpiarás invitados y permisos, guardarás objetos en su inbox y restaurarás la casa.
+ui.house.leave_failed=Error al limpiar esta casa. Intenta de nuevo.
+ui.house.left_success=Saliste de la casa con éxito.
+ui.house.manage_guests=Gestionar Invitados
+ui.house.guests=Invitados
+ui.house.invite_guest=Invitar
+ui.house.remove_guest=Eliminar Invitado
+ui.house.characters=Personajes
+ui.house.manage_doors=Gestionar Puertas
+ui.house.rooms=Habitaciones
+ui.house.room=Habitación
+ui.house.no_rooms=No se configuraron puertas internas en esta casa.
+ui.house.public=Pública
+ui.house.private=Privada
+ui.house.permissions=Permisos
+ui.house.add_permission=Añadir Permiso
+ui.house.remove_permission=Eliminar Permiso
+ui.house.change_door_owner=Cambiar Dueño de Puerta
+ui.house.available_owner=Disponible
+ui.house.no_permissions=No hay permisos en esta habitación.
+ui.house.no_guests=No tienes invitados en esta casa.
+
+system.house.owner_changed=§l§2Dueño de puerta actualizado.
+system.house.permission_added=§l§2Permiso añadido para §n%1§2.
+system.house.permission_removed=§l§2Permiso eliminado de §n%1§2.
+system.house.you_added_guest=§l§2Has añadido a §n%1§2 como invitado.
+system.house.you_removed_guest=§l§2Has eliminado a §n%1§2 de invitados.
+system.house.rent_failed=§l§cError al alquilar esta casa ahora.
+system.house.rented_success=§l§2Has alquilado la casa §n%1§2 por B$ %1
+system.house.already_has_house=§l§cYa tienes una casa.
+system.house.already_rented=§l§cEsta casa ya está alquilada.
+system.house.not_enough_money=§l§cNo tienes suficiente dinero.
+system.house.no_available_char_to_invite=§l§cNo hay personajes disponibles para invitar.
+system.house.no_guests=§l§cNo tienes invitados en esta casa.
+system.house.no_guests_for_permission=§l§cNo hay invitados para asignar permisos.
+system.house.no_permissions=§l§cNo hay permisos definidos para esta habitación.
+system.house.private_house=§l§cEsta casa es privada. No tienes permiso para entrar.
+system.house.private_room=§l§cEsta habitación es privada. No tienes permiso para entrar.
+
+system.door.private_access=§l§cEsta puerta tiene acceso privado. No tienes permiso para entrar.
+
+
+
+
+ui.guildhall.name.10100=Black Fortress
+ui.guildhall.address.10100=Costa Sur del Monte Sternum
+ui.guildhall.details.10100=El Black Fortress se ubica en la costa sur del Monte Sternum. El fuerte tiene 2 plantas, con 29 puertas internas y 1 puerta principal.
+ui.guildhall.name.10101=Rosehall
+ui.guildhall.address.10100=Cañón Central
+ui.guildhall.details.10100=Rosehall está ubicado en el cañón central de Terakan. El fuerte tiene 4 pisos, con 28 puertas interiores y 1 entrada principal.
+
+
+
+
+
+
+
+
+
+
+system.locked_doors.locked=§f§oLa puerta §r%1%2§r§f§o está cerrada con llave.§r
+system.locked_doors.unlock=§f§oLa puerta §r%1%2§r§f§o ha sido abierta.§r
+system.locked_doors.lock=§f§oLa puerta §r%1%2§r§f§o ha sido cerrada con llave.§r
+
+
+system.level_door.door_level=§6Puerta de nivel §l%1.§r
+system.level_door.no_level=§cNecesitas nivel %1 para pasar por esta puerta.
+system.required.no_quest=§cNo puedes completar esta acción.
+system.required.no_item=§cNo tienes objetos necesarios para esta acción.
+system.required.no_players=§cNo tienes aventurero necesario para completar esta acción.
+system.required.no_level=§cNecesitas nivel %1 para ejecutar esta acción.
+system.required.no_class=§cNo tienes la clase necesaria para esta acción.
+system.required.no_empty=§cLa sala no está vacía. Inténtalo de nuevo más tarde.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ui.death_list.title=Lista de Muertes
+ui.death_list.common_prefix=§jMurió el §l%1§r§j a las §l%2§r§j en el nivel §l%3§r§j
+ui.death_list.entity_solo=por un(a) §l%1§r§j.
+ui.death_list.entity_with=por un(a) §l%1§r§j y §l%2§r§j.
+ui.death_list.player_solo=por §l%1§r§j.
+ui.death_list.player_with=por §l%1§r§j y §l%2§r§j.
+
+
+
+
+
+
+
+
+
+
+
+
+system.inventory.no_space=§l§cNo tienes espacio suficiente en tu inventario.
+system.inner.no_inner_coins=§l§c¡No tienes suficientes InnerCoins!
+system.inner.no_skill_points_available=§l§cSolo tienes %1 punto%2 de habilidad disponibles.
+system.inner.no_mastery_points_available=§l§cSolo tienes %1 punto%2 de mastery disponibles.
+
+
+
+
+system.bank.no_fairy_dust=§l§cNo tienes polvo de hadas para utilizar este servicio.
+system.bank.no_char_available=§l§cNo tienes personajes para realizar esta tarea.
+system.bank.no_valid_destination=§l§cDestino inválido.
+system.bank.no_valid_value=§l§cValor inválido.
+system.bank.no_first_money=§l§cYa has reclamado tu dinero inicial, ¡no intentes engañarme! ¡Sé muy bien quién eres!\n¡LÁRGATE DE AQUÍ!
+system.bank.no_money_for_deposit=§l§cNo tienes dinero para depositar.
+system.bank.failure_to_deposit=§l§cError al depositar.
+system.bank.success_deposit=Acabas de depositar §l§2B$ %1§r, y ahora tienes un saldo de §l§2B$ %2§r.
+system.bank.no_balance=§l§cSaldo insuficiente.
+system.bank.success_withdraw=Acabas de retirar §l§cB$ %1§r, y ahora tienes un saldo de §l§6B$ %2§r.
+system.bank.failure_to_transfer=§l§cError al transferir.
+system.bank.success_transfer=Acabas de transferir §l§2B$ %1§r a §l§6%2§r, y ahora tienes un saldo de §l§2B$ %3§r.
+system.bank.success_income=Acabas de recibir §l§2B$ %1§r de §l§6%2§r.
+system.bank.success_bought_fairy_dust=Acabas de comprar §l§6%1 Polvo de Hadas Bancarias§r por §l§cB$ %2§r.
+system.bank.failure_to_send_commission=§l§cError al transferir la comisión.
+ui.bank.fairy_dust_price=Cada porción de polvo cuesta §l§2B$ 2
+ui.bank.deposit_all=Depositar todo
+ui.bank.to_transfer=Transferir
+ui.bank.transfer=Transferencias
+ui.bank.pay_commission=Pagar comisión
+ui.bank.label.how_much_to_transfer=¿Cuánto deseas transferir?
+ui.bank.label.how_much_to_withdraw=¿Cuánto deseas retirar?
+ui.bank.label.how_much_to_deposit=¿Cuánto deseas depositar?
+ui.bank.title.withdraw=Retirar Bestas
+ui.bank.title.deposit=Depositar Bestas
+ui.bank.title.fairy_dust=Polvo de Hadas Bancarias
+ui.bank.title.financial_fairies=Hadas Bancarias
+
+
+system.traveling1=§o§hViajando en 1 segundo...
+system.traveling2=§o§hViajando en 2 segundos...
+system.traveling3=§o§hViajando en 3 segundos...
+system.disconnecting1=§o§cDesconectando en 1 segundo...
+system.disconnecting2=§o§cDesconectando en 2 segundos...
+system.disconnecting3=§o§cDesconectando en 3 segundos...
+system.connecting1=§o§aConectando en 1 segundo...
+system.connecting2=§o§aConectando en 2 segundos...
+system.connecting3=§o§aConectando en 3 segundos...
+system.teleporting1=§o§hTeletransportarse en 1 segundo...
+system.teleporting2=§o§hTeletransportarse en 2 segundos...
+system.teleporting3=§o§hTeletransportarse en 3 segundos...
+system.saturation.full=§l§nEstás lleno.
+system.exp_reward.exp_no_bonus=%1 puntos de experiencia.
+system.exp_reward.exp_with_bonus=%1 puntos de experiencia y §b§o%2 puntos de bonificación.§r
+
+system.display_box.no_pickup=§o§c¡No tocar!
+system.display_box.no_add=§o§c¡No está permitido añadir artículos aquí!
+
+system.bonus_exp.happy_hunt=§l§a%1 hora%2 §r§bde bonificación de EXP activadas. ¡¡Buena caza!!
+system.bonus_exp.happy_hunt_hours_minutes=§l§a%1 hora%2 y %3 minuto%4 §r§bde bonificación de EXP activados. ¡¡Buena caza!!
+system.happy_hours.happy_hunt=§l§a%1 hora%2 §r§nde Happy Hours activadas. ¡¡Buena caza!!
+system.happy_hours.happy_hunt_hours_minutes=§l§a%1 hora%2 y %3 minuto%4 §r§nde Happy Hours activados. ¡¡Buena caza!!
+system.event_exp.happy_hunt=§l§a%1 hora%2 §r§dde bonificación de EXP del evento (%3x) iniciadas. ¡¡Buena caza!!
+system.event_drop.happy_hunt=§l§a%1 hora%2 §r§ede bonificación de DROP del evento (%3x) iniciadas. ¡¡Buena caza!!
+system.bonus_exp.bonus_end=§c¡El bono de EXP ha finalizado! ¡Espero que lo hayas disfrutado!
+system.happy_hours.bonus_end=§c¡Las Happy Hours han finalizado! ¡Espero que lo hayas disfrutado!
+system.event_exp.bonus_end=§c¡El evento de EXP ha finalizado! ¡Espero que lo hayas disfrutado!
+system.event_drop.bonus_end=§c¡El evento de drop ha finalizado! ¡Espero que lo hayas disfrutado!
+system.event_exp.event_end=§c¡Evento de EXP finalizado! ¡Esperamos que lo hayas disfrutado!
+system.event_drop.event_end=§c¡Evento de Drop finalizado! ¡Esperamos que lo hayas disfrutado!
+
+
+system.death.message=%1 §cfue muerto en el nivel %2 por §l%3.§r
+system.corpse.label=Cadáver de §l§c %1 §r\n§fMuerto por §o%2
+system.corpse.non_owner=Solo el dueño de este cuerpo podrá recuperar los ítems por ahora.
+system.death_cause.anvil.long=por la caída de un yunque
+system.death_cause.anvil.short=un yunque
+system.death_cause.block_explosion.long=por una explosión
+system.death_cause.block_explosion.short=una explosión
+system.death_cause.cactus.long=por pincharse el dedón
+system.death_cause.cactus.short=un pinchazo
+system.death_cause.campfire.long=por intentar saltar la hoguera
+system.death_cause.campfire.short=saltar hoguera
+system.death_cause.drowning.long=por ahogamiento
+system.death_cause.drowning.short=ahogo
+system.death_cause.entity_explosion.long=por una explosión
+system.death_cause.entity_explosion.short=una explosión
+system.death_cause.fall.long=por creer que era un pájaro
+system.death_cause.fall.short=caída
+system.death_cause.falling_block.long=por algo que cayó en su cabeza
+system.death_cause.falling_block.short=derrumbe
+system.death_cause.fire.long=por arder hasta el alma
+system.death_cause.fire.short=quemadura
+system.death_cause.fire_tick.long=por arder hasta el alma
+system.death_cause.fire_tick.short=quemadura
+system.death_cause.fireworks.long=por querer brillar como estrella
+system.death_cause.fireworks.short=una explosión
+system.death_cause.flying_into_wall.long=por estamparse contra la pared
+system.death_cause.flying_into_wall.short=impacto
+system.death_cause.freezing.long=por congelamiento
+system.death_cause.freezing.short=congelación
+system.death_cause.lava.long=por intentar nadar en lava
+system.death_cause.lava.short=lava
+system.death_cause.lightning.long=por un rayo
+system.death_cause.lightning.short=un rayo
+system.death_cause.magic.long=por efectos elementales
+system.death_cause.magic.short=elementos
+system.death_cause.hot_floor.long=por pisar la brasa
+system.death_cause.hot_floor.short=magma
+system.death_cause.none.long=por alguna entidad
+system.death_cause.none.short=una entidad
+system.death_cause.override.long=por algún bug
+system.death_cause.override.short=un bug
+system.death_cause.piston.long=por pistones
+system.death_cause.piston.short=pistones
+system.death_cause.ram_attack.long=por embestida de cabras
+system.death_cause.ram_attack.short=por cabras
+system.death_cause.sonic_boom.long=por ataque sónico
+system.death_cause.sonic_boom.short=ataque sónico
+system.death_cause.stalactite.long=por la caída de una estalactita
+system.death_cause.stalactite.short=una estalactita
+system.death_cause.stalagmite.long=por pisar una estalagmita
+system.death_cause.stalagmite.short=una estalagmita
+system.death_cause.hunger.long=de hambre
+system.death_cause.hunger.short=desnutrición
+system.death_cause.suffocation.long=por intentar respirar lo irrespirable
+system.death_cause.suffocation.short=sofoco
+system.death_cause.void.long=por zambullirse en la nada
+system.death_cause.void.short=caer en la nada
+system.death_cause.wither.long=por tocar una flor
+system.death_cause.wither.short=flor de wither
+
+
+
+system.rename.not_allowed=§l§cNo tienes un item renombrable en el slot.
+
+
+
+system.enchantment.dont_know=§l§cNo has aprendido ningún encantamiento.
+system.enchantment.no_level=§l§cNo tienes el nivel suficiente para usar este encantamiento.
+system.enchantment.no_class=§l§cEste encantamiento no es para tu clase.
+system.enchantment.already_know=§l§cYa conoces este encantamiento.
+system.enchantment.no_rune=§l§cNecesitas una runa blanca para añadir este encantamiento.
+system.enchantment.no_mana_rune=§l§cNecesitas %1 de maná para encantar esta runa.
+system.enchantment.no_free_space=§l§cNo tienes espacio suficiente en el inventario.
+system.enchantment.no_item=§l§cNecesitas colocar un objeto en el espacio de encantamiento.
+system.enchantment.no_mana_item=§l§cNecesitas %1 de maná para encantar este objeto.
+system.enchantment.not_allowed=§l§cEl objeto seleccionado no puede ser encantado.
+system.enchantment.success_applied=Has aplicado correctamente el encantamiento §l§6 %1
+system.enchantment.learned=§lHas aprendido el encantamiento §6%1§r.
+
+system.rune.no_level=§l§cNo tienes el nivel suficiente para usar esta runa.
+system.rune.no_class=§l§cEsta runa no es para tu clase.
+
+system.spell.dont_know=§l§cNo has aprendido ningúna magia.
+system.instant_spell.no_level=§l§cNo tienes el nivel suficiente para lanzar este hechizo.
+system.instant_spell.no_class=§l§cEste hechizo no es para tu clase.
+system.instant_spell.no_mana_spell=§l§cNecesitas %1 de maná para lanzar este hechizo.
+system.instant_spell.learned=§lHas aprendido el hechizo §6%1§r.
+
+system.tame.wrong_item=§c¡Este objeto no puede domar a esta criatura!
+system.tame.pet.max=§cYa tienes el máximo de 65 mascotas permitidas. Libera una para poder domar más.
+system.tame.mount.max=§cYa tienes el máximo de 65 monturas permitidas. Libera una para poder domar más.
+system.tame.fail=§c¡Has fallado al domar a esta criatura!
+system.tame.error=§cError al registrar la mascota en la base de datos.
+system.tame.success=¡Has domado a §l§a%1§r!
+
+system.tame.suffix.pet=mascota de §l§n%1§r
+system.tame.suffix.summon=summon of §l§n%1§r
+system.tame.suffix.mount=equitación de §l§n%1§r
+
+system.tame.evoque=§r§o§fInvocar
+system.tame.no_tamed=§l§cNo tienes ningún %1.
+system.tame.dual_tamed_not_allowed=§l§cNo puedes activar este %1 mientras otro esté en uso.
+system.tame.cant_disable_tamed_in_use=§l§cNo puedes desactivar un %1 que está actualmente en uso.
+system.tame.no_active_tamed=§l§c¡No tienes ninguna mascota o montura activa!
+system.tame.error_not_tamed_found=§l§cMascota o montura inválida (DB)!
+system.tame.tamed_dead_cooldown_min=Tu %1 §cha muerto§f. Espera §c%2 minuto%3§f para volver a invocarlo.
+system.tame.tamed_dead_cooldown_sec=Tu %1 §cha muerto§f. Espera §c%2 segundos§f para volver a invocarlo.
+system.tame.tamed_error_while_evoque=§l§cError al invocar %1.
+system.tame.tamed_not_in_range=§l§c¡Tu %1 no está dentro del alcance!
+system.tame.tamed_inventory_not_empty=§l§cEste %1 no tiene el inventario vacío.
+system.tame.tamed_item_already_equipped=§l§cEste objeto ya está equipado en otra criatura.
+system.tame.tamed_entity_already_has_item=§l§cEste %1 ya tiene este equipamiento.
+
+system.tame.no_allowed_players=§l§cJugadores(as) no permitidas.
+system.tame.mount=Montura
+system.tame.pet=Mascota
+system.tame.in_use=EN USO
+system.tame.is_anchored.true=§aEste(a) %1 permanecerá en el mundo §cy ahora está inactivo(a).
+system.tame.is_anchored.false=§aEste(a) %1 ahora está activo(a) §cy desaparecerá cuando estés ausente.
+system.tame.de_anchored_not_allowed=§l§cNo puedes quitar el ancla de este(a) %1 mientras otro(a) %1 esté activo(a).
+
+system.tame.cant_release_tamed_in_use=§l§cNo puedes liberar un %1 que está en uso.
+ui.release_tamed=Liberar %1
+ui.text.release_tamed_confirm=§j¿Estás seguro de que deseas liberar:\n\n§l§j%1§r§j\n\n\nSi hay objetos en su inventario, asegúrate de retirarlos antes o todo se perderá.
+
+
+
+ui.discord.username=Nombre de usuario de Discord
+ui.discord.discord_link=Vincular Discord
+ui.twitch.username=Nombre de usuario de Twitch
+ui.twitch.twitch_link=Vincular Twitch
+ui.twitch.twitch_finish_link=Finalizar Vinculación
+ui.twitch.twitch_unlink=Desvincular Twitch
+ui.twitch.display_name=Nombre visible en Twitch:
+ui.twitch.linked_character=Personaje vinculado:
+ui.twitch.channel_enabled=Canal Habilitado:
+ui.twitch.channel_watched=Canal Monitorizado:
+ui.twitch.auth_scopes=Permisos Autorizados:
+ui.twitch.token_due=El token caduca el:
+ui.twitch.auth_error=Error de autenticación:
+ui.twitch.copy_url_msg=Copia la URL de OAuth que aparece a continuación y ábrela en un navegador. Después de que Twitch te redirija, vuelve aquí y continúa.
+ui.twitch.copy_url=Copiar esta URL
+ui.twitch.paste_url_msg=Pega la URL completa de redirección de Twitch o el código de autorización recibido.
+ui.twitch.auth_code_or_url=Código de autorización o URL de redirección
+ui.twitch.paste_url_msg2=Pega el código o la URL completa de redirección de Twitch
+ui.twitch.streamer_settings=Configuración del canal del streamer
+ui.twitch.streamer_channel=Canal de Twitch del streamer
+
+system.msg.enable_on=§lHabilitar %1 §1(ON)
+system.msg.enable_off=§lHabilitar %1 §c(OFF)
+system.msg.enabled=§l§a%1 habilitado.
+system.msg.disabled=§l§c%1 deshabilitado.
+system.msg.link_success=§l§aCuenta de %1 vinculada.
+system.msg.link_data_unavailable=§l§cLos datos de vinculación de %1 no están disponibles.
+system.msg.account_unlinked=§l§aCuenta de %1 desvinculada.
+system.msg.could_not_unlink=§l§cNo se pudo desvincular la cuenta de %1.
+system.msg.no_account_linked=§l§cNo hay ninguna cuenta de %1 vinculada.
+system.msg.no_non_moderator_characters=§l§cNo se encontraron personajes que no sean moderadores.
+system.msg.character_linked=§l§aPersonaje de %1 vinculado.
+system.msg.character_link_failed=§l§cNo se pudo vincular el personaje de %1.
+system.msg.username_required=§l§cEl nombre de usuario de %1 es obligatorio.
+system.msg.not_initialized=§l§cLa integración con %1 no está inicializada.
+system.msg.no_characters_found=§l§cNo se encontraron personajes.
+system.msg.twitch_no_cliendid_and_uri=§l§cNo se puede generar el OAuth de Twitch hasta que se configuren el Client ID y la URI de redirección.
+system.msg.auth_response_required=§l§cLa respuesta de autorización de Twitch es obligatoria.
+system.msg.link_failed=§l§cNo se pudo completar la vinculación con %1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ui.guilds.found_new_guild=Fundar Nueva Guilda
+ui.guilds.invites_list=§fLista de invitaciones a guildas
+ui.guilds.requirements=Requisitos
+ui.guilds.requirement_list=- Ser una cuenta premium.\n- Nivel 20 o superior.\n- No puede estar en otra guilda.\n- +2 sub-líderes cuentas premium.
+ui.guilds.you_can_found_a_new_guild=Puede fundar una nueva guilda o aceptar una de las invitaciones. Para fundar una nueva guilda, es necesario cumplir con los
+ui.guilds.you_have_no_guild=No tienes ninguna guilda, ¿deseas fundar una nueva guilda?
+ui.guilds.guild_name_rules=No se permite cambiar colores, no nos hacemos responsables de errores tipográficos.
+ui.description=Descripción
+ui.guilds.name_placeholder=Nombre de la Guilda
+ui.guilds.description_placeholder=Descripción de la Guilda
+ui.guilds.due_date=Tienes hasta
+ui.guilds.to_complete_requirements=para agregar más sub-líderes antes de que la guilda se disuelva.
+ui.guilds.confirm_foundation=¿Confirmar la fundación de la guilda?
+ui.guilds.button_accept=Aceptar
+ui.guilds.button_reject=Rechazar
+ui.guilds.button_close=Cerrar
+ui.guilds.button_rules=Reglas
+ui.guilds.button_donate=Donar al Caja
+ui.guilds.button_complaints=Denuncias
+ui.guilds.guild_hall=Guild Hall
+ui.guilds.button_war_stats=Estadísticas de Guerra
+ui.guilds.button_leave_guild=Salir de la Guilda
+ui.guilds.button_bank_management=Administrar Caja
+ui.guilds.button_promote_demote=Promover / Degradar Miembro
+ui.guilds.button_invite=Invitar Nuevo Miembro
+ui.guilds.button_evict=Expulsar Miembro
+ui.guilds.button_war_management=Gestión de Guerras
+ui.guilds.button_manage_guild=Administrar Guilda
+ui.guilds.guild_rules=Reglas de la Guilda
+ui.guilds.no_rules_defined=Establece las reglas de tu guilda.
+ui.guilds.button_return=Volver
+ui.guilds.characters=Personajes
+ui.guilds.invite_to_guild=Invitar a Guilda
+ui.guilds.disband_guild=Disolver Guilda
+ui.guilds.about_to_disband=Estás a punto de disolver la guilda
+ui.guilds.disband_guild_text=Esta acción es irreversible y no se puede deshacer.\nTodos los miembros serán eliminados de la guilda.
+ui.guilds.confirm_text=¿Desea continuar?
+ui.guilds.guild_balance=Saldo de la Guilda
+ui.guilds.button_transfer_to_player=Transferir para Jugador
+ui.guilds.button_peace_offers=Ofertas de Paz Recibidas
+ui.guilds.you_are_leader_of=Eres parte de la liderazgo de la guilda
+ui.guilds.bank_transfer_description=Transferencia de la cuenta del de la guilda a su cuenta:
+ui.guilds.balance=Caja
+ui.guilds.transfer_amount=¿Cuánto desea transferir?
+ui.guilds.transfers=Transferencias
+ui.guilds.member_titles=Títulos de Miembros
+ui.guilds.order_descending=Orden Descendente
+ui.guilds.modify_lore_rules=Modificar Lore/Reglas
+ui.guilds.modify_leader_titles=Modificar Títulos de Líder
+ui.guilds.change_rank_hierarchy=Cambiar Jerarquía de Rank
+ui.guilds.modify_member_titles=Modificar Títulos de Miembros
+ui.guilds.create_new_member_titles=Crear Nuevos Títulos de Miembros
+ui.guilds.remove_member_titles=Eliminar Títulos de Miembros
+ui.guilds.pass_leadership=Pasar Liderazgo
+ui.guilds.war_stats=Estadísticas de Guerra
+ui.guilds.current_wars=Guerras\nen Curso
+ui.guilds.conflict_management=Gestión de Conflictos
+ui.guilds.button_declare_war=Declarar Guerra
+ui.guilds.button_accept_war=Aceptar Guerra
+ui.guilds.button_make_peace_offer=Hacer Oferta de Paz
+ui.guilds.button_remove_peace_offer=Eliminar Oferta de Paz
+ui.guilds.button_end_war=Finalizar Guerra
+ui.guilds.target_guild=Guilda Objetivo
+ui.guilds.declare_war=Declarar Guerra
+ui.guilds.accept_war=Aceptar Guerra
+ui.guilds.make_peace_offer_text=El valor se deducirá de la caja de la guilda y se reservará hasta que la guilda enemiga acepte o elimine la oferta.
+ui.guilds.peace_offer_amount=¿Cuánto deseas ofrecer?
+ui.guilds.peace_offers=Ofertas de Paz
+ui.guilds.revoke_peace_offer=Eliminar Oferta de Paz
+ui.guilds.enemy_surrender=Rendición Enemiga
+ui.guilds.by=por
+ui.guilds.end_war=TODO
+ui.guilds.end_war_with=Finalizar guerra con
+ui.guilds.no_transactions_yet=Todavía no hay transacciones.
+ui.guilds.transaction_deposit=depositó
+ui.guilds.transaction_withdrawal=retiró
+ui.guilds.leader=Líder
+ui.guilds.subleaders=Sub-Líderes
+ui.guilds.members=Miembros
+ui.guilds.no_war_registry=No existen registros de guerras.
+ui.guilds.disbanded_at=Disuelta en
+ui.guilds.no_guild_hall=No Tiene
+ui.guilds.created_at=Creada en
+ui.guilds.color_change_not_allowed=No se permite cambiar de color.
+ui.guilds.leader_title=Título de Líder
+ui.guilds.subleader_title=Título de Sub-líder
+ui.guilds.new_title=Nuevo Título
+ui.guilds.hierarchy=Jerarquía
+ui.guilds.lower_number_higher_hierarchy=(número menor = jerarquía mayor)
+ui.guilds.create_new_title=Crear Nuevo Título
+ui.guilds.remove_single_title=No se permite eliminar el único título de miembro.
+ui.guilds.title_to_remove=Título a Eliminar
+ui.guilds.remove_title=Eliminar Título
+ui.guilds.change_single_hierarchy=No es posible cambiar un solo título de miembro.
+ui.guilds.title_to_move=Título a Mover
+ui.guilds.change_hierarchy=Cambiar Jerarquía
+ui.guilds.modify_titles=Modificar Títulos
+ui.guilds.members_of_guild=Miembros de la Guilda
+ui.guilds.current_rank=rank actual de
+ui.guilds.select_new_rank=Seleccionar Nuevo Rank
+ui.guilds.change_member_rank=Cambiar Rango de Miembro
+ui.guilds.you_are_part_of=Haces parte de la guilda
+ui.guilds.as_member=Como miembro, su contribución puede o no ser voluntaria, sin embargo, puede tener beneficios de acuerdo con los reglamentos de cada guilda.
+ui.guilds.no_lore_defined=Define la historia de tu guilda.
+ui.guilds.guild_lore=Lore de la Guilda
+ui.guilds.modify_lore=Modificar Lore
+ui.guilds.modify_rules=Modificar Reglas
+ui.guilds.max_200_characters=Máx 200 caracteres
+ui.guilds.lore=Lore
+ui.guilds.max_900_characters=Máx 900 caracteres
+ui.guilds.rules=Reglas
+ui.guilds.reports=Denuncias
+ui.guilds.send_new_complaint=Enviar Nueva Denuncia
+ui.guilds.report_against=Denunciar Contra
+ui.guilds.max_100_characters=Máx 100 caracteres
+ui.guilds.message=Mensaje
+ui.guilds.new_complaint=Nueva Denuncia
+ui.guilds.reported=denunció
+ui.guilds.no_subleaders=No hay sub-líderes en este momento.
+ui.guilds.new_leader=Nuevo Líder
+ui.guilds.change_leadership=Cambiar Liderazgo
+ui.guilds.no_reports_yet=Hasta el momento no ha habido quejas.
+ui.guilds.at=A las
+ui.guilds.rent_a_guild_hall=Alquilar un Guild Hall
+ui.guilds.public=Público
+ui.guilds.private=Privado
+ui.guilds.make_public=Hacer Público
+ui.guilds.manage_doors=Administrar Puertas Internas
+ui.guilds.room_permissions=Permisos de Sala
+ui.guilds.leave_guild_hall=Salir del Guild Hall
+ui.guilds.rent_price=Precio del Alquiler
+ui.guilds.the_renewal=La renovación se realiza automáticamente cada 30 días debitando de la caja de la guilda. \n\nEl primer pago ocurre hoy y el próximo en
+ui.guilds.the_non_payment=El no pago en la fecha resultará en el restablecimiento del edificio y su contenido.
+ui.guilds.you_rented_guild_hall=Alquilaste el guild hall por
+ui.guilds.door=Puerta
+ui.guilds.manage_rooms_doors=Administrar Habitaciones
+ui.guilds.available=Disponible
+ui.guilds.room=Sala
+ui.guilds.current=Actual
+ui.guilds.add_or_remove_permissions=Agregar o quitar permisos para el
+ui.guilds.add=Agregar
+ui.guilds.remove=Eliminar
+ui.guilds.add_permission=Agregar Permiso
+ui.guilds.remove_permission=Eliminar Permiso
+ui.guilds.leave_guild_hall_confirmation=Al abandonar este gremio, se eliminará la propiedad, se borrarán los permisos de invitados y de habitaciones, y se almacenarán tus pertenencias en tu búzon para su recuperación.
+ui.guilds.your_guild_has_no_guild_hall=Tu guilda no tiene una guildhall.
+ui.guilds.to_rent_a_guild_hall=Para alquilar un guild hall, debe estar cerca de la entrada de la guildhall y acceder al menú nuevamente.
+ui.guilds.only_the_leader_can=Solo el líder puede alquilar una guildhall.
+ui.guilds.next_payment=Próximo Pago en
+ui.guilds.protected_by=Protegido por
+ui.guilds.available_for_rent=Disponible para alquilar
+ui.guilds.monthly=Mensual
+
+ui.guilds.label.state=Estado
+ui.guilds.label.state.hostiling=Hostilizando
+ui.guilds.label.state.war=Guerra
+ui.guilds.label.state.peaceoffer=Oferta de Paz
+ui.guilds.label.state.ended=Finalizado
+ui.guilds.label.declared_by=Declarado por
+ui.guilds.label.started=Iniciado
+ui.guilds.label.guild_kd=K/D del Gremio
+ui.guilds.label.leader_kd=K/D del Líder
+ui.guilds.label.ended=Finalizado
+
+system.guilds.no_char_found=No se encontró ningún personaje.
+system.guilds.invited_you=te invitó a la guilda
+system.guilds.was_invited=fue invitado a la guilda
+system.guilds.you_was_evicted=te expulsó de la guilda
+system.guilds.evicted_confirmation=fue expulsado de la guilda
+system.guilds.accept_confirmation=Ahora haces parte de la guilda
+system.guilds.reject_invite=Rechazaste la invitación a la guilda
+system.guilds.leave_guild_text=Saliste de la guilda
+system.guilds.disbanded_confirmation=Tu guilda %1 ha sido disuelto.
+system.guilds.invalid_amount=Valor inválido.
+system.guilds.negative_transfer=No puede hacer una transferencia negativa.
+system.guilds.transfer_completed=Acaba de transferir
+system.guilds.transfer_to_your_account=para su cuenta de la caja de la guilda
+system.guilds.actual_balance=y ahora tiene un saldo de
+system.guilds.no_guilds_available=No hay guildas disponibles para declarar guerra.
+system.guilds.the_guild=La guilda
+system.guilds.declared_war=declaró guerra contra tu guilda.
+system.guilds.no_war_declarations=No hay declaraciones de guerra.
+system.guilds.war_not_accepted=No aceptaste la declaración de guerra.
+system.guilds.accepted_war=aceptó tu declaración de guerra.
+system.guilds.no_war_running=No hay guerras en curso.
+system.guilds.made_peace_offer=hizo una oferta de paz por un valor de
+system.guilds.you_made_peace_offer=Hiciste una oferta de paz por un valor de
+system.guilds.to_guild=para la guilda
+system.guilds.no_peace_offers=No hay ofertas de paz.
+system.guilds.removed_peace_offer=eliminó la oferta de paz.
+system.guilds.accepted_peace_offer=aceptó tu oferta de paz.
+system.guilds.you_accepted_peace_offer=Aceptaste la oferta de paz de la guilda
+system.guilds.no_peace_offer_selected=No se ha seleccionado ninguna oferta de paz.
+system.guilds.no_wars_ready_to_end=No hay guerras activas con tu guilda.
+system.guilds.to=para
+system.guilds.no_players_available=No hay jugadores disponibles en este momento.
+system.guilds.you_reported=Denunciaste
+system.guilds.passed_leadership=pasó el liderazgo de la guilda a
+system.guilds.you_passed_leadership_to=Pasaste el liderazgo de la guilda a
+system.guilds.name_empty=El nombre de la guilda no puede estar vacío.
+system.guilds.name_too_long=El nombre de la guilda no puede tener más de %1 caracteres.
+system.guilds.description_too_long=La descripción de la guilda no puede tener más de %1 caracteres.
+system.guilds.invalid_formatting=El nombre o la descripción de la guilda contiene formato no soportado.
+system.guilds.name_in_use=Ese nombre de guilda ya está en uso.
+system.guilds.insufficient_balance=La guilda no tiene saldo suficiente.
+system.guilds.guildhall_already_rented=Este guildhall ya está alquilado.
+system.guilds.no_permission_manage_guildhall=No tienes permiso para gestionar este guildhall.
+system.guilds.guildhall_not_owned=Este guildhall no pertenece a tu guilda.
+system.guilds.member_not_allowed_in_room=Ese miembro no puede ser añadido a esta sala.
+system.guilds.guildhall_released=Guildhall liberado correctamente.
+system.guilds.target_not_found=El personaje objetivo no fue encontrado.
+system.guilds.target_already_in_guild=%1 ya está en una guilda.
+system.guilds.target_invite_pending=%1 ya tiene una invitación pendiente.
+system.guilds.invite_sent=%1 fue invitado a %2.
+system.guilds.already_in_guild=Ya estás en una guilda.
+system.guilds.joined_guild=Te uniste a %1.
+system.guilds.invite_rejected=Rechazaste la invitación de %1.
+system.guilds.invite_removed=%1 fue eliminado de la lista de invitaciones pendientes.
+system.guilds.invite_remove_failed=No se pudo eliminar la invitación pendiente.
+system.guilds.member_evicted=%1 fue expulsado de %2.
+system.guilds.left_and_disbanded=Saliste y disolviste %1. %2
+system.guilds.left_guild=Saliste de %1.
+system.guilds.guild_disbanded=%1 fue disuelta. Pago del saldo de la guilda: B$ %2.
+system.guilds.war_declared=Guerra declarada contra %1.
+system.guilds.war_accepted=Guerra aceptada contra %1.
+system.guilds.peace_offer_exists=Ya existe una oferta de paz en curso para esta guerra.
+system.guilds.peace_offer_sent=Oferta de paz enviada a %1.
+system.guilds.peace_offer_not_found=No se pudo encontrar la oferta de paz.
+system.guilds.no_active_peace_offer_revoke=No hay una oferta de paz activa para revocar.
+system.guilds.only_offer_creator_revoke=Solo la guilda que hizo la oferta de paz puede revocarla.
+system.guilds.peace_offer_revoked=Oferta de paz revocada contra %1.
+system.guilds.no_active_peace_offer_accept=No hay una oferta de paz activa para aceptar.
+system.guilds.peace_offer_accepted=Oferta de paz aceptada de %1.
+system.guilds.transfer_amount_invalid=La cantidad de transferencia debe ser mayor que cero.
+system.guilds.transfer_completed=Transferencia de guilda completada.
+system.guilds.account_insufficient_balance=La cuenta no tiene saldo suficiente.
+system.guilds.donation_completed=Donación a la guilda completada.
+system.guilds.lore_invalid=El lore de la guilda debe ser seguro y tener como máximo %1 caracteres.
+system.guilds.lore_updated=Lore de la guilda actualizado correctamente.
+system.guilds.rules_invalid=Las reglas de la guilda deben ser seguras y tener como máximo %1 caracteres.
+system.guilds.rules_updated=Reglas de la guilda actualizadas correctamente.
+system.guilds.report_same_account=No puedes reportar otro personaje de la misma cuenta.
+system.guilds.report_message_invalid=El mensaje del reporte debe ser seguro y tener como máximo 100 caracteres.
+system.guilds.report_submit_failed=No se pudo enviar el reporte de la guilda.
+system.guilds.report_submitted=Reporte de la guilda enviado correctamente.
+system.guilds.leadership_transfer_failed=No se pudo transferir el liderazgo de la guilda.
+system.guilds.leadership_transferred=Liderazgo de la guilda transferido correctamente.
+system.guilds.rank_titles_invalid=Los títulos de rango deben ser seguros y tener como máximo 16 caracteres.
+system.guilds.rank_titles_updated=Títulos de rango de la guilda actualizados correctamente.
+system.guilds.member_rank_titles_invalid=Los títulos de rango de miembros deben ser seguros y tener como máximo 16 caracteres.
+system.guilds.member_rank_created=Título de rango de miembro creado correctamente.
+system.guilds.member_rank_removed=Título de rango de miembro eliminado correctamente.
+system.guilds.member_rank_moved=Título de rango de miembro movido correctamente.
+system.guilds.no_rank_titles=No se proporcionaron títulos de rango de miembros.
+system.guilds.member_rank_updated=Títulos de rango de miembros actualizados correctamente.
+system.guilds.premium_required_subleader=Solo los miembros premium pueden ser promovidos a sublíder.
+system.guilds.member_rank_update_success=Rango del miembro de la guilda actualizado correctamente.
+system.guilds.level_required=Se requiere nivel %1 para fundar una guilda.
+system.guilds.premium_required=Se requiere premium para fundar una guilda.
+system.guilds.guildhall_door_state_changed=Estado de la puerta del guildhall actualizado correctamente.
+
+
+
+
+system.npc.profession.king=Monarca
+system.npc.profession.bank_shop=Gerente del Banco
+system.npc.profession.fairy_dust_shop=Hada Bancaria
+system.npc.profession.post_office_shop=Cartero
+system.npc.profession.sailor_shop=Capitán
+system.npc.profession.blacksmith=Herrero
+system.npc.profession.blacksmith_shop=Asistente de Herrero
+system.npc.profession.hotelier=Encargado del Hotel
+system.npc.profession.food_shop=Chef
+system.npc.profession.magic_shop=Archimago
+system.npc.profession.magic_supply_shop=Encantador
+system.npc.profession.magic_items_shop=Tejedor Arcano
+system.npc.profession.general_shop=Vendedor
+system.npc.profession.flower_shop=Florista
+system.npc.profession.furniture_shop=Decorador
+system.npc.profession.raw_shop=Vendedor
+system.npc.profession.stone_shop=Minero
+system.npc.profession.wood_shop=Leñador
+
+system.npc.welcome=Hola, soy §l§e%1§r de §l§e%2§r, siéntete libre de echar un vistazo a mi inventario. Si necesitas algo, estoy por aquí.
+system.npc.thanks=§a¡Gracias, vuelve cuando quieras!
+system.npc.farewell=Claro, vuelve cuando necesites algo.
+system.npc.cancel=Por supuesto, ¡vuelve cuando lo necesites!
+system.npc.no_category_available=§cNo hay categorías disponibles para la venta en este momento.
+system.npc.no_items_for_sale=§cNo hay artículos disponibles para la venta en este momento.
+system.npc.failure_to_delivery_item=§cError al entregar el artículo.
+system.npc.no_items_to_fix=¡Qué buena noticia! ¡No tienes ningún artículo que necesite reparación!
+
+system.npc.bank_welcome=¡Bienvenido(a) al banco central de §l§e%2§r!\n\nAquí puedo ayudarte con retiros y depósitos.\n§l¿En qué puedo ayudarte?
+system.npc.fairy_dust_welcome=¡Hola! Te gustaría comprar un poco de Polvo de Hadas Bancarias?\n\nPuede ser muy útil en tus aventuras para realizar algunas operaciones financieras.
+system.npc.blacksmith_welcome=Hola, soy §l§e%1§r de §l§e%2§r. Soy capaz de reparar cualquier equipo, pero no me traigas cosas que no valgan mi tiempo.\n\n§l¿Tienes algo para reparar?
+system.npc.blacksmith_shop_welcome=Hola, soy §l§e%1§r y aquí en §l§e%2§r tenemos a el mejor herrero de todo Inner. Vendo algunos de los equipos que elle mismo fabrica. ¿Quieres echar un vistazo?\n\nTambién compramos objetos. Algunos pueden reutilizarse, venderse o incluso fundirse para crear nuevos equipos. §l¿Tienes algo interesante?§r
+system.npc.sailor_welcome=¡Bienvenido a bordo, marinero!\n\n¿En qué puedo ayudarte?
+system.npc.food_welcome=¡Bienvenido a la mejor cocina de §l§e%2§r!\n\n§l¿Qué te gustaría comer hoy?
+system.npc.lodging_welcome=Hola, ¡bienvenido(a)!\n\n¿Te gustaría pasar la noche?\nTenemos habitaciones §l§3Estándar§r§f por §l§3B$ 5§r§f o §l§6Presidencial§r§f por §l§6B$ 20§r§f. ¿Cuál prefieres?
+system.npc.magic_welcome=Hola, soy §l§e%1§r, Gran Maestro de la Academia de Magia de §l§e%2§r.\n\n¿Te gustaría aprender algo? Será un placer darte la bienvenida a nuestro mundo de la magia.
+system.npc.magic_supply_welcome=Hola aventurero, si buscas suministros mágicos tengo lo que necesitas. Echa un vistazo a lo que tengo aquí.
+
+
+system.npc.king_welcome=The throne listens only to the worthy...\n\n§lWhat is your wish?
+system.npc.king.promotion_requirements=§fLa nobleza no se concede a los débiles.\nSolo quienes demuestran valor y ambición pueden ascender.\n\n§fRequisitos:\n  > Nivel 20+\n  > Clase elegida\n  > Tributo de §l§6B$ 20.000§r§f a la Corona\n  > Ser una Cuenta Premium
+system.npc.king.promotion_no_premium=<§l%1§r§f> Necesitas una cuenta premium activa para acceder a este servicio.
+system.npc.king.promotion_not_met=<§l%1§r§f> Aún no estás listo para la nobleza. Vuelve cuando cumplas todos los requisitos.
+system.npc.king.promotion_success=<§l%1§r§f> En nombre del reino, te declaro ahora §l§n%2§r§f.
+system.npc.king.promotion_no_balance=<§l%1§r§f> No tienes fondos suficientes para pagar el tributo. Vuelve cuando cumplas todos los requisitos.
+system.npc.king.already_promoted=<§l%1§r§f> Ya has recibido tu promoción.
+
+system.npc.bank_first_money_welcome=§f¡Hola!\nBienvenido al banco central de §l§6Inner World§r§f.\n\nSi eres nuevo por aquí, el banco puede darte una pequeña ayuda para iniciar tu aventura.\n\nNo soy muy bueno con las caras, ¿ya has estado por aquí?
+system.npc.bank_first_money_thanks=§l§6Aquí tienes, nuevo aventurero. ¡Bienvenido! ¡Y haz que este dinero crezca!
+system.npc.bank_first_money_farewell=Lo siento, aventurero, entonces no hay mucho en lo que pueda ayudarte.
+system.npc.bank_first_money_cancel=Lo siento, aventurero, entonces no hay mucho en lo que pueda ayudarte.
+system.npc.label.first_money=Acabo de llegar
+
+
+system.npc.lodging_room_already_booked=§cYa tienes una habitación reservada.
+system.npc.lodging_no_presidential_room_available=§cNo hay habitaciones presidenciales disponibles.
+system.npc.lodging_no_rooms_available=§cNo hay habitaciones estándar disponibles.
+system.npc.lodging_reserved_room=§cEsta habitación está reservada.
+system.npc.magic_you_cant_learn_spells=§cNo puedes aprender ningún hechizo aquí!
+system.npc.magic_you_cant_learn_enchants=§cNo puedes aprender ningún encantamiento aquí!
+system.npc.shop_no_loot_to_sell=§cNo tienes más objetos para vender.
+system.npc.shop_no_loot_to_rebuy=§cNo hay botín disponible para recomprar.
+system.npc.item_create_failure=§cError al reconstruir el objeto.
+system.npc.transaction_failure=§cError al completar la recompra.
+system.npc.post_office_overflow_empty=Sú caja de excedente esta vazia.
+
+
+system.npc.label.sailor_destination=Elige tu destino
+system.npc.label.farewell=Hasta luego
+system.npc.label.catalogue=Catálogo
+system.npc.label.buy=Comprar
+system.npc.label.sell=Vender
+system.npc.label.rebuy_loot=Recomprar botín
+system.npc.label.quest=Misión
+system.npc.label.withdraw=Retirar
+system.npc.label.deposit=Depositar
+system.npc.label.deposit_all=Depositar todo
+system.npc.label.buy_valuables=Comprar valiosos
+system.npc.label.fairy_dust=Polvo de hadas
+system.npc.label.delivery_center=Centro de Entrega
+system.npc.label.inbox=Buzón
+system.npc.label.overflow=Excedente
+system.npc.label.travel=Viajar
+system.npc.label.chat=Conversar
+system.npc.label.swords=Espadas
+system.npc.label.axes=Hachas
+system.npc.label.clubs=Mazas
+system.npc.label.helmets=Cascos
+system.npc.label.chestplates=Pechos (Armaduras)
+system.npc.label.leggings=Pantalones
+system.npc.label.boots=Botas
+system.npc.label.shields=Escudos
+system.npc.label.ranged=Arquería
+system.npc.label.ammo=Munición
+system.npc.label.standard=Estándar
+system.npc.label.presidential=Presidencial
+system.npc.label.food_menu=Menú
+system.npc.label.spells=Hechizos
+system.npc.label.enchantments=Encantamientos
+system.npc.label.runes=Runas
+system.npc.label.potions=Pociones
+system.npc.label.general=General
+system.npc.label.specials=Especiales
+system.npc.label.dyes=Tintes
+system.npc.label.flowers=Flores
+system.npc.label.leafs=Follaje
+system.npc.label.furniture=Decoración
+system.npc.label.raw_material=Materia prima
+system.npc.label.stones=Piedras
+system.npc.label.wooden=Madera
+system.npc.label.promotion=¡Viva el Rey!
+
+
+
+system.npc.monk_gyatso_welcome=§fHola, ¿vienes en busca del alto conocimiento?\n\nLlegué aquí hace mucho tiempo. El gran Oráculo nos enseñó mucho sobre la vida y la otra vida, e incluso puedo tocar el velo de la eternidad que divide ambos mundos.\n\nPuedo enseñarte algo a través de las piedras de la eternidad, ¿te gustaría aprender?
+system.npc.monk_tenzi_welcome=§fHola, ¿vienes en busca del alto conocimiento?\n\nVine desde Béstamo, pero ahora este es mi hogar. El gran Oráculo nos permite quedarnos y ayudamos a mantener el templo. Si buscas la eternidad, conozco parte de las enseñanzas del Oráculo.\n\nPuedo enseñarte algo a través de las piedras de la eternidad, ¿te gustaría aprender?
+system.npc.monk_jamphel_welcome=§fHola, ¿vienes en busca del alto conocimiento?\n\nParece que el gran Oráculo ya presintió tu llegada. Si has venido en busca de la vida eterna, mi conocimiento es vago comparado con el del gran Oráculo, pero puedo tocar el velo de la eternidad y ayudarte.\n\nPuedo enseñarte algo a través de las piedras de la eternidad, ¿te gustaría aprender?
+system.npc.monk_yeshe_welcome=§fHola, ¿vienes en busca del alto conocimiento?\n\nVine desde más allá de las barreras colosales. Aquí vivimos en paz gracias a los poderes de los Dioses de Inner.\nY con la ayuda del gran Oráculo aprendimos mucho; incluso puedo tocar el velo de la eternidad.\n\nPuedo enseñarte algo a través de las piedras de la eternidad, ¿te gustaría aprender?
+
+system.npc.monk_farewell=Que la luz de los Dioses de Inner guíe tu camino.
+system.npc.monk_cancel=Entiendo. Vuelve cuando sientas que es el momento.
+system.npc.monk_bless_desc=§fCon la protección de esta piedra reducirás en §l§n25%%%§r§f la cantidad de experiencia que perderías.\n\nCosto: §l§aB$ 10.000§r§f\n\n¿Deseas recibir esta bless?
+
+system.npc.monk_already_blessed=§l§cYa fuiste protegido por mi energía antes...
+system.npc.monk_bless_granted=§l§6Por los poderes de los Dioses de Inner...\n¡Serás protegido de ahora en adelante!
+
+system.npc.label.time_stone=Piedra del Tiempo
+system.npc.label.end_stone=Piedra del Fin
+system.npc.label.sun_stone=Piedra del Sol
+system.npc.label.soul_stone=Piedra del Alma
+
+
+
+system.npc.monk_bhadrapala_welcome=§f¡Bienvenido, aventurero!\n\nSi buscas proteger tus bienes más valiosos, quizá pueda vincular la energía de tu espíritu con la materia de tu objeto. Eso hará que tu objeto te siga incluso en el plano espiritual.\n\n¿Has traído algo para bendecir?
+system.npc.label.bless_item=Bendecir
+system.npc.monk_item_no_item=§cNo tienes nada que pueda bendecir. Vuelve cuando tengas algo.
+system.npc.monk_item_already_blessed=§cEste objeto ya tiene una conexión espiritual.
+system.npc.monk_item_bless_granted=§f¡Aquí está! Ahora tu objeto tiene una conexión espiritual contigo.
+system.npc.monk_item_bless_desc=§fObjeto: §l§e%1§r§f\n\nPuedo vincular la energía de tu espíritu a este objeto, haciendo que te siga incluso en el plano espiritual.\n\nCosto: §l§aB$ %2§r§f\n\n¿Deseas bendecir este objeto?
+
+system.npc.monk_bufang_welcome=§fHola, soy Bufang, el primer sacerdote de este camino.\n\nDesde este punto en adelante, tus pasos tocarán los límites del mundo espiritual.\n\nSi tu corazón ya ha demostrado su valor, el gran §l§3Oráculo§r§f podrá concederte aquello que tanto anhelas.
+system.npc.monk_gyalwa_welcome=§fHola, viajero. Bienvenido al §l§nTemplo de Parnaso§r§f, hogar del gran §l§3Oráculo§r§f.\n\nEste lugar es sagrado, levantado entre el silencio de las piedras y la armonía de los vientos.\n\nCamina en paz, pues no todo conocimiento debe buscarse con prisa.
+system.npc.monk_rinponche_welcome=§fQue los vientos de Parnaso reciban tu llegada, aventurero.\n\nEstás ante el §l§nTemplo de Parnaso§r§f, donde el gran §l§3Oráculo§r§f contempla los ecos de la vida y la eternidad.\n\nRespeta este suelo sagrado, y quizás él también respete tu viaje.
+system.npc.monk_zhang_welcome=§f¡Hola!\n\nAquí en el §l§nTemplo de Parnaso§r§f, hogar del gran §l§3Oráculo§r§f, aprendemos que la paz y la guerra habitan primero dentro de nosotros.\n\nSoy nuevo por aquí, pero dicen que aventureros de todas partes del mundo vienen a este templo en busca del conocimiento eterno.
+
+
+system.npc.tableville_grace_welcome=§fMis labios tienen mucho que decir, pero prefieren no usar palabras...
+system.npc.tableville_mary_welcome=§fNo quiero problemas encima de mí... a menos que el problema seas tú.
+system.npc.tableville_girls_farewell=Claro, vuelve cuando quieras... y sé que quieres.
+
+
+system.npc.label.destinations=Destinos
+system.npc.train_destination_desc==§f¿A dónde te gustaría viajar?
+system.npc.train_welcome=§fHola, bienvenido a la estación de tren de %1.\n\n¿Te gustaría comprar un billete hoy?
+system.npc.train_farewell=Claro, vuelve cuando necesites viajar.
+system.npc.train_thanks=¡Gracias y buen viaje!
+
+system.npc.daryl_welcome=§fHola joven, soy solo un viejo pescador, pero he visto cosas raras en las aguas y bosques de Edelfia.\nUna vez encontré una ruina dentro del bosque, donde las aguas se encuentran. Sabrás que has llegado cuando el camino parezca terminar... desde allí, solo las profundidades de tu soledad podrán guiarte. Pero no te pierdas, a veces, la luz encuentra a quien llega al final del túnel.\n\nY ten cuidado con los Orcos. Hace años invadieron nuestro bosque y dejaron cicatrices que nunca sanaron.\nVi uno de sus asentamientos al sureste. Quizás encuentres Goblins por el camino... El bosque guarda secretos, pero no todos quieren ser encontrados.
+
+
+
+inner.classid.10.name=Novato
+inner.classid.10.promoted_name=Novato
+inner.classid.10.short_desc=Eres un principiante, explora y busca una vocación que mejor te identifique, o sigue siendo un ciudadano común.
+inner.classid.10.long_desc=""
+inner.classid.11.name=Bárbaro
+inner.classid.11.promoted_name=Bárbaro Indomable
+inner.classid.11.short_desc=Luchan de forma salvaje, con menos técnica de combate refinada.\nLos bárbaros poseen una furia interior que les permite ignorar algunos golpes recibidos.
+inner.classid.11.long_desc=un luchador que combate de forma salvaje, con menos técnica pero con extrema ferocidad.\nLos bárbaros poseen una furia interior que les permite ignorar algunos golpes recibidos.\n\nHabilidad primaria: §l§6Fuerza§r\nSecundaria: §l§6Constitución§r
+inner.classid.12.name=Bardo
+inner.classid.12.promoted_name=Bardo Virtuoso
+inner.classid.12.short_desc=Un lanzador de magias inspiradoras, influyentes y manipuladoras.\nUsa palabras y música para moldear las mentes de los oyentes.
+inner.classid.12.long_desc=un lanzador de magias inspiradoras, influyentes y manipuladoras.\nUsarás tus palabras y canciones para moldear las mentes de los oyentes.\n\nHabilidad primaria: §l§6Carisma§r\nSecundaria: §l§6Destreza§r
+inner.classid.13.name=Brujo
+inner.classid.13.promoted_name=Brujo Arcano
+inner.classid.13.short_desc=Lanzadores con un funcionamiento propio, distinto a las demás clases.\nUsan poderes provenientes de pactos con criaturas antiguas y misteriosas.
+inner.classid.13.long_desc=un lanzador con funcionamiento propio, distinto a otras clases.\nUsa poderes provenientes de pactos con criaturas antiguas y misteriosas.\n\nHabilidad primaria: §l§6Carisma§r\nSecundaria: §l§6Sabiduría§r
+inner.classid.14.name=Clérigo
+inner.classid.14.promoted_name=Sumo Clérigo
+inner.classid.14.short_desc=Lanzadores que reciben su magia mediante oraciones a deidades.\nSu fe y devoción son recompensadas con poderes especiales.
+inner.classid.14.long_desc=un mediador entre el mundo mortal y el distante plano de los dioses.\nTe esfuerzas por ser la propia mano de tus dioses. No eres un sacerdote común, sino alguien investido de poder divino.\n\nHabilidad primaria: §l§6Sabiduría§r\nSecundaria: §l§6Carisma§r
+inner.classid.15.name=Druida
+inner.classid.15.promoted_name=Druida Anciano
+inner.classid.15.short_desc=Lanzadores de magia ligados a las fuerzas elementales de la naturaleza.\nSon el brazo activo del mundo salvaje frente a sus enemigos.
+inner.classid.15.long_desc=un lanzador de magia ligado a las fuerzas elementales de la naturaleza.\nTus hechizos se orientan hacia la naturaleza y los animales, el poder de las garras, del sol y la luna, del fuego y la tormenta.\n\nHabilidad primaria: §l§6Sabiduría§r\nSecundaria: §l§6Inteligencia§r
+inner.classid.16.name=Hechicero
+inner.classid.16.promoted_name=Hechicero Supremo
+inner.classid.16.short_desc=Lanzadores que llevan en su sangre vínculos de sus ancestros con criaturas mágicas o eventos sobrenaturales que les otorgaron poderes.
+inner.classid.16.long_desc=un lanzador que porta un legado mágico otorgado por un linaje exótico, influencia de otro mundo o exposición a fuerzas cósmicas desconocidas.\n\nHabilidad primaria: §l§6Carisma§r\nSecundaria: §l§6Constitución§r
+inner.classid.17.name=Guardabosques
+inner.classid.17.promoted_name=Guardabosques Celestial
+inner.classid.17.short_desc=Combatientes y vigilantes incansables de las zonas inexploradas y del mundo.\nSuelen usar una combinación de velocidad, sigilo y precisión.
+inner.classid.17.long_desc=un combatiente vigilante de las zonas inexploradas y del mundo, con dominio incomparable de armas y armaduras a corta o larga distancia, con gran habilidad y precisión en combate.\n\nHabilidades primarias: §l§6Destreza & Sabiduría§r\nSecundaria: §l§6Fuerza§r
+inner.classid.18.name=Guerrero
+inner.classid.18.promoted_name=Guerrero de Élite
+inner.classid.18.short_desc=Maestros en técnicas de combate, con dominio incomparable de armas y armaduras, con gran pericia en el arte de la guerra.
+inner.classid.18.long_desc=un combatiente maestro en técnicas de combate con dominio incomparable de armas y armaduras, con gran pericia en el arte de la guerra. Aprenderás lo básico de todos los estilos de combate.\n\nHabilidades primarias: §l§6Fuerza & Destreza§r\nSecundaria: §l§6Constitución§r
+inner.classid.19.name=Pícaro
+inner.classid.19.promoted_name=Pícaro Fantasma
+inner.classid.19.short_desc=Maestros en habilidades y uso de herramientas mundanas.\nUsan medios sigilosos para igualarse a sus enemigos.
+inner.classid.19.long_desc=un maestro en habilidades y uso de herramientas mundanas, enfocado en el sigilo, refinando tus destrezas para ayudarte en las mazmorras.\nUsarás medios sigilosos para igualarte a tus enemigos.\n\nHabilidad primaria: §l§6Destreza§r\nSecundaria: §l§6Inteligencia§r
+inner.classid.20.name=Mago
+inner.classid.20.promoted_name=Archimago
+inner.classid.20.short_desc=Lanzadores estudiosos que buscan el conocimiento de la magia y lo sobrenatural, usando sus estudios para manejarla y mejorarla.
+inner.classid.20.long_desc=un lanzador estudioso que busca el conocimiento de la magia y lo sobrenatural.\nUsando la sutil trama de magia que impregna el cosmos, lanzarás hechizos poderosos, engaños sutiles y controlarás mentes con fuerza bruta.\n\nHabilidad primaria: §l§6Inteligencia§r\nSecundaria: §l§6Sabiduría§r
+inner.classid.21.name=Monje
+inner.classid.21.promoted_name=Monje Exaltado
+inner.classid.21.short_desc=Combatientes disciplinados y estudiosos de movimientos y energía que fluye dentro de sí y de los demás.\nConocen la energía mística presente en cada uno.
+inner.classid.21.long_desc=un combatiente disciplinado y estudioso de movimientos y de la energía que fluye dentro de ti. Sea cual sea tu disciplina, compartes la habilidad de aprovechar mágicamente la energía de tu cuerpo.\n\nHabilidades primarias: §l§6Destreza & Sabiduría§r\nSecundaria: §l§6Fuerza§r
+inner.classid.22.name=Paladín
+inner.classid.22.promoted_name=Paladín Real
+inner.classid.22.short_desc=Combatientes que siguen fielmente un juramento hecho para enfrentar el mal.\nCon técnicas de combate y poderes de su voto sagrado.
+inner.classid.22.long_desc=un combatiente que sigue fielmente un juramento hecho para enfrentar el mal.\nCon técnicas de combate y poderes provenientes de tu voto sagrado.\n\nHabilidades primarias: §l§6Fuerza & Carisma§r\nSecundaria: §l§6Sabiduría§r
+inner.level_advance=Has avanzado de nivel
+
+inner.raceid.1=Humano
+inner.raceid.2=Elfo
+inner.raceid.3=Draconico
+inner.raceid.4=Dwarf
+inner.raceid.5=Tiefling
+
+
+entity.awp:oracle.name=§l§3El Oracle§r
+ui.oracle.title=§l§6El Oracle§r
+ui.oracle.dialog.1=§f¿Quién osa sumergirse en mis lágrimas?\nYo soy §l§6El Oráculo§r§f, he estado aquí desde el inicio de los tiempos, unido al mundo espiritual y a los Dioses de Inner, predije guerras apocalípticas y hechos devastadores, grandes reyes buscaban mi sabiduría... \n¿Y tú? ¿Qué buscas?
+ui.oracle.dialog.2=Aún eres joven y tienes mucho por descubrir, pero puedo ayudarte a despertar tus sentidos; sin embargo, esto es irreversible, una vez tomada la decisión no habrá vuelta atrás.\n\n¿Estás seguro de ello?..
+ui.oracle.dialog.3=§f¿Y con qué vocación sientes más afinidad? Responde con sabiduría y recuerda que esta decisión será definitiva.
+ui.oracle.dialog.4=Has elegido convertirte en un §l§6%1§r, te convertirás en %2
+ui.oracle.button.1=§fDespertar mis poderes...
+ui.oracle.button.2=§fSí, estoy decidido.
+ui.oracle.button.3=§l§f¡Sí!
+ui.oracle.button.4=§l§cNo
+ui.oracle.dialog.final=§l§6Que así sea decidido...
+
+
+
+
+inner.no_level.equipment=§l§cNo tienes el nivel suficiente para usar este equipo.
+inner.no_level.weapon=§l§cNo tienes el nivel suficiente para usar esta arma.
+inner.two_handed.shield=§l§cNo puedes usar un escudo con armas de dos manos.
+
+inner.potion.no_class=§l§cEsta poción no es para tu clase.
+inner.potion.no_level=§l§cNecesitas nivel %1 para usar esta poción.
+
+
+
+inner.serversave.countdown.5=§l§nEl servidor se reiniciará en 5 minutos, desconéctese en un lugar seguro.
+inner.serversave.countdown.2=§l§nEl servidor se reiniciará en 2 minutos, desconéctese en un lugar seguro.
+inner.serversave.countdown.1=§l§nEl servidor se reiniciará en menos de 1 minuto, desconéctese en un lugar seguro.
+inner.serversave.countdown.0=§l§nEl servidor se está reiniciando...
+
+
+
+
+
+
+
+
+
+
+
+###################
+## Quest Buttons ##
+###################
+
+system.quest.interact_button.just_arrived=Acabo de llegar
+system.quest.interact_button.yes_exclamation=¡Sí!
+system.quest.interact_button.another_day=Otro día
+system.quest.interact_button.count_on_me_exclamation=¡Cuenta conmigo!
+system.quest.interact_button.not_today_ellipsis=Hoy no...
+system.quest.interact_button.leave_it_to_me_exclamation=¡Déjamelo a mí!
+system.quest.interact_button.no_ellipsis=No...
+system.quest.interact_button.thanks_exclamation=¡Gracias!
+system.quest.interact_button.right_away_exclamation=¡Ahora mismo!
+system.quest.interact_button.of_course_exclamation=¡Claro que sí!
+system.quest.interact_button.deal_exclamation=¡De acuerdo!
+system.quest.interact_button.a_letter=¡Una carta para ti!
+system.quest.interact_button.here_it_is_exclamation=¡Aquí está!
+system.quest.interact_button.i_finished_exclamation=¡Terminé!
+system.quest.interact_button.done_exclamation=¡Hecho!
+system.quest.interact_button.i_lost_it_ellipsis=Lo perdí...
+system.quest.interact_button.mister_prinden_interrogation=¿Señor Grinden?
+system.quest.interact_button.you_have_to_pay_exclamation=¡Tienes que pagar!
+system.quest.interact_button.absolutely_exclamation=¡Por supuesto!
+system.quest.interact_button.im_sorry_ellipsis=Lo siento...
+system.quest.interact_button.im_in_exclamation=¡Estoy dentro!
+system.quest.interact_button.from_your_mother_ellipsis=De tu madre...
+system.quest.interact_button.my_mistake_ellipsis=Me equivoqué...
+system.quest.interact_button.bye_exclamation=¡Hasta luego!
+system.quest.interact_button.adventures=Aventuras
+system.quest.interact_button.chat=Hablar
+system.quest.interact_button.problems=Problemas
+system.quest.interact_button.ignarbag=Ignarbag
+system.quest.interact_button.manufacturing=Fabricación
+system.quest.interact_button.accessories=Accesorios
+system.quest.interact_button.flags=Banderas
+system.quest.interact_button.tame_items=Objetos Domesticables
+system.quest.interact_button.to_make=Para hacer
+system.quest.interact_button.lady_bugs_interrogation=Lady Bugs?
+
+system.quest.msg.delete_quest_data=§cEste NPC actualmente tiene datos de misión. Establecer el ID de Misión en -1 borrará todos los datos de misión del NPC.
+system.quest.store.desc_part.1=§fPara confeccionar %1, necesitarás:\n\n%2§r
+system.quest.store.desc_part.2=§fTe cobraré §l§2B$ %1§r§f.
+system.quest.store.desc_part.3=\n\n§f¿Deseas que confeccione §l§6%1§r?
+
+
+###################
+## Quest Example ##
+###################
+
+#########################################################
+## Root button return messages
+system.quest.9999.msg.welcome.0=¡Hola! Estamos enfrentando una infestación de ratas, ¿podrías matar algunas por mí?
+
+system.quest.9999.msg.in_progress=Gracias por aceptar ayudarnos, realmente espero que puedas encargarte de esto.
+system.quest.9999.msg.complete=¡Gracias! ¡Hiciste un gran trabajo!
+
+## Dont have required items return message
+ui.quest.9999.msg.not_match_required=Parece que no tienes todos los objetos necesarios, vuelve cuando los tengas.
+## Accept button
+ui.quest.9999.msg.1=¡Genial! Entonces, por favor, mata 5 ratas. Cuando las mates, avísame y te daré una recompensa.
+## Complete button
+ui.quest.9999.msg.3=¡Muchas gracias! Por favor, acepta esto como recompensa por ayudar a la ciudad.
+
+# Quest Name
+system.quest.9999.name=Ejemplo de Misión
+# Quest Description
+system.quest.9999.description=¡%1 pidió ayuda para limpiar la ciudad de criaturas infestadas e indeseables! ¡Vamos a limpiar la ciudad!
+
+# Quest log (check points)
+system.quest.9999.check_point.1=Tengo que matar algunos monstruos, vamos a empezar a limpiar la ciudad ahora.
+system.quest.9999.check_point.2=He matado las ratas como se pidió, ahora voy a buscarlo, ¡quizás reciba una buena recompensa!
+system.quest.9999.check_point.3=¡Ayudé a limpiar la ciudad! ¡Qué premio maravilloso he recibido!
+#########################################################
+
+
+######################
+## ¡Un Nuevo Mundo! ##
+######################
+
+## NPC Settings
+system.npc.cap_gregor_sharpblade.welcome=¡Mmm! ¡Hace mucho que no como algo picante! ¡Oye! ¿Qué estás buscando?
+
+system.quest.0.name=¡Un Nuevo Mundo!
+system.quest.0.description=Has iniciado tu aventura en Inner World, hay mucho por hacer...
+
+## Root button return messages
+system.quest.0.msg.welcome.0=¿¿Dijiste aventuras?? ¡Aventura es mi segundo nombre! Bueno... es Sharpblade, pero ya me entiendes... Creo que nunca te he visto por aquí, ¿eres nuevo en la ciudad?
+system.quest.0.msg.welcome.2=Entonces, ahora que conoces las necesidades de §l§6Bilbobag§r§f, quizá tenga otra para ti.
+
+system.quest.0.msg.in_progress=¿Cómo que más aventuras? ¡Ni siquiera has seguido la última pista que te di!
+system.quest.0.msg.complete=Parece que ya conoces todas las aventuras que podía contarte. Si me entero de algo nuevo, puedes estar seguro de que te avisaré.
+
+## Dont have required items return message
+ui.quest.0.msg.not_match_required=
+
+## Dialog messages
+ui.quest.0.msg.1=Bueno... deberías tener un libro del aventurero. En ese libro escribirás todas las aventuras que enfrentes. Será importante documentarlas, con eso formarás parte de la Guilda de los Aventureros y podrás ayudar a otros novatos.\nPor ahora solo he oído de una posible aventura. Quien necesita ayuda es el cartero de la ciudad, §l§6Bilbobag§r§f. Está cerca del puerto, búscalo y mira qué puede decirte...\n\nToma esto también, puede que lo necesites.
+ui.quest.0.msg.2=Mira... he oído rumores sobre una tumba perdida en el desierto. No sé exactamente dónde está, pero quién sabe qué podrías encontrar allí.
+
+## Quest log (check points)
+system.quest.0.check_point.1=Has iniciado tu viaje en Inner World. Al §l§tCapitán Gregor Sharpblade§r§j parece que le has caído bien y te ha dado una nueva misión. Haz que se sienta orgulloso de ti y llena todas las páginas de este libro con tus mayores aventuras.
+system.quest.0.check_point.2=§l§tBilbobag§r§j pidió ayuda, no parece ser difícil.
+system.quest.0.check_point.3=El §l§tCapitán Gregor Sharpblade§r§j comentó rumores sobre una tumba perdida en el desierto. Debo encontrar el lugar. Quién sabe qué acertijos puedo encontrar por allí o quizá... Riquezas...
+#########################################################
+
+
+###############################
+## La Guilda de los Carteros ##
+###############################
+
+## NPC Settings
+system.npc.magician_grinden.welcome=¡Hola! Bienvenido a mi humilde escondite... ¡Ups! Quise decir humilde residencia. ¡Soy el mago más grande de todos los tiempos! ¡Debes de ser uno de mis fans!\n\n¡Ven a ver uno de mis espectáculos algún día!
+system.npc.profession.king_merkwin=Está bien, me has convencido... Te escucharé...
+
+system.quest.1.name=La Guilda de los Carteros
+system.quest.1.description=Bilbobag pidió tu ayuda con algunas tareas de cartero, para que puedas convertirte en miembro de la Guilda de los Carteros.
+
+## Root button return messages
+system.quest.1.msg.welcome.0=¿Te gustaría formar parte de la Guilda de los Carteros? Tenemos un criterio de evaluación muy alto, pero pareces prometedor...
+system.quest.1.msg.welcome.1=Ahoy, viajero... Este viejo puerto me trae recuerdos. Una vez crucé estas aguas persiguiendo rumores, tormentas y tesoros que probablemente nunca existieron.\n\nPerdí algunas monedas, gané algunas cicatrices y aprendí una cosa: el mar solo te entrega la aventura que eres lo bastante valiente para sobrevivir.
+system.quest.1.msg.welcome.2=Ah, viajero... La ruta del desierto de Ras Baha no es amable con los descuidados. He cruzado esas arenas más veces de las que puedo contar, persiguiendo espejismos, caravanas perdidas y tormentas capaces de tragarse un barco entero.\n\nPerdí mi miedo en algún lugar de allí... junto con un buen par de botas.
+system.quest.1.msg.welcome.3=Ah, viajero... La ruta hacia Honzaki enseña paciencia antes que valentía. Crucé esas aguas bajo cielos carmesí, siguiendo luces de faroles, olas silenciosas y vientos que parecían hablar en enigmas.\n\nNo encontré ningún tesoro allí... solo disciplina, calma y una hoja que me enseñó a respetar ambas.
+system.quest.1.msg.welcome.4=Hmph... Otro viajero de piel blanda mirando como si mordiera por deporte. Yo controlo la ruta de Grishnakh, entre pantanos inundados, barro, podredumbre y cosas que harían temblar tus huesos.\n\nPerdí algunos tripulantes, rompí algunos cráneos y aprendí una cosa: el miedo se hunde más rápido cuando le gruñes de vuelta.
+system.quest.1.msg.welcome.5=Ah, viajero... La ruta hacia Edélfia empieza en el mar, pero es el río quien pone a prueba tu alma. Aguas largas, árboles antiguos y luces élficas observando desde la niebla del bosque.\n\nUna vez seguí ese río en silencio y aprendí una cosa: algunos caminos no necesitan tormentas para parecer peligrosos.
+system.quest.1.msg.welcome.6=Ah, viajero... La ruta hacia Terakan asciende donde termina el mar y empieza el cañón. Una ciudad esculpida en las montañas, con tambores resonando entre la piedra y una vista capaz de humillar a cualquier marinero.\n\nHe visto muchos puertos, pero Terakan me enseñó una cosa: a algunos lugares no se llega solo con valentía... también necesitas piernas fuertes.
+system.quest.1.msg.welcome.7=Hah... Murgonur no es una ruta común, viajero. Esa ciudad lleva ahogada en caos desde que los demonios surgieron durante la Guerra Sagrada, hace miles de años.\n\nTierra roja, niebla ardiente, ríos de lava y un volcán enorme observándolo todo... protegiendo la ciudad, o quizá esperando para acabar con ella.
+system.quest.1.msg.welcome.12=¡Claro que soy yo! ¡Soy el Espectacular Grinden! ¡El mago más grande de todos los tiempos! \n\n¿Qué?... ¿No viniste a ver uno de mis espectáculos?
+system.quest.1.msg.welcome.15=Vamos, dime que trajiste los huesos. ¡Nuestros carteros corren un serio peligro! ¿Lo conseguiste?
+system.quest.1.msg.welcome.16=Ahora que eres cartero oficial, puedo enviarte a misiones más secretas.\n\nResulta que uno de nuestros miembros está desaparecido. Su nombre es §l§cIgnarbag§r§f, y necesito a alguien muy valiente para buscarlo, o al menos encontrar su cuerpo... ¿Serías capaz de una misión así?\n\nLas fuentes afirman que fue visto por última vez en la ciudad de §l§cMurgonur§r§f.
+
+system.quest.1.msg.in_progress_grinden=Ohh... ¿Otro fan buscando un autógrafo?
+system.quest.1.msg.in_progress_king_merkwin=Te has ganado mi respeto, Sin Cuernos... Pero recuerda cuál es tu lugar en mi ciudad.
+system.quest.1.msg.in_progress=¡Recuerda! ¡El servicio de correos de Inner World depende de ti!
+system.quest.1.msg.complete=¡Vaya aventura te has pegado! ¡Superaste mis expectativas y agradezco mucho tu esfuerzo!\n\nPero por ahora no tengo nuevas aventuras, vuelve cuando lo necesites.
+
+## Dialog messages
+ui.quest.1.msg.1=Hm, estoy considerando tu determinación, pero primero tendrás que demostrar tu valor haciendo algunas tareas para nosotros. Tu primera tarea será bastante sencilla.
+ui.quest.1.msg.2=Mejor apunta las instrucciones, ¿preparado?\n\nTendrás que revisar todas las rutas que hacen nuestros miembros y asegurarte de que no haya problemas en ellas. Primero habla con el §l§cCapitán Billfor§r§f aquí en Béstamo, luego habla con la §l§cCapitana Anen de Ras Baha§r§f, después con el §l§cCapitán Shao§r§f de Honzaki, luego con el §l§cCapitán Murdrak§r§f de Grishnakh y después con el §l§cCapitán Fendrel§r§f de Edélfia, entonces ve hasta Terakan y habla con el §l§cCapitán Zayd§r§f. Por último, habla con el §l§cCapitán Aleister§r§f de Murgonur.\n\nCuando termines, vuelve aquí para informarme si encontraste algún problema.
+ui.quest.1.msg.3=¿Problemas?? ¡Normalmente ellos huyen de mí! ¡Dile a Bilbobag que por aquí todo va viento en popa!
+ui.quest.1.msg.4=¿Me estás subestimando, pequeñajo? Si Bilbobag cree que tengo problemas en mis rutas, es que no me conoce bien...\n\nDile que aquí todo está bajo control.
+ui.quest.1.msg.5=Esta ciudad lleva muchos años en paz. No recuerdo haber encontrado problemas en mis rutas.
+ui.quest.1.msg.6=Mira a tu alrededor... Esto es un pantano, ¿ves algún problema en eso?! ¡Yo no! ¡Ahora déjame trabajar!
+ui.quest.1.msg.7=Vivimos en un paraíso por aquí. Si alguien tiene problemas, seguro que será en la ciudad de Grishnakh...
+ui.quest.1.msg.8=Tuve algunos problemas en mis rutas hacia Grishnakh, pero los resolvimos con un buen trozo de carne podrida (¡Ugh!) y sus nativos. Puedes decirle al compañero Bilbobag que aquí todo va bien, quitando el dolor de barriga que me dio.
+ui.quest.1.msg.9=¡Por aquí el único problema es que estás retrasando mis entregas!
+ui.quest.1.msg.10=¡¡Excelentes noticias, excelentes noticias!! Ya que no tenemos problemas en nuestras rutas, puedo ofrecerte la segunda tarea.\n\nMe enteré de que el buzón de §l§cGrishnakh§r§f está atascado. Esos aparatos requieren herramientas muy especiales para su mantenimiento, ve hasta allí e intenta repararlo, estoy seguro de que lo conseguirás... Nuestro compañero §l§cNargbag§r§f estará contento de recibir una ayudita.
+ui.quest.1.msg.11=§2¡Ya has reparado la máquina de correo!
+ui.quest.1.msg.12=§2¡Pareces muy fuerte y conseguiste desemperrar la máquina de correo al primer intento!
+ui.quest.1.msg.13=§2Con determinación, aunque no seas tan fuerte, consigues desemperrar la máquina de correo.
+ui.quest.1.msg.14=§cNo eres lo suficientemente fuerte y fallas miserablemente al intentar desemperrar el buzón, sigue intentándolo...
+ui.quest.1.msg.15=¡Menos mal que conseguiste repararlo! Pensé que tendría que ir hasta allí... Ese lugar me da escalofríos...\n\nPero con esta tarea completada, ahora puedo permitirte formar parte de la Guilda de los Carteros. Ahora eres §l§6Asistente de Cartero§r§f, ¡bienvenido! Con este título, podrás utilizar nuestros servicios de entregas exprés.\n\nPero no te detengas todavía, tengo una misión más. ¿Quieres saber más?
+ui.quest.1.msg.16=Esta vez necesito que busques a un mago llamado §l§cGrinden§r§f. Debe de estar escondiéndose en las selvas de Edélfia de sus acreedores. ¡Cuando lo encuentres, entrégale esta cuenta para que la pague lo antes posible!
+ui.quest.1.msg.17=¿Una carta para mí??\nEspero que sea aquel dinero que pedí prestado... Dámela...
+ui.quest.1.msg.18=¿¿¿Perdiste la carta??? Búscala y vuelve cuando la encuentres, realmente necesito ese dinero...
+ui.quest.1.msg.19=¿Qué?? ¡Debes haberte equivocado! ¿Mi nombre? No, mi nombre no es Grinden, es Prinden....
+ui.quest.1.msg.20=¿Encontraste a Grinden? Qué bien, tienes talento y un futuro prometedor.\n\nAhora seguro que estás ansioso por la próxima misión... Bueno, esta es para ayudarnos con un problema clásico de los carteros... ¡Se llama PERRO! Sí, tenemos una reserva de huesos para pacificar la situación, pero se está agotando.\n\n¿Podrías recolectar 64 huesos para reponer nuestro inventario?
+ui.quest.1.msg.21=Ahora seguro que estás ansioso por la próxima misión... Bueno, esta es para ayudarnos con un problema clásico de los carteros... ¡Se llama PERRO! Sí, tenemos una reserva de huesos para pacificar la situación, pero se está agotando.\n\n¿Podrías recolectar 64 huesos para reponer nuestro inventario?
+ui.quest.1.msg.22=Sin problema, pequeño(a) aventurero(a), tengo plena confianza en que lo conseguirás. Pero no pierdas tiempo o nuestros carteros empezarán a parecer huesos ambulantes a ojos de esos perros.
+ui.quest.1.msg.23=Muy bien, pequeño(a) aventurero(a). Desde ahora te has convertido en §l§6Cartero Oficial§r§f! ¡Felicidades!!\n\nA partir de hoy, podrás comprar cofres exprés y cartas por un precio menor.
+ui.quest.1.msg.24=Sí, recuerdo haber visto a §l§cIgnarbag§r§f rondando por aquí. Estaba haciendo una de sus rutas, pero parecía un poco preocupado. Por lo que me contó, necesitaba cruzar la aldea zombi que queda al §lnoroeste§r§f de aquí para llegar a uno de sus destinos. Le aconsejé tomar un camino más largo y seguro... Desde entonces no lo he vuelto a ver.
+ui.quest.1.msg.25=§cHas encontrado el cuerpo de §l§6Ignarbag§r§c, el cartero...
+ui.quest.1.msg.26=¿¡QUÉ!?!?! ¡Qué tristeza! Perdimos a un miembro increíble que hizo muchas cosas por nuestra guilda...\nMe entristece, pero tendré que comunicárselo a su familia...\n\nGracias, bravo cartero(a), honraste nuestra guilda. A partir de ahora podrás comprar cofres exprés y cartas por un precio menor.\n\nAhora tienes el título de §l§cCartero Honrado§r§f!\n\nAcéptalo como recompensa.
+ui.quest.1.msg.27=Tengo una última tarea para ti, Cartero Honrado. Esta no me gustaría asignártela, siempre perdemos miembros cuando enviamos a alguien a ese destino... \n\nTenemos una carta de la madre del rey §l§cMerkwin de Minovalin§r§f y debemos cumplir con nuestro deber, ¡o nuestra honra como la Gran Guilda de los Carteros estará en juego!\n\nPero no veo a nadie más indicado que tú.\n\n¿Aceptas esta tarea?
+ui.quest.1.msg.28=§o§l§p%1§r §l§c¡No! ¡Los Sin Cuernos han llegado a mi ciudad! ¡GUARDAESPALDAS, ATACAD!
+ui.quest.1.msg.29=¿¡Qué!? ¿Tienes una carta para mí?
+ui.quest.1.msg.30=Mi querida mamá... Cuánto la extraño... Gracias por entregar esta carta. ¡Significó mucho para mí!
+ui.quest.1.msg.31=§l§c¡No los toméis a broma! ¡MIS GUARDAESPALDAS SIEMPRE ESTÁN LISTOS!
+ui.quest.1.msg.32=¡Vaya gran aventura! ¡Superaste mis expectativas y agradezco mucho tu esfuerzo!\n\nY con gran placer te concedo la posición más alta de nuestra Guilda de los Carteros, §l§cGran Cartero§r§f!\n\nA partir de hoy, tienes permiso para viajar en nuestros barcos cargueros por un precio mucho más bajo. ¡Estoy enviando ahora mismo una carta oficial a todas las capitanías de las principales ciudades!\n\n¡Bienvenido a bordo!
+
+## Quest log (check points)
+system.quest.1.check_point.1=Tengo que revisar todas las rutas usadas por los capitanes de los barcos carteros y asegurarme de que no haya problemas en ellas. Primero iré hasta el §l§tCapitán Billfor§r§j de Béstamo, luego a la §l§tCapitana Anen§r§j de Ras Baha, después al §l§tCapitán Shao§r§j de Honzaki, luego al §l§tCapitán Murdrak§r§j de Grishnakh, después al §l§tCapitán Fendrel§r§j de Edélfia, entonces a Terakan con el §l§tCapitán Zayd§r§j, y por último al §l§tCapitán Aleister§r§j de Murgonur.\n\nCuando termine, tengo que reportar a §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.2=El Capitán Billfor dio buenas noticias, pero todavía falta investigar a la §l§tCapitana Anen§r§j de Ras Baha, al §l§tCapitán Shao§r§j de Honzaki, al §l§tCapitán Murdrak§r§j de Grishnakh, al §l§tCapitán Fendrel§r§j de Edélfia, al §l§tCapitán Zayd§r§j de Terakan y al §l§tCapitán Aleister§r§j de Murgonur.
+system.quest.1.check_point.3=La Capitana Anen parece estar muy segura de sus rutas, pero todavía falta investigar al §l§tCapitán Shao§r§j de Honzaki, al §l§tCapitán Murdrak§r§j de Grishnakh, al §l§tCapitán Fendrel§r§j de Edélfia, al §l§tCapitán Zayd§r§j de Terakan y al §l§tCapitán Aleister§r§j de Murgonur.
+system.quest.1.check_point.4=El Capitán Shao dijo estar viviendo en un mundo de paz, pero todavía falta investigar al §l§tCapitán Murdrak§r§j de Grishnakh, al §l§tCapitán Fendrel§r§j de Edélfia, al §l§tCapitán Zayd§r§j de Terakan y al §l§tCapitán Aleister§r§j de Murgonur.
+system.quest.1.check_point.5=El Capitán Murdrak parece aliviado de vivir en un pantano, pero todavía falta investigar al §l§tCapitán Fendrel§r§j de Edélfia, al §l§tCapitán Zayd§r§j de Terakan y al §l§tCapitán Aleister§r§j de Murgonur.
+system.quest.1.check_point.6=El Capitán Fendrel no parece gustar mucho de los pantanos, aunque informó que todo está bien en sus rutas, pero todavía falta investigar al §l§tCapitán Zayd§r§j de Terakan y al §l§tCapitán Aleister§r§j de Murgonur.
+system.quest.1.check_point.7=¿Carne podrida? Bueno... Debe de ser alguna comida típica, al menos eso hizo parecer el Capitán Zayd, pero todavía falta investigar al §l§tCapitán Aleister§r§j de Murgonur.
+system.quest.1.check_point.8=Sí... El Capitán Aleister parece algo gruñón, pero también parece encargarse de sus propios problemas...\nAhora es hora de volver con las noticias a §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.9=Bilbobag confió en mi astucia para reparar un buzón en §l§tGrishnakh§r§j con esta herramienta especial. Usaré la herramienta en el buzón para repararlo.
+system.quest.1.check_point.10=¡Buzón reparado! Ahora volveré para informar a §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.11=Ahora que el buzón de Grishnakh está reparado, gané la confianza de Bilbobag y fui promovido a §l§tAsistente de Cartero§r§j. Con esto ahora podré enviar cartas por el correo.
+system.quest.1.check_point.12=Parece que el §l§tEspectacular Grinden§r§j ha desaparecido, y su correspondencia no está siendo entregada. Necesito localizarlo en §l§tEdélfia§r§j y entregarle el sobre.
+system.quest.1.check_point.13=El Espectacular Grinden no quería recibir esta carta, pero mi trabajo está hecho. Ahora volveré para informar a §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.14=§l§tBilbobag§r§j en Béstamo se alegró de que encontrara al Espectacular Grinden. Estoy listo para la próxima misión.
+system.quest.1.check_point.15=Parece una broma, pero los carteros se están quedando sin reserva de huesos, una herramienta vital para que su trabajo continúe sin riesgos... de... mordidas... Necesito entregar 64 huesos a §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.16=Después de entregar los huesos a Bilbobag, me promovió a §l§tCartero Oficial§r§j, permitiéndome viajar pagando menos en los barcos del correo.
+system.quest.1.check_point.17=Con mi promoción a §l§tCartero Oficial§r§j, además de pagar menos por los servicios de envío, llegaron nuevas responsabilidades, y se me reveló una misión ultra secreta. Necesito iniciar la búsqueda del cartero desaparecido §l§tIgnarbag§r§j. Él solía hacer las rutas de §l§tMurgonur§r§j, quizá pueda empezar por ahí.
+system.quest.1.check_point.18=Encontré el cuerpo de §l§tIgnarbag§r§j. No era lo que querían encontrar, pero ya era esperado... Lamentablemente tendré que llevar las pésimas noticias a §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.19=Después de informar la triste noticia a Bilbobag, fui reconocido por la valentía de enfrentar la ciudad de Murgonur y con eso fui promovido a §l§tCartero Honrado§r§j. Tal vez me esperen más misiones con §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.20=Parece ser mi última misión... Por lo que escuché, Minovalin es un lugar muy peligroso. Está al §l§tSUR§r§j de Béstamo, dentro de una cueva fácil de ver desde la distancia, pero muy protegida...
+system.quest.1.check_point.21=¡Qué desafío me dio este rey minotauro! Es difícil convencerlo, pero aún necesito entregar la carta.
+system.quest.1.check_point.22=¡La carta al Rey Merkwin fue entregada! Uff... Esa estuvo cerca... Ahora tengo que informar a §l§tBilbobag§r§j en Béstamo.
+system.quest.1.check_point.23=Después de toda esta aventura, ahora solo me queda disfrutar de algunos viajes más baratos con la flota de los carteros como §l§tGran Cartero§r§j!
+#########################################################
+
+
+############################
+## La Tijera Élfica ##
+############################
+
+## NPC Settings
+system.npc.valvyre.welcome=¡Hola! ¡Bienvenido(a) a mi colección! ¿En qué puedo ayudarte?
+
+system.quest.3.name=La Tijera Élfica
+system.quest.3.description=Valvyre está desesperado buscando su tijera. Parece que los orcos la tienen escondida, pero no sé dónde... Necesito investigar los alrededores.
+
+## Root button return messages
+system.quest.3.msg.welcome.0=Lo siento, aventurero(a), ya no tengo espíritu alguno para confeccionar nada. Sin mi tijera mágica, soy un simple mortal...
+
+system.quest.3.msg.in_progress=¡Gracias, aventurero(a), estoy ansioso por verte triunfar! ¡Tráeme mi tijera mágica y serás recompensado!
+system.quest.3.msg.complete=¡No esperaba menos de ti, gran aventurero(a)! ¡Gracias!\n\nAhora puedo volver a mis majestuosas confecciones.
+system.quest.3.msg.no_item=Creí que lo tenías, por favor regresa con mi preciada...
+
+## Dialog messages
+ui.quest.3.msg.1=¡Una triste noticia! En la última invasión de orcos, perdí mi tijera mágica, forjada por el mismísimo lord de los elfos. ¡Sin ella no puedo hacer nada!
+ui.quest.3.msg.2=¡Si pudieras ayudarme a encontrarla, estaría muy agradecido!\n\n¿Crees que puedes ayudarme?
+ui.quest.3.msg.3=¡Gracias! Toma esta llave. Uno de los orcos la dejó caer mientras saqueaban mi tienda. ¡Puede ser útil!
+ui.quest.3.msg.4=¡Qué gran sorpresa! En realidad, no esperaba menos de ti, gran aventurero(a). ¡Gracias! Ahora puedo volver a mis majestuosas confecciones.\n\nToma, acepta esto como recompensa.
+
+## Quest log (check points)
+system.quest.3.check_point.1=Valvyre perdió su tijera mágica, forjada por el mismísimo lord de los elfos. ¡Sin ella no puede hacer nada! Parece ser algo muy especial para él, y me siento en la obligación de ayudar... Después de todo, tiene una excelente reputación en todas las ciudades y necesito hacer algunas mejoras.
+system.quest.3.check_point.2=Creo que encontré la tijera de Valvyre. Se pondrá muy feliz al recibirla de vuelta. En cuanto pase por Edélfia, iré a hacerle una visita.
+system.quest.3.check_point.3=Valvyre quedó muy feliz al recibir su tijera de vuelta. ¡Me dio una alforja como recompensa!\n\nAdemás, con él de vuelta al trabajo, puedo encargar algo para mí.
+
+## Valvyre Store (only on quest completion)
+ui.quest.3.store.no_item=No tienes todos los objetos necesarios o el dinero suficiente para eso. Vuelve cuando lo tengas todo.
+ui.quest.3.msg_accessories=Puedo confeccionar algunos accesorios. ¿Qué necesitas?
+
+
+############################
+## ¡Al galope o volando! ##
+############################
+
+## NPC Settings
+system.npc.valvyre.welcome=¡Hola! ¡Bienvenido(a), explorador(a)! ¿En qué puedo ayudarte?
+
+system.quest.4.name=¡Al galope o volando!
+system.quest.4.description=Conocí al Tío Bill, y parece ser muy hábil con las monturas. ¡Tal vez pueda ayudarme a domar algunas!
+
+## Root button return messages
+system.quest.4.msg.welcome.0=¡Me encantan las Lady Bugs!\n\nDime si necesitas algo más para monturas. ¡Estoy dispuesto a ayudar!
+
+system.quest.4.msg.in_progress=Veo que has vuelto. ¿Conseguiste los Caparazones de Lady Bug Rotos? Si es así, entrégamelos y podré ayudarte con ellas.
+system.quest.4.msg.complete=¡Qué gran logro! ¿Cómo está tu Lady Bug?
+system.quest.4.msg.no_item=Pensé que lo tenías. ¡Por favor, vuelve cuando tengas todo!
+
+## Dialog messages
+ui.quest.4.msg.1=Yo también fui joven, igual que tú, y créeme... Los caballos no son los únicos que necesitan buenos jinetes.\nExisten muchos tipos de monturas en este mundo, pero hay una en particular que me emociona. ¿Has oído hablar de las Lady Bugs que viven en medio del bosque de Edélfia? ¡Son increíbles!\nPero no te engañes, son muy rápidas y necesitan un jinete habilidoso para montarlas.\n\nSi consigues algunos de los caparazones rotos que dejan, puedo ayudarte a domar una.
+ui.quest.4.msg.2=¡Trato hecho! ¡Me alegrará trabajar con ellas de nuevo!
+ui.quest.4.msg.3=¡Genial! Gracias por esto, ¡tómalo!\n\nCon este caparazón completo podrás domar una Lady Bug, pero ten cuidado... Puede que no acepten el regalo e incluso podrían romperlo.
+
+## Quest log (check points)
+system.quest.4.check_point.1=El Tío Bill parece entusiasmado cuando habla de estas Lady Bugs. Espero poder encontrar lo que busca, y quién sabe, tal vez consiga una nueva montura... Necesito 250x Caparazones de Lady Bug Rotos.
+system.quest.4.check_point.2=Creo que conseguí lo suficiente para el Tío Bill, y él me entregó un caparazón completo. Ahora puedo domar Lady Bugs, y parece que está dispuesto a ayudarme con otras monturas.
+
+## Uncle Bill Store (only on quest completion)
+ui.quest.4.store.no_item=No tienes todos los objetos necesarios o el dinero suficiente para esto. Vuelve cuando lo tengas todo.
+ui.quest.4.msg_accessories=Puedo forjar algunos accesorios. ¿Qué necesitas?
+ui.quest.4.msg_tame_items=Puedo forjar algunos objetos de doma. ¿Qué necesitas?
+
+#########################################################

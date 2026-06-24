@@ -1,0 +1,24 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "§a§lInner Languages v1.0.0",
+		"description": "Pacote de Recursos do servidor Inner World",
+		"uuid": "fe6e71bb-7728-4009-88bd-4c51beca4c82",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 120]
+	},
+    "metadata": {
+        "authors": ["Curse"],
+        "product_type": "addon"
+    },
+    "capabilities": [
+        "pbr"
+    ],
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "756a30ef-f1b4-45f8-80f6-7a9f7c70fa8b",
+			"version": [1, 0, 0]
+		}
+	]
+}

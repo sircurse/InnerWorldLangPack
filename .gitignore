@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Generated packs
+*.zip
+*.mcpack
+*.mcaddon
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
