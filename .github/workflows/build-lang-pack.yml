@@ -33,7 +33,7 @@ jobs:
 
           echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
           echo "tag=v${VERSION}" >> "$GITHUB_OUTPUT"
-          echo "file=Inner_Languages.zip" >> "$GITHUB_OUTPUT"
+          echo "file=InnerLanguagesPack.zip" >> "$GITHUB_OUTPUT"
 
       - name: Update manifest for release
         run: |
