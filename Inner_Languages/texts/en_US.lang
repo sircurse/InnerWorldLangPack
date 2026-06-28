@@ -1131,6 +1131,7 @@ ui.label.is_weekly=Is Weekly?
 ui.label.character=Character
 ui.label.link_character=Link Character
 ui.label.accounts_mgmt=Accounts Management
+ui.label.scroll_of_oblivion=Scroll of Oblivion
 
 
 
@@ -2253,8 +2254,8 @@ system.msg.no_characters_found=§l§cNo characters were found.
 system.msg.twitch_no_cliendid_and_uri=§l§cTwitch OAuth cannot be generated until Client ID and Redirect URI are configured.
 system.msg.auth_response_required=§l§cTwitch authorization response is required.
 system.msg.link_failed=§l§cCould not complete % link.
-
-
+system.msg.skill_reset=§fThis will reset all assigned skill points and mastery points, return them to your available points, and recalculate your character stats.\n\n§cThe item will be consumed only if you confirm.
+system.msg.skill_reset_success=§aSkill points and mastery points reset.
 
 
 

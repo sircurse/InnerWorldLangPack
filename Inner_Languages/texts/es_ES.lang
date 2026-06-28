@@ -1131,6 +1131,7 @@ ui.label.is_weekly=¿Es semanal?
 ui.label.character=Personaje
 ui.label.link_character=Link Personaje
 ui.label.accounts_mgmt=Accounts Management
+ui.label.scroll_of_oblivion=Pergamino del Olvido
 
 
 
@@ -2280,6 +2281,8 @@ system.msg.no_characters_found=§l§cNo se encontraron personajes.
 system.msg.twitch_no_cliendid_and_uri=§l§cNo se puede generar el OAuth de Twitch hasta que se configuren el Client ID y la URI de redirección.
 system.msg.auth_response_required=§l§cLa respuesta de autorización de Twitch es obligatoria.
 system.msg.link_failed=§l§cNo se pudo completar la vinculación con %1.
+system.msg.skill_reset=§fEsto restablecerá todos los puntos de habilidad y puntos de maestría asignados, los devolverá a tus puntos disponibles y recalculará las estadísticas de tu personaje.\n\n§cEl objeto solo se consumirá si confirmas.
+system.msg.skill_reset_success=§aPuntos de habilidad y puntos de maestría restablecidos.
 
 
 
