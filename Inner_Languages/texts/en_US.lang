@@ -1132,6 +1132,7 @@ ui.label.character=Character
 ui.label.link_character=Link Character
 ui.label.accounts_mgmt=Accounts Management
 ui.label.scroll_of_oblivion=Scroll of Oblivion
+ui.label.combat_debug_mode=Debug Combat Mode
 
 
 
