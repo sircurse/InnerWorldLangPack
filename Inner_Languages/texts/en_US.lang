@@ -1188,6 +1188,8 @@ ui.msg.confirm_release=Release?
 
 
 
+
+
 ui.rules_title=SERVER RULES
 ui.rules_blackbg1=The rules on this server must be strictly followed for the proper functioning of the server and coexistence with other players.\n\n\n
 ui.rules_blackbg2=§l§c1)§r You are on a §l§cnon-Vanilla§r server, which means that the server's (physical) resources are dedicated and exclusive to these custom features. Therefore, building resource-intensive farms is prohibited. Constructing farms in private locations (houses) or in unprotected areas (Outer World, Nether, or End) will result in a temporary ban. Persistence may lead to the player's expulsion.\n\n
@@ -2258,7 +2260,7 @@ system.msg.link_failed=§l§cCould not complete % link.
 system.msg.skill_reset=§fThis will reset all assigned skill points and mastery points, return them to your available points, and recalculate your character stats.\n\n§cThe item will be consumed only if you confirm.
 system.msg.skill_reset_success=§aSkill points and mastery points reset.
 
-
+system.msg.logout_block=§cYou are in a fight!
 
 
 
