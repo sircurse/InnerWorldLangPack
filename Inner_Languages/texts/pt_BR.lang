@@ -2283,7 +2283,7 @@ system.msg.link_failed=§l§cNão foi possível concluir a vinculação com a %1
 system.msg.skill_reset=§fIsso irá redefinir todos os pontos de habilidade e pontos de maestria atribuídos, devolvê-los aos seus pontos disponíveis e recalcular os atributos do seu personagem.\n\n§cO item só será consumido se você confirmar.
 system.msg.skill_reset_success=§aPontos de habilidade e pontos de maestria redefinidos.
 
-system.msg.logout_block=§c¡Estás en batalla!
+system.msg.logout_block=§c¡Estás en batalla! Não é possível sair do jogo durante uma luta.
 
 
 

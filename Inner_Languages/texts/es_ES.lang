@@ -2285,7 +2285,7 @@ system.msg.link_failed=§l§cNo se pudo completar la vinculación con %1.
 system.msg.skill_reset=§fEsto restablecerá todos los puntos de habilidad y puntos de maestría asignados, los devolverá a tus puntos disponibles y recalculará las estadísticas de tu personaje.\n\n§cEl objeto solo se consumirá si confirmas.
 system.msg.skill_reset_success=§aPuntos de habilidad y puntos de maestría restablecidos.
 
-system.msg.logout_block=§cYou are in a fight!
+system.msg.logout_block=§cYou are in a fight! No puedes cerrar sesión mientras estás en combate.
 
 
 
