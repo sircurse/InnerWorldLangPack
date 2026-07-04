@@ -2260,7 +2260,8 @@ system.msg.link_failed=§l§cCould not complete % link.
 system.msg.skill_reset=§fThis will reset all assigned skill points and mastery points, return them to your available points, and recalculate your character stats.\n\n§cThe item will be consumed only if you confirm.
 system.msg.skill_reset_success=§aSkill points and mastery points reset.
 
-system.msg.logout_block=§cYou are in a fight! You cannot logout while in fight.
+system.msg.logout_block=§cYou are in combat! You cannot log out while combat is active.
+system.msg.pz_block=§cYou are in combat! You cannot enter a protection zone while combat is active.
 
 
 
