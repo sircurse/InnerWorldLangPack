@@ -2194,6 +2194,7 @@ system.enchantment.learned=§lVocê aprendeu o encantamento §6%1§r.
 system.rune.no_level=§l§cVocê não tem nível suficiente para usar esta runa.
 system.rune.no_class=§l§cEsta runa não é para a sua classe.
 
+system.spell.pz_block=§l§cVocê não pode usar esta magia em uma zona de proteção.
 system.spell.dont_know=§l§cVocê não aprendeu nenhuma magia.
 system.instant_spell.no_level=§l§cVocê não tem nível suficiente para conjurar esta magia.
 system.instant_spell.no_class=§l§cEsta magia não é para a sua classe.

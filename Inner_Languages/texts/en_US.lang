@@ -2172,6 +2172,7 @@ system.enchantment.learned=§lYou learned the enchantment §6%1§r.
 system.rune.no_level=§l§cYou do not have a high enough level to use this rune.
 system.rune.no_class=§l§cThis rune is not for your class.
 
+system.spell.pz_block=§l§cYou cannot use this spell in a protection zone.
 system.spell.dont_know=§l§cYou havent learned any spell yet.
 system.instant_spell.no_level=§l§cYou do not have a high enough level to cast this spell.
 system.instant_spell.no_class=§l§cThis spell is not for your class.
