@@ -2287,6 +2287,8 @@ system.msg.skill_reset_success=§aPontos de habilidade e pontos de maestria rede
 system.msg.logout_block=§cVocê está em combate! Não é possível sair enquanto o combate estiver ativo.
 system.msg.pz_block=§cVocê está em combate! Não é possível entrar em uma zona de proteção enquanto o combate estiver ativo.
 
+system.msg.discord_link=Vinculação da conta InnerWorld solicitada por %1. Responda com confirmar em até 5 minutos para vincular esta conta do Discord.
+
 
 
 

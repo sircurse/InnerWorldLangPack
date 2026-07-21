@@ -2264,6 +2264,8 @@ system.msg.skill_reset_success=§aSkill points and mastery points reset.
 system.msg.logout_block=§cYou are in combat! You cannot log out while combat is active.
 system.msg.pz_block=§cYou are in combat! You cannot enter a protection zone while combat is active.
 
+system.msg.discord_link=InnerWorld account link requested by %1. Reply with confirm within 5 minutes to link this Discord account.
+
 
 
 
