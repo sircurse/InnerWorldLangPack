@@ -926,6 +926,7 @@ action.hint.exit.awp:forest_spirit=Press :_input_key.sneak: to dismount
 ui.label.back=Back
 ui.label.exit=Exit
 ui.label.creative=Creative
+ui.label.spectator=Spectator
 ui.label.cities=Cities
 ui.label.toggle=On/Off
 ui.label.moderator_tool=Moderation

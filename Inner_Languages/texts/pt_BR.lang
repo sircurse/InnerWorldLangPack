@@ -926,6 +926,7 @@ action.hint.exit.awp:forest_spirit=Pressione :_input_key.sneak: para descer.
 ui.label.back=Voltar
 ui.label.exit=Sair
 ui.label.creative=Criativo
+ui.label.spectator=Espectador
 ui.label.cities=Cidades
 ui.label.toggle=On/Off
 ui.label.moderator_tool=Moderação

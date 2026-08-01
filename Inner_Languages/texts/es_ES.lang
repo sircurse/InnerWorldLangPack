@@ -926,6 +926,7 @@ action.hint.exit.awp:forest_spirit=Pulsa :_input_key.sneak: para desmontar
 ui.label.back=Volver
 ui.label.exit=Salir
 ui.label.creative=Creativo
+ui.label.spectator=Espectador
 ui.label.cities=Ciudads
 ui.label.toggle=On/Off
 ui.label.moderator_tool=Moderación
