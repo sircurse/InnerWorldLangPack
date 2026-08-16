@@ -2274,8 +2274,9 @@ system.msg.tutorial.bank1= \n§5****************************************§r\nAdv
 system.msg.tutorial.bank2= \n\n§5****************************************§r\nGold piling up? §aLivinia Moneyinout§r can manage your account and trade some valuable loot.\n§5****************************************§r
 system.msg.tutorial.bank3= \n\n§5****************************************§r\nToo far from the Bank? §aSinin Powdermoney§r sells Magic Dust! Keep some with you to deposit your gold while adventuring.\n§5****************************************§r
 system.msg.tutorial.tavern1= \n§5****************************************§r\nFeeling hungry during your adventure? Stop by the local Tavern for a warm meal. It is always a good idea to carry some food with you!\n§5****************************************§r
-system.msg.tutorial.tavern2= \n\n§5****************************************§r\nThe local Tavern is a great place to stretch your legs, spend the night, and get some rest. The presidential rooms also provide access to an Ender Chest to safely store your belongings.\n§5****************************************§r
+system.msg.tutorial.tavern2= \n\n§5****************************************§r\nThe Tavern is a good place to rest and spend the night. Presidential rooms also include access to an Ender Chest for safe storage.\n§5****************************************§r
 system.msg.tutorial.tavern3= \n\n§5****************************************§r\nLooking for a new mission? At the local Tavern, you may find an Adventurers' Guild leader who knows about quests and missions waiting for you nearby.\n§5****************************************§r
+system.msg.tutorial.blacksmith1= \n§5****************************************§r\nPrepare for your adventure at the Blacksmith. Get a full armor set, shield, and a weapon of your choice.\n§5****************************************§r
 
 
 ui.tutorial.introduction.title=Playable Tutorial
