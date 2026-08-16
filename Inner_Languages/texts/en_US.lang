@@ -2273,6 +2273,9 @@ system.msg.discord_link=InnerWorld account link requested by %1. Reply with conf
 system.msg.tutorial.bank1=Adventures aren't cheap! Luckily, the city helps newcomers. Visit the Bank and talk to §aGeorge Firstmoney§r for a little starting gold.
 system.msg.tutorial.bank2=Gold piling up? §aLivinia Moneyinout§r can manage your account and trade some valuable loot.
 system.msg.tutorial.bank3=Too far from the Bank? §aSinin Powdermoney§r sells Magic Dust! Keep some with you to deposit your gold while adventuring.
+system.msg.tutorial.tavern1=Feeling hungry during your adventure? Stop by the local Tavern for a warm meal. It is always a good idea to carry some food with you!
+system.msg.tutorial.tavern2=The local Tavern is a great place to stretch your legs, spend the night, and get some rest. The presidential rooms also provide access to an Ender Chest to safely store your belongings.
+system.msg.tutorial.tavern3=Looking for a new mission? At the local Tavern, you may find an Adventurers' Guild leader who knows about quests and missions waiting for you nearby.
 
 
 ui.tutorial.introduction.title=Playable Tutorial
