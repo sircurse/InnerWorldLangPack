@@ -2274,6 +2274,7 @@ system.msg.tutorial.bank1=Adventures aren't cheap! Luckily, the city helps newco
 system.msg.tutorial.bank2=Gold piling up? §aLivinia Moneyinout§r can manage your account and trade some valuable loot.
 system.msg.tutorial.bank3=Too far from the Bank? §aSinin Powdermoney§r sells Magic Dust! Keep some with you to deposit your gold while adventuring.
 
+
 ui.tutorial.introduction.title=Playable Tutorial
 ui.tutorial.introduction.content=New to InnerWorld? We'll show you the ropes. Follow the instructions and there'll be a reward waiting for you at the end.
 
