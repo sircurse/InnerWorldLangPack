@@ -2875,9 +2875,9 @@ system.quest.store.desc_part.3=\n\n§fDo you want me to craft §l§6%1§r?
 ###################
 
 #########################################################
-# Quest Name
+## Quest Name
 system.quest.9999.name=Quest Example
-# Quest Description
+## Quest Description
 system.quest.9999.description=%1 requested to help cleaning the city from infested non desirable creatures! Lets clean the city!
 
 ## Root button return messages
@@ -2896,7 +2896,7 @@ ui.quest.9999.msg.1=Great! So please kill 5 rats! Once killed let me know and I 
 ui.quest.9999.msg.2=Thank you so much! Please accept this as reward for helping the city!
 
 
-# Quest log (check points)
+## Quest log (check points)
 system.quest.9999.check_point.1=I have to kill some monsters, lets start cleaning the city now.
 system.quest.9999.check_point.2=I have killed the rats as requested requested, now I will look for him, I might have a good reward!
 system.quest.9999.check_point.3=I helped cleaning the city! What a wanderful prize I got!

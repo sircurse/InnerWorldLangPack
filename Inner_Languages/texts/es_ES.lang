@@ -2912,12 +2912,12 @@ ui.quest.9999.msg.1=¡Genial! Entonces, por favor, mata 5 ratas. Cuando las mate
 ## Complete button
 ui.quest.9999.msg.3=¡Muchas gracias! Por favor, acepta esto como recompensa por ayudar a la ciudad.
 
-# Quest Name
+## Quest Name
 system.quest.9999.name=Ejemplo de Misión
-# Quest Description
+## Quest Description
 system.quest.9999.description=¡%1 pidió ayuda para limpiar la ciudad de criaturas infestadas e indeseables! ¡Vamos a limpiar la ciudad!
 
-# Quest log (check points)
+## Quest log (check points)
 system.quest.9999.check_point.1=Tengo que matar algunos monstruos, vamos a empezar a limpiar la ciudad ahora.
 system.quest.9999.check_point.2=He matado las ratas como se pidió, ahora voy a buscarlo, ¡quizás reciba una buena recompensa!
 system.quest.9999.check_point.3=¡Ayudé a limpiar la ciudad! ¡Qué premio maravilloso he recibido!
