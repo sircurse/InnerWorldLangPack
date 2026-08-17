@@ -1237,6 +1237,10 @@ ui.msg.delete_warning=§cAre you sure you want to delete this character?§r\n§f
 ui.msg.revert_warning=§cThis character has been marked for deletion.§r\n§fYou can revert the deletion until
 ui.msg.confirm_delete_final=§cThis character can be permanently removed, do you want to §lCONFIRM?§r§f\n\nYou can still revert the deletion.
 
+ui.tutorial.introduction.title=Playable Tutorial
+ui.tutorial.introduction.content=New to InnerWorld? We'll show you the ropes. Follow the instructions and there'll be a reward waiting for you at the end.
+ui.tutorial.magic_academy.content=Now that you are properly equipped, you will need a good supply of health potions. Head to the Magic Academy, a black tower located at the end of Azalea Road. There you will find magicians who can sell you §aSmall Health Potions§r. Buy 5 of them.\n\nAzalea Road is close to the world spawn, where your journey began.
+
 ui.text.tamed_permissions_add=Add permissions per player for your tamed Pet and Mount.
 ui.text.tamed_permissions_edit=Edit permissions for this player over your tamed Pets and Mounts.
 
@@ -2268,8 +2272,6 @@ system.msg.pz_block=§cYou are in combat! You cannot enter a protection zone whi
 
 system.msg.discord_link=InnerWorld account link requested by %1. Reply with confirm within 5 minutes to link this Discord account.
 
-
-
 system.msg.tutorial.bank1= \n§5****************************************§r\nAdventures aren't cheap! Luckily, the city helps newcomers. Visit the Bank and talk to §aGeorge Firstmoney§r for a little starting gold.\n§5****************************************§r
 system.msg.tutorial.bank2= \n\n§5****************************************§r\nGold piling up? §aLivinia Moneyinout§r can manage your account and trade some valuable loot.\n§5****************************************§r
 system.msg.tutorial.bank3= \n\n§5****************************************§r\nToo far from the Bank? §aSinin Powdermoney§r sells Magic Dust! Keep some with you to deposit your gold while adventuring.\n§5****************************************§r
@@ -2285,9 +2287,6 @@ system.msg.tutorial.killing_rats2= \n§5****************************************
 
 
 
-ui.tutorial.introduction.title=Playable Tutorial
-ui.tutorial.introduction.content=New to InnerWorld? We'll show you the ropes. Follow the instructions and there'll be a reward waiting for you at the end.
-ui.tutorial.magic_academy.content=Now that you are properly equipped, you will need a good supply of health potions. Head to the Magic Academy, a black tower located at the end of Azalea Road. There you will find magicians who can sell you §aSmall Health Potions§r. Buy 5 of them.\n\nAzalea Road is close to the world spawn, where your journey began.
 
 
 

@@ -1238,6 +1238,10 @@ ui.msg.delete_warning=§cVocê tem certeza que deseja deletar esse personagem?§
 ui.msg.revert_warning=§cEsse personagem foi marcado para remoção.§r\n§fVocê pode reverter a remoção até
 ui.msg.confirm_delete_final=§cEsse personagem poderá ser permanentemente removido, deseja §lCONFIRMAR?§r§f\n\nVocê ainda pode reverter a remoção.
 
+ui.tutorial.introduction.title=Tutorial Jogável
+ui.tutorial.introduction.content=Novo no InnerWorld? Vamos mostrar como tudo funciona. Siga as instruções e haverá uma recompensa esperando por você no final.
+ui.tutorial.magic_academy.content=Agora que você está bem equipado, precisará de uma boa reserva de poções de vida. Vá até a Academia de Magia, uma torre negra localizada no final da Estrada das Azaleias. Lá você encontrará magos que podem vender §aPoções Pequenas de Vida§r. Compre 5 delas.\n\nA Estrada das Azaleias fica perto do spawn do mundo, onde sua jornada começou.
+
 ui.text.tamed_permissions_add=Adicione permissões por jogador para seus Pets e Montarias domesticados.
 ui.text.tamed_permissions_edit=Edite as permissões deste jogador sobre seus Pets e Montarias domesticados.
 
@@ -2290,6 +2294,19 @@ system.msg.logout_block=§cVocê está em combate! Não é possível sair enquan
 system.msg.pz_block=§cVocê está em combate! Não é possível entrar em uma zona de proteção enquanto o combate estiver ativo.
 
 system.msg.discord_link=Vinculação da conta InnerWorld solicitada por %1. Responda com confirmar em até 5 minutos para vincular esta conta do Discord.
+
+system.msg.tutorial.bank1= \n§5****************************************§r\nAventuras não são baratas! Felizmente, a cidade ajuda os recém-chegados. Visite o Banco e fale com §aGeorge Firstmoney§r para conseguir algumas moedas de ouro para começar.\n§5****************************************§r
+system.msg.tutorial.bank2= \n\n§5****************************************§r\nO ouro está se acumulando? §aLivinia Moneyinout§r pode cuidar da sua conta e negociar alguns espólios valiosos.\n§5****************************************§r
+system.msg.tutorial.bank3= \n\n§5****************************************§r\nEstá longe demais do Banco? §aSinin Powdermoney§r vende Pó Mágico! Leve alguns com você para depositar seu ouro durante suas aventuras.\n§5****************************************§r
+system.msg.tutorial.tavern1= \n§5****************************************§r\nSentiu fome durante a aventura? Passe pela Taverna local para uma refeição quente. É sempre uma boa ideia levar um pouco de comida com você!\n§5****************************************§r
+system.msg.tutorial.tavern2= \n\n§5****************************************§r\nA Taverna é um ótimo lugar para descansar e passar a noite. Os quartos presidenciais também dão acesso a um Baú do Ender para guardar seus itens com segurança.\n§5****************************************§r
+system.msg.tutorial.tavern3= \n\n§5****************************************§r\nProcurando uma nova missão? Na Taverna local, você pode encontrar um líder da Guilda dos Aventureiros que conhece missões e tarefas esperando por você nas redondezas.\n§5****************************************§r
+system.msg.tutorial.blacksmith1= \n§5****************************************§r\nNo Ferreiro você pode consertar seus equipamentos e armas danificados.\n§5****************************************§r
+system.msg.tutorial.blacksmith2= \n§5****************************************§r\nMas antes, prepare-se para sua aventura na Loja do Ferreiro. Consiga um conjunto completo de armadura, um escudo e uma arma de sua escolha.\n§5****************************************§r
+system.msg.tutorial.magic_academy1= \n§5****************************************§r\nAqui você pode comprar todos os tipos de poções! Por enquanto, você só precisa de §a5 Small Health Potions§r.\n§5****************************************§r
+system.msg.tutorial.magic_academy2= \n\n§5****************************************§r\nO mestre da Academia de Magia pode ensinar feitiços, mas somente depois que você alcançar o nível 8.\n§5****************************************§r
+system.msg.tutorial.killing_rats1= \n§5****************************************§r\nAgora que você está preparado, é hora da sua primeira batalha! Que tal caçar alguns ratos? Derrote 3 deles para receber sua recompensa!\n§5****************************************§r
+system.msg.tutorial.killing_rats2= \n§5****************************************§r\nExcelente! Você concluiu o tutorial de iniciante e recebeu §ax64 Small Health Potions!§r\n\nLembre-se de que este mundo é enorme, com 7 cidades, dezenas de locais de caça e monstros tão poderosos que até um aventureiro de nível 100 pode ter dificuldades para derrotá-los. Está pronto para o desafio?\n\nMuitos caminhos ainda esperam para ser descobertos, junto com itens raros para coletar e criaturas perigosas para enfrentar. Lembre-se: §ano nível 8 você poderá escolher sua classe§r, e é aí que sua verdadeira jornada para ficar mais forte começa!\n§5****************************************§r
 
 
 
