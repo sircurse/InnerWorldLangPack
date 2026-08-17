@@ -2276,7 +2276,8 @@ system.msg.tutorial.bank3= \n\n§5****************************************§r\nT
 system.msg.tutorial.tavern1= \n§5****************************************§r\nFeeling hungry during your adventure? Stop by the local Tavern for a warm meal. It is always a good idea to carry some food with you!\n§5****************************************§r
 system.msg.tutorial.tavern2= \n\n§5****************************************§r\nThe Tavern is a good place to rest and spend the night. Presidential rooms also include access to an Ender Chest for safe storage.\n§5****************************************§r
 system.msg.tutorial.tavern3= \n\n§5****************************************§r\nLooking for a new mission? At the local Tavern, you may find an Adventurers' Guild leader who knows about quests and missions waiting for you nearby.\n§5****************************************§r
-system.msg.tutorial.blacksmith1= \n§5****************************************§r\nPrepare for your adventure at the Blacksmith. Get a full armor set, shield, and a weapon of your choice.\n§5****************************************§r
+system.msg.tutorial.blacksmith1= \n§5****************************************§r\nOn the Blacksmith you can fix your damaged equipments and weapons.\n§5****************************************§r
+system.msg.tutorial.blacksmith2= \n§5****************************************§r\nBut before, prepare for your adventure at the Blacksmith Store. Get a full armor set, shield, and a weapon of your choice.\n§5****************************************§r
 
 
 ui.tutorial.introduction.title=Playable Tutorial
