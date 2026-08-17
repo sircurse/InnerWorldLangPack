@@ -2282,8 +2282,7 @@ system.msg.tutorial.blacksmith2= \n§5****************************************§
 
 ui.tutorial.introduction.title=Playable Tutorial
 ui.tutorial.introduction.content=New to InnerWorld? We'll show you the ropes. Follow the instructions and there'll be a reward waiting for you at the end.
-ui.tutorial.magic_academy.content=Now that you have all necessary equipment, you will need a good dose of health potion, go to the Black Tower, where you can find magicians able to sell you a §aSmall Health Potion§r, buy 5 of those.
-
+ui.tutorial.magic_academy.content=Now that you are properly equipped, you will need a good supply of health potions. Head to the Magic Academy, a black tower located at the end of Azalea Road. There you will find magicians who can sell you §aSmall Health Potions§r. Buy 5 of them.\n\nAzalea Road is close to the world spawn, where your journey began.
 
 
 
