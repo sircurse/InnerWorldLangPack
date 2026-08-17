@@ -2281,6 +2281,7 @@ system.msg.tutorial.blacksmith2= \n§5****************************************§
 system.msg.tutorial.magic_academy1= \n§5****************************************§r\nHere you can buy all kinds of potions! For now, you only need §a5 Small Health Potions§r.\n§5****************************************§r
 system.msg.tutorial.magic_academy2= \n\n§5****************************************§r\nThe master of the Magic Academy can teach you spells, but only after you reach level 8.\n§5****************************************§r
 system.msg.tutorial.killing_rats1= \n§5****************************************§r\nNow that you are prepared, it is time for your first battle! How about killing some rats? Defeat 3 of them to earn your reward!\n§5****************************************§r
+system.msg.tutorial.killing_rats2= \n§5****************************************§r\nExcellent! You have completed the newbie tutorial and received §ax64 Small Health Potions!§r\n\nKeep in mind that this world is enormous, with 7 cities, dozens of hunting locations, and monsters so powerful that even a level 100 adventurer may struggle to defeat them. Are you ready for the challenge?\n\nMany paths are still waiting to be discovered, along with rare items to collect and dangerous creatures to face. Remember: §aat level 8 you will be able to choose your class§r, and that is when your true journey toward becoming stronger begins!\n§5****************************************§r
 
 
 
