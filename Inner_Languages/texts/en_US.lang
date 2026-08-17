@@ -2278,8 +2278,9 @@ system.msg.tutorial.tavern2= \n\n§5****************************************§r\
 system.msg.tutorial.tavern3= \n\n§5****************************************§r\nLooking for a new mission? At the local Tavern, you may find an Adventurers' Guild leader who knows about quests and missions waiting for you nearby.\n§5****************************************§r
 system.msg.tutorial.blacksmith1= \n§5****************************************§r\nOn the Blacksmith you can fix your damaged equipments and weapons.\n§5****************************************§r
 system.msg.tutorial.blacksmith2= \n§5****************************************§r\nBut before, prepare for your adventure at the Blacksmith Store. Get a full armor set, shield, and a weapon of your choice.\n§5****************************************§r
-system.msg.tutorial.magic_academy1= \n§5****************************************§r\nHere you can buy potions, of any type! By now you need only §a5 Small Health Potions§r.\n§5****************************************§r
-system.msg.tutorial.magic_academy2= \n\n§5****************************************§r\nThe master of the Magic Academy can teach you some spells, but only when you reach level 8.\n§5****************************************§r
+system.msg.tutorial.magic_academy1= \n§5****************************************§r\nHere you can buy all kinds of potions! For now, you only need §a5 Small Health Potions§r.\n§5****************************************§r
+system.msg.tutorial.magic_academy2= \n\n§5****************************************§r\nThe master of the Magic Academy can teach you spells, but only after you reach level 8.\n§5****************************************§r
+system.msg.tutorial.killing_rats1= \n§5****************************************§r\nNow that you are prepared, it is time for your first battle! How about killing some rats? Defeat 3 of them to earn your reward!\n§5****************************************§r
 
 
 
