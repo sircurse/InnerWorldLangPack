@@ -2007,6 +2007,7 @@ system.locked_doors.unlock=§f§oA porta §r%1%2§r§f§o foi destrancada.§r
 system.locked_doors.lock=§f§oA porta §r%1%2§r§f§o foi trancada.§r
 
 system.level_door.door_level=§6Porta de level §l%1.§r
+system.level_door.infinite_level=§cVocê não tem level o suficiente para passar por essa porta.
 system.level_door.no_level=§cVocê precisa de level %1 para passar por essa porta.
 system.required.no_quest=§cVocê não pode completar esta ação.
 system.required.no_item=§cVocê não possui o item necessário para esta ação.

@@ -1986,6 +1986,7 @@ system.locked_doors.lock=§f§oThe door §r%1%2§r§f§o has been locked.§r
 
 
 system.level_door.door_level=§6Level §l%1§r§6 door.§r
+system.level_door.infinite_level=§cYou don't have enough level to pass through this door.
 system.level_door.no_level=§cYou need level %1 to pass through this door.
 system.required.no_quest=§cYou cannot complete this action.
 system.required.no_item=§cYou don't have the required item for this action.

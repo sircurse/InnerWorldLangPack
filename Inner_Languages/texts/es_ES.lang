@@ -2011,6 +2011,7 @@ system.locked_doors.lock=§f§oLa puerta §r%1%2§r§f§o ha sido cerrada con ll
 
 
 system.level_door.door_level=§6Puerta de nivel §l%1.§r
+system.level_door.infinite_level=§cNo tienes nivel necesario para pasar por esta puerta.
 system.level_door.no_level=§cNecesitas nivel %1 para pasar por esta puerta.
 system.required.no_quest=§cNo puedes completar esta acción.
 system.required.no_item=§cNo tienes objetos necesarios para esta acción.
